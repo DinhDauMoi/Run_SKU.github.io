@@ -492,14 +492,15 @@ questionInput.addEventListener("input", function () {
 suggestion.onclick = (event) => {
   if (event.target.tagName === "DIV") {
     const selectedQuestion = event.target.textContent;
-    selectedQuestion.style.fontSize = "100px";
     const selectedAnswer = data.find(
       (item) => item.question === selectedQuestion
     ).answer;
     const formattedAnswer = selectedAnswer.replace(/\$/g, "<br>");
-    formattedAnswer.style.fontSize = "100px";
+
     questionInput.value = selectedQuestion;
     answer.innerHTML = formattedAnswer;
+    selectedQuestion.style.fontSize = "100px";
+    formattedAnswer.style.fontSize = "100px";
     suggestion.style.display = "none";
   }
 };
