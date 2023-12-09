@@ -43,3 +43,23 @@ body{
   margin-left: 20px;
   margin-right: 20px;
 }
+@media all and (max-width: 480px) {
+  .input {
+    font-size: 50px;
+  width: 100%;
+  max-width: 620px;
+  height: 45px;
+  padding: 12px;
+  border-radius: 12px;
+  border: 1.5px solid lightgrey;
+  outline: none;
+  transition: all 0.3s cubic-bezier(0.19, 1, 0.22, 1);
+  box-shadow: 0px 0px 20px -18px;
+  margin: 15px;
+}
+#answer {
+  margin-top: 10px;
+  font-size: 90px;
+}
+
+}
