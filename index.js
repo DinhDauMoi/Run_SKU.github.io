@@ -499,8 +499,6 @@ suggestion.onclick = (event) => {
 
     questionInput.value = selectedQuestion;
     answer.innerHTML = formattedAnswer;
-    selectedQuestion.style.fontSize = "100px";
-    formattedAnswer.style.fontSize = "100px";
     suggestion.style.display = "none";
   }
 };
