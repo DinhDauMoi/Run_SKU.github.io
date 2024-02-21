@@ -116,10 +116,6 @@ const data = [
     question: "Can Tau Kg",
   },
   {
-    answer: "50146",
-    question: "C-Bong Atiso kho Kg",
-  },
-  {
     answer: "50755",
     question: "Muop khia Kg",
   },
@@ -172,10 +168,6 @@ const data = [
     question: "Bi ngoi xanh Kg",
   },
   {
-    answer: "50792",
-    question: "S-Su su bao soi Kg",
-  },
-  {
     answer: "50803",
     question: "Nam bao ngu Kg",
   },
@@ -220,10 +212,6 @@ const data = [
     question: "Dua le kg",
   },
   {
-    answer: "51517",
-    question: "C-Dua luoi Uc kg",
-  },
-  {
     answer: "51520",
     question: "Luu TQ loai2",
   },
@@ -252,10 +240,6 @@ const data = [
     question: "Kiwi L2 kg",
   },
   {
-    answer: "51543",
-    question: "C-Le TQuoc kg",
-  },
-  {
     answer: "51546",
     question: "Mang cut TLan L1 kg",
   },
@@ -266,10 +250,6 @@ const data = [
   {
     answer: "51555",
     question: "Sau rieng giong Thai L1 kg",
-  },
-  {
-    answer: "51557",
-    question: "C-Tao do TQuoc kg",
   },
   {
     answer: "51560",
@@ -328,28 +308,12 @@ const data = [
     question: "Bo sap kg",
   },
   {
-    answer: "51609",
-    question: "C-Dao TQ loai 2 kg",
-  },
-  {
-    answer: "51617",
-    question: "C-Le nhat loai2 kg",
-  },
-  {
     answer: "51622",
     question: "Quyt Uc kg",
   },
   {
-    answer: "51631",
-    question: "C-Quyt TQuoc loaiI kg",
-  },
-  {
     answer: "51632",
     question: "Cam Tquoc kg",
-  },
-  {
-    answer: "51634",
-    question: "C-Hong Uc kg",
   },
   {
     answer: "51654",
@@ -360,10 +324,6 @@ const data = [
     question: "Hong deo kg",
   },
   {
-    answer: "51714",
-    question: "C-Hong kho lat mieng kg",
-  },
-  {
     answer: "51721",
     question: "Buoi da xanh loai-1",
   },
@@ -372,20 +332,12 @@ const data = [
     question: "Buoi duong Tan Trieu kg",
   },
   {
-    answer: "52323",
-    question: "C-Tim cat uop Kg",
-  },
-  {
     answer: "53518",
     question: "Chan ga CNghiep Kg",
   },
   {
     answer: "53520",
     question: "Xuong ga CNghiep ncon Kg",
-  },
-  {
-    answer: "53521",
-    question: "C-Ga CNghiep ncon kg",
   },
   {
     answer: "53524",
@@ -416,10 +368,6 @@ const data = [
     question: "Ca Chep Kg",
   },
   {
-    answer: "55112",
-    question: "C-Ca Nhong tam Kg",
-  },
-  {
     answer: "55127",
     question: "Minh Ca Thu kg-NCC",
   },
@@ -430,14 +378,6 @@ const data = [
   {
     answer: "55197",
     question: "3102028-Ca Gay so che Kg",
-  },
-  {
-    answer: "55208",
-    question: "C-Ca Chet lon uop Kg",
-  },
-  {
-    answer: "55224",
-    question: "C-Ca Trao uop Kg",
   },
   {
     answer: "55225",
@@ -500,10 +440,6 @@ const data = [
     question: "Ca mam nem kg",
   },
   {
-    answer: "57016",
-    question: "C-Cu sen nuoc tom kg",
-  },
-  {
     answer: "57018",
     question: "Kim chi kieu Han Quoc kg",
   },
@@ -560,10 +496,6 @@ const data = [
     question: "Du du nuoc tom kg",
   },
   {
-    answer: "57329",
-    question: "C-Tom kho dat DB L2 kg - BM",
-  },
-  {
     answer: "57331",
     question: "Tom kho lon kg - AH",
   },
@@ -586,10 +518,6 @@ const data = [
   {
     answer: "51839",
     question: "Nho do Uc L1 kg",
-  },
-  {
-    answer: "51556",
-    question: "C-Tao FUJI loai 1",
   },
   {
     answer: "51785",
@@ -628,10 +556,6 @@ const data = [
     question: "KSD-Xao lan uop kg",
   },
   {
-    answer: "57330",
-    question: "C-Tom kho dat DB L3 kg - BM",
-  },
-  {
     answer: "52468",
     question: "Xuong duoi heo kg",
   },
@@ -652,16 +576,8 @@ const data = [
     question: "Nam linh chi nguyen Kg",
   },
   {
-    answer: "57774",
-    question: "C-Cam thao kg",
-  },
-  {
     answer: "50139",
     question: "Hung cay kg",
-  },
-  {
-    answer: "57771",
-    question: "C-Duong thot not kg",
   },
   {
     answer: "50873",
@@ -736,14 +652,6 @@ const data = [
     question: "Sun goi heo-VS990",
   },
   {
-    answer: "54817",
-    question: "S-Ca Nhong so che kg",
-  },
-  {
-    answer: "54819",
-    question: "S-Ca Sao so che kg",
-  },
-  {
     answer: "50207",
     question: "Hanh la kg",
   },
@@ -752,24 +660,12 @@ const data = [
     question: "Suon heo chat-VS990",
   },
   {
-    answer: "54821",
-    question: "S-Ca basa nc bo dau tam uop kg",
-  },
-  {
     answer: "57337",
     question: "Tom kho lon kg - HH",
   },
   {
     answer: "52374",
     question: "Xuong ong heo-VS990",
-  },
-  {
-    answer: "54822",
-    question: "S-Ca Mo lon tam uop kg",
-  },
-  {
-    answer: "54823",
-    question: "S-File Basa tam uop kg",
   },
   {
     answer: "50924",
@@ -786,10 +682,6 @@ const data = [
   {
     answer: "51879",
     question: "Chom chom nhan kg",
-  },
-  {
-    answer: "54824",
-    question: "S-Ca Trao tam uop kg",
   },
   {
     answer: "50925",
@@ -824,14 +716,6 @@ const data = [
     question: "Dau Bo kg",
   },
   {
-    answer: "54825",
-    question: "S-Ca nuc Dloan so che kg",
-  },
-  {
-    answer: "54826",
-    question: "S-Ca sanma tam uop kg",
-  },
-  {
     answer: "50802",
     question: "Nam rom kg",
   },
@@ -842,10 +726,6 @@ const data = [
   {
     answer: "51884",
     question: "Xoai Cat chu L1 kg",
-  },
-  {
-    answer: "54827",
-    question: "S-Ca duoi tam uop kg",
   },
   {
     answer: "51885",
@@ -860,20 +740,8 @@ const data = [
     question: "Mam loc kg",
   },
   {
-    answer: "52472",
-    question: "S-Suon non so che kg-CMT",
-  },
-  {
     answer: "50176",
     question: "Bac Ha Kg",
-  },
-  {
-    answer: "52476",
-    question: "S-Thit cot letheotam uopkg-CMT",
-  },
-  {
-    answer: "54946",
-    question: "S-Ca lu du tam uop kg",
   },
   {
     answer: "50942",
@@ -988,10 +856,6 @@ const data = [
     question: "Thit nong heo xay kg",
   },
   {
-    answer: "52398",
-    question: "C-Pheo non heo kg-NP990",
-  },
-  {
     answer: "52404",
     question: "Tai heo kg-NP990",
   },
@@ -1040,10 +904,6 @@ const data = [
     question: "Bi dao kg",
   },
   {
-    answer: "54837",
-    question: "S-Ca Saba Nhat tam uop kg",
-  },
-  {
     answer: "52385",
     question: "Gio heo rut xuong kg-NP990",
   },
@@ -1062,10 +922,6 @@ const data = [
   {
     answer: "55479",
     question: "File Basa tuoi Kg",
-  },
-  {
-    answer: "56675",
-    question: "S-Bi dao don t.xay SC NCC Kg",
   },
   {
     answer: "50931",
@@ -1144,10 +1000,6 @@ const data = [
     question: "Xuong heo vun-NP990",
   },
   {
-    answer: "11874",
-    question: "S-Bo sap loai 1 kg (1)",
-  },
-  {
     answer: "50180",
     question: "Bong cai trang Kg",
   },
@@ -1172,28 +1024,12 @@ const data = [
     question: "Rau Tan o kg",
   },
   {
-    answer: "52477",
-    question: "S-Suon gia tam uop kg - CMT",
-  },
-  {
     answer: "55536",
     question: "KSD-Muc ong lot uop kg",
   },
   {
-    answer: "11884",
-    question: "S-Xoai cat chu kg (1)",
-  },
-  {
     answer: "50910",
     question: "Ca chua bi Kg",
-  },
-  {
-    answer: "11889",
-    question: "S-Cam Soan loai1 kg (1)",
-  },
-  {
-    answer: "56676",
-    question: "S-Ca chua+thit xay sc NCC Kg",
   },
   {
     answer: "50911",
@@ -1236,20 +1072,12 @@ const data = [
     question: "Tao bi do New Zealand kg",
   },
   {
-    answer: "11595",
-    question: "S-Tao bi xanh My kg (1)",
-  },
-  {
     answer: "56222",
     question: "Tao Jonagold My kg",
   },
   {
     answer: "57038",
     question: "Mam Thai du du ca kg",
-  },
-  {
-    answer: "11563",
-    question: "S-Tao do My kg (1)",
   },
   {
     answer: "52457",
@@ -1266,22 +1094,6 @@ const data = [
   {
     answer: "51925",
     question: "Du du song nguyen trai kg",
-  },
-  {
-    answer: "11557",
-    question: "S-Tao do Tquoc kg (1)",
-  },
-  {
-    answer: "11539",
-    question: "S-Bon bon Thai kg (1)",
-  },
-  {
-    answer: "11515",
-    question: "S-Dua le kg (1)",
-  },
-  {
-    answer: "11514",
-    question: "S-Dua hau do loai 1 kg (1)",
   },
   {
     answer: "51397",
@@ -1334,10 +1146,6 @@ const data = [
   {
     answer: "50992",
     question: "Hanh tay DaLat kg",
-  },
-  {
-    answer: "50049",
-    question: "C-Mang kho kg",
   },
   {
     answer: "57777",
@@ -1424,16 +1232,8 @@ const data = [
     question: "Kho ca Moi tam kg",
   },
   {
-    answer: "57278",
-    question: "C-Kho ca sac buom kg",
-  },
-  {
     answer: "51091",
     question: "Khoai lang mat kg",
-  },
-  {
-    answer: "11575",
-    question: "S-Tao xanh New Zealand kg(1)",
   },
   {
     answer: "51081",
@@ -1442,10 +1242,6 @@ const data = [
   {
     answer: "50866",
     question: "Nam tram Kg",
-  },
-  {
-    answer: "11638",
-    question: "S-Cam Sanh L2 kg(1)",
   },
   {
     answer: "50871",
@@ -1484,10 +1280,6 @@ const data = [
     question: "Khoai lang tim kg-TD",
   },
   {
-    answer: "57313",
-    question: "C-Kho ca Dong tam kg",
-  },
-  {
     answer: "52510",
     question: "Mo lung heo kg-NP990",
   },
@@ -1512,16 +1304,8 @@ const data = [
     question: "Toi Chua ngot Kg",
   },
   {
-    answer: "57255",
-    question: "C-Kho ca Loc lot da kg",
-  },
-  {
     answer: "52461",
     question: "Nong heo kg",
-  },
-  {
-    answer: "50366",
-    question: "C-Banh bo kg",
   },
   {
     answer: "52621",
@@ -1532,32 +1316,8 @@ const data = [
     question: "Du du vang chung kg",
   },
   {
-    answer: "51683",
-    question: "S-Muc ong lot+thit xay NCC Kg",
-  },
-  {
     answer: "57268",
     question: "Kho ca du kg",
-  },
-  {
-    answer: "11397",
-    question: "S-Xoai keo kg(1)",
-  },
-  {
-    answer: "11601",
-    question: "S-Bo sap L2 kg(1)",
-  },
-  {
-    answer: "11493",
-    question: "S-Tao Ambrosia My kg(1)",
-  },
-  {
-    answer: "18658",
-    question: "S-Tao Ambrosia Canada kg(1)",
-  },
-  {
-    answer: "50245",
-    question: "S-Muc ong 20-30+thit xay-HM kg",
   },
   {
     answer: "52470",
@@ -1568,44 +1328,12 @@ const data = [
     question: "Dui bittet bo UC kg-VS990",
   },
   {
-    answer: "10267",
-    question: "S-Tao Fuji My kg(1)",
-  },
-  {
-    answer: "11818",
-    question: "S-Tao vang My kg(1)",
-  },
-  {
-    answer: "10283",
-    question: "S-Tao do My nho kg(1)",
-  },
-  {
     answer: "51395",
     question: "Hat dua khong mau kg",
   },
   {
-    answer: "54835",
-    question: "S-Ca Dieu Hong tam uop700-800g",
-  },
-  {
-    answer: "58531",
-    question: "C-Ga BRAZIL ncon quay - PLH990",
-  },
-  {
-    answer: "58532",
-    question: "C-Canh ga quay kg - PLH990",
-  },
-  {
-    answer: "58533",
-    question: "C-Dui ga quay kg - PLH990",
-  },
-  {
     answer: "58534",
     question: "Chan ga quay kg - PLH990",
-  },
-  {
-    answer: "58535",
-    question: "C-Ga tha vuon quay - PLH990",
   },
   {
     answer: "53069",
@@ -1636,14 +1364,6 @@ const data = [
     question: "Hong don lon kg",
   },
   {
-    answer: "50985",
-    question: "C-Bo RUBY CAKE kg",
-  },
-  {
-    answer: "54814",
-    question: "S-Cha ca that lat kg",
-  },
-  {
     answer: "51771",
     question: "Tao xanh giong Thai kg",
   },
@@ -1662,10 +1382,6 @@ const data = [
   {
     answer: "50889",
     question: "Cu toi Phan Rang kg",
-  },
-  {
-    answer: "57321",
-    question: "C-Tom kho lon kg - BM",
   },
   {
     answer: "51816",
@@ -1744,10 +1460,6 @@ const data = [
     question: "Xuong duoi heo kg-HM",
   },
   {
-    answer: "51763",
-    question: "C-Tao FUJI loai2",
-  },
-  {
     answer: "51795",
     question: "Cam NamPhi loai1 kg",
   },
@@ -1760,24 +1472,8 @@ const data = [
     question: "3109558-Ca Thu quet tam uop kg",
   },
   {
-    answer: "51762",
-    question: "C-Man den TQ loai2",
-  },
-  {
-    answer: "51759",
-    question: "C-Cam TQuoc loai2 kg",
-  },
-  {
-    answer: "51764",
-    question: "C-Quyt An Do kg",
-  },
-  {
     answer: "51765",
     question: "Man xanh Hani kg",
-  },
-  {
-    answer: "51767",
-    question: "C-Nho xanh TQuoc kg",
   },
   {
     answer: "52324",
@@ -1786,10 +1482,6 @@ const data = [
   {
     answer: "50919",
     question: "Muop huong Kg",
-  },
-  {
-    answer: "55757",
-    question: "C-Tho xao lan uop kg",
   },
   {
     answer: "51848",
@@ -1812,76 +1504,16 @@ const data = [
     question: "Minh muc la sach so che Kg",
   },
   {
-    answer: "56679",
-    question: "S-Muc ong20-30 don t.xay sc Kg",
-  },
-  {
-    answer: "56680",
-    question: "S-Muc ong10-15 t.xay sc NCC kg",
-  },
-  {
     answer: "55550",
     question: "Muc la lon co dau kg",
-  },
-  {
-    answer: "57253",
-    question: "C-Kho ca sac nho kg",
-  },
-  {
-    answer: "55397",
-    question: "S-Ca gay nho so che kg",
   },
   {
     answer: "51819",
     question: "Mang cut TLan L2 kg",
   },
   {
-    answer: "57788",
-    question: "C-Muoi kg",
-  },
-  {
-    answer: "58515",
-    question: "C-Ga xe kg",
-  },
-  {
-    answer: "58516",
-    question: "C-Cot let kg",
-  },
-  {
-    answer: "58502",
-    question: "C-Banh xep kg",
-  },
-  {
-    answer: "58517",
-    question: "C-Ga cuc kg",
-  },
-  {
     answer: "53006",
     question: "Thit dui bo kg",
-  },
-  {
-    answer: "57795",
-    question: "C-O mai coc kg",
-  },
-  {
-    answer: "57796",
-    question: "C-O mai mo gung kg",
-  },
-  {
-    answer: "57797",
-    question: "C-O mai me kg",
-  },
-  {
-    answer: "57798",
-    question: "C-O mai chanh kg",
-  },
-  {
-    answer: "57799",
-    question: "C-O mai chum ruot kg",
-  },
-  {
-    answer: "57800",
-    question: "C-O mai tac deo kg",
   },
   {
     answer: "50991",
@@ -1892,20 +1524,12 @@ const data = [
     question: "Ca Dieu Hong 700g-800g",
   },
   {
-    answer: "52348",
-    question: "C-Mo chai heo kg-VS990",
-  },
-  {
     answer: "52368",
     question: "Thit vai heo-VS990",
   },
   {
     answer: "52083",
     question: "Nac vun heo-VS990",
-  },
-  {
-    answer: "51791",
-    question: "C-Luu TQ loai 1",
   },
   {
     answer: "55304",
@@ -1916,36 +1540,16 @@ const data = [
     question: "Mang la Hanoi kg",
   },
   {
-    answer: "52289",
-    question: "C-Da heo kho kg",
-  },
-  {
     answer: "52319",
     question: "Huyet Heo kg",
-  },
-  {
-    answer: "52326",
-    question: "C-Thit dui uop kg",
-  },
-  {
-    answer: "55759",
-    question: "C-Ech xao lan uop kg",
   },
   {
     answer: "51758",
     question: "Cherry My kg",
   },
   {
-    answer: "57301",
-    question: "C-Kho ca thu trang kg",
-  },
-  {
     answer: "54004",
     question: "Dui vit goc tu kg-CP",
-  },
-  {
-    answer: "51780",
-    question: "C-Dao TQ loai 1 kg",
   },
   {
     answer: "51842",
@@ -1954,26 +1558,6 @@ const data = [
   {
     answer: "57507",
     question: "Mi can muoi xa kg",
-  },
-  {
-    answer: "50978",
-    question: "C-PhomaiEMBORG CHEDDARtrang kg",
-  },
-  {
-    answer: "50979",
-    question: "C-Phomai EMBORG CHEDDAR mau kg",
-  },
-  {
-    answer: "50980",
-    question: "C-Phomai EMBORG MOZZARELLA kg",
-  },
-  {
-    answer: "50585",
-    question: "C-Bot nghe kg",
-  },
-  {
-    answer: "55376",
-    question: "C-Minh ca Ngu uop kg",
   },
   {
     answer: "51794",
@@ -1994,10 +1578,6 @@ const data = [
   {
     answer: "51802",
     question: "Dua hau do kg",
-  },
-  {
-    answer: "57764",
-    question: "C-Bot khoai kg",
   },
   {
     answer: "58714",
@@ -2056,24 +1636,12 @@ const data = [
     question: "Ca khoai tam an lien kg",
   },
   {
-    answer: "57340",
-    question: "C-Ca bong tam an lien kg",
-  },
-  {
     answer: "57341",
     question: "Muc tam an lien loai 1 kg",
   },
   {
     answer: "57342",
     question: "Muc tam an lien loai 2 kg",
-  },
-  {
-    answer: "57343",
-    question: "C-Vi ca duoi kg",
-  },
-  {
-    answer: "57344",
-    question: "C-Da ca duoi kg",
   },
   {
     answer: "57345",
@@ -2090,10 +1658,6 @@ const data = [
   {
     answer: "52528",
     question: "Than ngoai heo kg-HM",
-  },
-  {
-    answer: "52538",
-    question: "S-Thit dui heo tam uop kg-HM",
   },
   {
     answer: "52543",
@@ -2120,24 +1684,8 @@ const data = [
     question: "Mong gio heo kg-SMguel990",
   },
   {
-    answer: "57358",
-    question: "C-Muc ong 1nang kg",
-  },
-  {
-    answer: "57359",
-    question: "C-Muc ong 2nang kg",
-  },
-  {
     answer: "50592",
     question: "Ca loc den song kg",
-  },
-  {
-    answer: "57360",
-    question: "C-Hao kho kg",
-  },
-  {
-    answer: "57362",
-    question: "C-Kho ca et kg",
   },
   {
     answer: "51951",
@@ -2160,14 +1708,6 @@ const data = [
     question: "File Basa tuoi kg-TA",
   },
   {
-    answer: "57129",
-    question: "C-Cha ca Basa hap kg-TA",
-  },
-  {
-    answer: "50302",
-    question: "C-Bot nang kg",
-  },
-  {
     answer: "50604",
     question: "Ca dieu hong ngop kg-Tu NCC",
   },
@@ -2178,10 +1718,6 @@ const data = [
   {
     answer: "51728",
     question: "Minh ca bop kg-NCC",
-  },
-  {
-    answer: "57366",
-    question: "C-Kho ca lim kim kg",
   },
   {
     answer: "50677",
@@ -2252,18 +1788,6 @@ const data = [
     question: "Xa xiu quay kg-BTAN990",
   },
   {
-    answer: "51344",
-    question: "C-Banh trang nho kg",
-  },
-  {
-    answer: "51345",
-    question: "C-Bo bo kg",
-  },
-  {
-    answer: "56195",
-    question: "S-Xiu mai trung cut-BaRia",
-  },
-  {
     answer: "56196",
     question: "Ga tha vuon dong lanh kg-SANHA",
   },
@@ -2290,18 +1814,6 @@ const data = [
   {
     answer: "58809",
     question: "Mam xay kg-STung990",
-  },
-  {
-    answer: "56132",
-    question: "C-Kho ca loc kg",
-  },
-  {
-    answer: "56126",
-    question: "C-Kho ca basa kg",
-  },
-  {
-    answer: "56127",
-    question: "C-Kho ca sac kg",
   },
   {
     answer: "51299",
@@ -2336,16 +1848,8 @@ const data = [
     question: "Le mac cop kg",
   },
   {
-    answer: "51384",
-    question: "C-Gio bo kg-ULTH",
-  },
-  {
     answer: "59454",
     question: "Tao mat Busa HQ kg",
-  },
-  {
-    answer: "10904",
-    question: "S-Kho qua trai kg(1)",
   },
   {
     answer: "51390",
@@ -2356,16 +1860,8 @@ const data = [
     question: "Keo dau phong kg",
   },
   {
-    answer: "56165",
-    question: "S-Bo luc lac (fillet) kg",
-  },
-  {
-    answer: "59063",
-    question: "C-Mien dong kg",
-  },
-  {
     answer: "51340",
-    question: "Rau cu qua luoc-PKD990",
+    question: "Rau cu qua luocm-PKD990",
   },
   {
     answer: "51406",
@@ -2378,18 +1874,6 @@ const data = [
   {
     answer: "51491",
     question: "Thit than bo kg-VTCH990",
-  },
-  {
-    answer: "59516",
-    question: "@Dua mam kg-SH990",
-  },
-  {
-    answer: "59517",
-    question: "@Dua mon kg-SH990",
-  },
-  {
-    answer: "59537",
-    question: "C-@Kimchi chua nau laukg-KK990",
   },
   {
     answer: "59327",
@@ -2408,22 +1892,10 @@ const data = [
     question: "Ga ta hap hanh kg-PKD990",
   },
   {
-    answer: "56247",
-    question: "S-Ca tim don thit kg",
-  },
-  {
-    answer: "56248",
-    question: "S-Dau bap don thit kg",
-  },
-  {
     answer: "56252",
     question: "Xoai giong Dai Loan tim kg",
   },
-  {
-    answer: "59275",
-    question: "Gan bo Uc-VS990",
-  },
-  {
+ {
     answer: "56250",
     question: "Tao Ambrosia Newzealand kg",
   },
@@ -2448,36 +1920,12 @@ const data = [
     question: "Cha ca thu uop gia vi kg",
   },
   {
-    answer: "56480",
-    question: "C-Tra xanh huong lai kg",
-  },
-  {
     answer: "53404",
     question: "Banh pho kg-KIEUTRANG",
   },
   {
-    answer: "53391",
-    question: "C-File basa tam uop-Coop",
-  },
-  {
     answer: "53405",
     question: "Tao hong Queen NewZealand kg",
-  },
-  {
-    answer: "56373",
-    question: "@Dui ga goc tu nuong-quay-990",
-  },
-  {
-    answer: "56374",
-    question: "@Canh ga nuong-quay-XTRA990",
-  },
-  {
-    answer: "56376",
-    question: "@Suon nuong-quay-XTRA990",
-  },
-  {
-    answer: "56377",
-    question: "@Heo nuong-quay-XTRA990",
   },
   {
     answer: "56378",
@@ -2524,24 +1972,8 @@ const data = [
     question: "So to kg",
   },
   {
-    answer: "56383",
-    question: "S-Ma dui ga CN tam uop CP kg",
-  },
-  {
-    answer: "56384",
-    question: "S-Canh ga tam uop RF kg",
-  },
-  {
     answer: "53212",
     question: "Dua luoi g.Nhat ruot cam-BHSG",
-  },
-  {
-    answer: "56386",
-    question: "S-Dui goc tu ga CN tam RF kg",
-  },
-  {
-    answer: "56387",
-    question: "S-Ma dui ga tam uop RF kg",
   },
   {
     answer: "53447",
@@ -2550,50 +1982,6 @@ const data = [
   {
     answer: "53448",
     question: "Canh chua dau ca hoi SC",
-  },
-  {
-    answer: "53228",
-    question: "@Oi Dai Loan kg-HN",
-  },
-  {
-    answer: "53229",
-    question: "@Oi Nu Hoang kg-HN",
-  },
-  {
-    answer: "16496",
-    question: "S-Luu My kg(1)",
-  },
-  {
-    answer: "56392",
-    question: "C-Banh hoi Binh Tay kg",
-  },
-  {
-    answer: "56394",
-    question: "@Mam ruoc Vung Tau kg-SH990",
-  },
-  {
-    answer: "56395",
-    question: "@Du du nuoc tom kg-SH990",
-  },
-  {
-    answer: "56396",
-    question: "@Ca phao chay kg-SH990",
-  },
-  {
-    answer: "56397",
-    question: "C-@Kim chi chay kg-SH990",
-  },
-  {
-    answer: "56398",
-    question: "@Kim chi Han Quoc kg-SH990",
-  },
-  {
-    answer: "56399",
-    question: "C-@Dua mam chay kg-SH990",
-  },
-  {
-    answer: "56403",
-    question: "C-@Tai heo chua ngot kg-SH990",
   },
   {
     answer: "53237",
@@ -2620,18 +2008,6 @@ const data = [
     question: "Nem tuoi kg",
   },
   {
-    answer: "13236",
-    question: "S-Tao Breeze Newzealand(1)",
-  },
-  {
-    answer: "13191",
-    question: "S-Tao bi do My nho kg(1)",
-  },
-  {
-    answer: "18662",
-    question: "S-Tao xanh Phap kg(1)",
-  },
-  {
     answer: "52895",
     question: "Ghe say gion kg",
   },
@@ -2650,38 +2026,6 @@ const data = [
   {
     answer: "53248",
     question: "Ca tre khong dau VietGAP kg",
-  },
-  {
-    answer: "56416",
-    question: "S-Thit dui bo(Uc) so che kg",
-  },
-  {
-    answer: "56417",
-    question: "S-Nac dui bo(Uc) so che kg",
-  },
-  {
-    answer: "56418",
-    question: "S-Thit nam bo(Uc) so che kg",
-  },
-  {
-    answer: "56419",
-    question: "S-Nac vai bo(Uc) so che kg",
-  },
-  {
-    answer: "56420",
-    question: "S-Thit bap bo(Uc) so che kg",
-  },
-  {
-    answer: "56421",
-    question: "S-Thit bo xao(bo Uc) so che kg",
-  },
-  {
-    answer: "56422",
-    question: "S-Thit bo(Uc) xay so che kg",
-  },
-  {
-    answer: "11844",
-    question: "S-Nho den Uc co hat kg (1)",
   },
   {
     answer: "56428",
@@ -2712,24 +2056,8 @@ const data = [
     question: "Banh pho kg-BAKHANH",
   },
   {
-    answer: "53656",
-    question: "C-KSD-@Bach tuot CB-BS990",
-  },
-  {
-    answer: "53658",
-    question: "C-KSD-@Trung ca chuon-BS990",
-  },
-  {
     answer: "52785",
     question: "Suon non nuong kg-PKD990",
-  },
-  {
-    answer: "53671",
-    question: "C-Ca com chien gion-NT",
-  },
-  {
-    answer: "53674",
-    question: "C-Chao ca that lat kg coop",
   },
   {
     answer: "56433",
@@ -2770,10 +2098,6 @@ const data = [
   {
     answer: "56443",
     question: "Canh chua+ca",
-  },
-  {
-    answer: "16250",
-    question: "S-Tao Ambrosia Newz.kg(1)",
   },
   {
     answer: "56444",
@@ -2900,18 +2224,6 @@ const data = [
     question: "Gio nac heo kg-ATH",
   },
   {
-    answer: "19318",
-    question: "S-Tao Jazz My kg(1)",
-  },
-  {
-    answer: "16130",
-    question: "S-Tao Envy kg(1)",
-  },
-  {
-    answer: "52276",
-    question: "C-@Turkey Ham-CFF990",
-  },
-  {
     answer: "59003",
     question: "Dua gia chua kg",
   },
@@ -2922,26 +2234,6 @@ const data = [
   {
     answer: "59007",
     question: "Goi ngo sen+ tai heo",
-  },
-  {
-    answer: "52661",
-    question: "C-@Ph.mai SaintNectaire-CFF990",
-  },
-  {
-    answer: "16578",
-    question: "S-Le do vang My kg(1)",
-  },
-  {
-    answer: "53690",
-    question: "C-@Ga 9 mieng kg-Le Boucher",
-  },
-  {
-    answer: "53694",
-    question: "C-@Phao cau ga kg-Le Boucher",
-  },
-  {
-    answer: "53695",
-    question: "@Cam sanh L2 kg-HN",
   },
   {
     answer: "53173",
@@ -3016,14 +2308,6 @@ const data = [
     question: "Tao vang My kg",
   },
   {
-    answer: "57322",
-    question: "C-Tom kho TC kg",
-  },
-  {
-    answer: "56674",
-    question: "S-Bap cai cuon+t.xay sc-NCC kg",
-  },
-  {
     answer: "58506",
     question: "Dau phong nau (luoc)kg",
   },
@@ -3042,14 +2326,6 @@ const data = [
   {
     answer: "57354",
     question: "Kho ca chai kg",
-  },
-  {
-    answer: "52473",
-    question: "S-Ba roi so che kg-CMT",
-  },
-  {
-    answer: "52474",
-    question: "S-Thit dui truocheo uop kg-CMT",
   },
   {
     answer: "51939",
@@ -3104,24 +2380,12 @@ const data = [
     question: "Thit vai heo kg-HM",
   },
   {
-    answer: "52606",
-    question: "C-Gio song kg-LP",
-  },
-  {
     answer: "50405",
     question: "Mang lua xe kho kg",
   },
   {
     answer: "52023",
     question: "Cam Cara Uc kg",
-  },
-  {
-    answer: "56706",
-    question: "S-D.hu chienlon+txay SC-NCC kg",
-  },
-  {
-    answer: "57364",
-    question: "C-Kho ca nham kg",
   },
   {
     answer: "51056",
@@ -3260,24 +2524,12 @@ const data = [
     question: "Cherry Chile kg",
   },
   {
-    answer: "56275",
-    question: "C-Gao nang thom X.HONG kg",
-  },
-  {
     answer: "56276",
     question: "Gao thom ccap X.HONG kg",
   },
   {
-    answer: "51295",
-    question: "C-Thit cha bong th.hang kg",
-  },
-  {
     answer: "51529",
     question: "Ga tha vuon ncon-TPDN990",
-  },
-  {
-    answer: "56292",
-    question: "S-File Basa tam uop kg-TA",
   },
   {
     answer: "58672",
@@ -3320,20 +2572,8 @@ const data = [
     question: "Ba khia tron kg-STung990",
   },
   {
-    answer: "58827",
-    question: "S-D.hu chien+txay phaloc HM kg",
-  },
-  {
     answer: "58834",
     question: "Bap non COOP kg",
-  },
-  {
-    answer: "51386",
-    question: "C-Cha heo  kg-ULTH",
-  },
-  {
-    answer: "11851",
-    question: "S-Tao bi do Chile kg(1)",
   },
   {
     answer: "56148",
@@ -3342,22 +2582,6 @@ const data = [
   {
     answer: "51389",
     question: "Ghe say ngu coc kg",
-  },
-  {
-    answer: "10911",
-    question: "S-Ca chua Kg(1)",
-  },
-  {
-    answer: "10914",
-    question: "S-Dua leo Kg(1)",
-  },
-  {
-    answer: "10927",
-    question: "S-Cu cai trang kg(1)",
-  },
-  {
-    answer: "10930",
-    question: "S-Ca rot Dalat kg(1)",
   },
   {
     answer: "51668",
@@ -3382,10 +2606,6 @@ const data = [
   {
     answer: "56318",
     question: "Ma dui ga CNghiep kg-BH",
-  },
-  {
-    answer: "56164",
-    question: "S-Thit bo xay (thit than) kg",
   },
   {
     answer: "59155",
@@ -3424,10 +2644,6 @@ const data = [
     question: "Xuong bo bo Uc kg",
   },
   {
-    answer: "52086",
-    question: "S-Luon song ncon so che kg",
-  },
-  {
     answer: "51481",
     question: "Lo tai kg-VTCH990",
   },
@@ -3436,64 +2652,8 @@ const data = [
     question: "Mui heo kg-VTCH990",
   },
   {
-    answer: "59524",
-    question: "@Mam ca com kg-SH990",
-  },
-  {
-    answer: "59525",
-    question: "@Mam ca loc kg-SH990",
-  },
-  {
-    answer: "59526",
-    question: "@Mam linh con kg-SH990",
-  },
-  {
-    answer: "59527",
-    question: "@Mam thai co ca kg-SH990",
-  },
-  {
-    answer: "59528",
-    question: "@Mam tom chua kg-SH990",
-  },
-  {
-    answer: "59529",
-    question: "@Ngo sen chua ngot kg-SH990",
-  },
-  {
-    answer: "59530",
-    question: "C-@Toi chua ngot kg-SH990",
-  },
-  {
     answer: "59321",
     question: "Tom the lon song(35-40con/kg)",
-  },
-  {
-    answer: "56239",
-    question: "S-Muc ong lot 10-15+t.xay HM",
-  },
-  {
-    answer: "56338",
-    question: "C-@Gao trang XuanHong kg-XH990",
-  },
-  {
-    answer: "56339",
-    question: "C-@Dau xanh hat kg-XH990",
-  },
-  {
-    answer: "56340",
-    question: "C-@Dau xanh ca co vo kg-XH990",
-  },
-  {
-    answer: "56341",
-    question: "C-@Dau xanh ca k.vo kg-XH990",
-  },
-  {
-    answer: "56342",
-    question: "C-@Dau nanh xa kg-XH990",
-  },
-  {
-    answer: "56343",
-    question: "C-Banh canh bot gao-NGUYENBINH",
   },
   {
     answer: "59333",
@@ -3506,10 +2666,6 @@ const data = [
   {
     answer: "59167",
     question: "Nho den khong hat My L1 kg",
-  },
-  {
-    answer: "56359",
-    question: "C-Hu tiu dai Binh Tay kg",
   },
   {
     answer: "58956",
@@ -3540,14 +2696,6 @@ const data = [
     question: "Canh ga CN tam uop kg",
   },
   {
-    answer: "11939",
-    question: "S-Tao Fuji Nam Phi kg(1)",
-  },
-  {
-    answer: "10909",
-    question: "S-Bi do tron kg(1)",
-  },
-  {
     answer: "53833",
     question: "Chuoi Coop Select LS kg- U&I",
   },
@@ -3576,14 +2724,6 @@ const data = [
     question: "Dau hu don thit kg",
   },
   {
-    answer: "53844",
-    question: "C-Kho qua huu co kg-BDAOG",
-  },
-  {
-    answer: "53845",
-    question: "C-Muop huu co kg-BDAOG",
-  },
-  {
     answer: "52892",
     question: "Kho ca com tam me kg",
   },
@@ -3596,20 +2736,12 @@ const data = [
     question: "Muc xe tam gia vi kg",
   },
   {
-    answer: "52886",
-    question: "C-Tom Bac Cuc kg(90-130con/kg)",
-  },
-  {
     answer: "56496",
     question: "Luu My kg",
   },
   {
     answer: "56435",
     question: "Canh bau+tom kho",
-  },
-  {
-    answer: "53492",
-    question: "C-Mi can kg-Coop",
   },
   {
     answer: "56449",
@@ -3668,18 +2800,6 @@ const data = [
     question: "Hanh la COOP kg",
   },
   {
-    answer: "11337",
-    question: "S-Nho den My khong hat dai(1)",
-  },
-  {
-    answer: "11932",
-    question: "S-Nho den khonghat Chile kg(1)",
-  },
-  {
-    answer: "10076",
-    question: "S-Rau muong Kg(1)",
-  },
-  {
     answer: "59002",
     question: "Cherry vang Newzealand kg",
   },
@@ -3694,10 +2814,6 @@ const data = [
   {
     answer: "52207",
     question: "Bo vien kg-AHT990",
-  },
-  {
-    answer: "13337",
-    question: "S-Quyt Uc Medium kg(1)",
   },
   {
     answer: "52774",
@@ -3772,24 +2888,12 @@ const data = [
     question: "Tao Fuji Han Quoc L1 kg",
   },
   {
-    answer: "53284",
-    question: "@Bi dao xanh VG kg- HN",
-  },
-  {
-    answer: "53285",
-    question: "@Muop huong VG kg-HN",
-  },
-  {
     answer: "52792",
     question: "Ca com chien gion kg-PKD990",
   },
   {
     answer: "52793",
     question: "Ca com chien nuoc mam-PKD990",
-  },
-  {
-    answer: "53657",
-    question: "C-KSD-@Gung chua goi 1kg-BS990",
   },
   {
     answer: "53010",
@@ -3836,14 +2940,6 @@ const data = [
     question: "3351934-Toi Ly Son kg-LH",
   },
   {
-    answer: "53174",
-    question: "C-@Phomai Corsu Vecchiu-CFF990",
-  },
-  {
-    answer: "53175",
-    question: "C-@Phomai S.NectaireLAC CFF990",
-  },
-  {
     answer: "53705",
     question: "Tao xanh My (Organic) kg",
   },
@@ -3868,14 +2964,6 @@ const data = [
     question: "Trung ca den kg-BS990",
   },
   {
-    answer: "53740",
-    question: "C-KSD-@Salad rong bienkg-BS990",
-  },
-  {
-    answer: "53741",
-    question: "C-KSD-@Luon CB(Unagi) kg-BS990",
-  },
-  {
     answer: "53744",
     question: "Ca nuc hoa kg",
   },
@@ -3886,10 +2974,6 @@ const data = [
   {
     answer: "53333",
     question: "Ech xao kg-PKD990",
-  },
-  {
-    answer: "53160",
-    question: "C-@PhomaiF.d'Ambert LAC-CFF990",
   },
   {
     answer: "53752",
@@ -3920,10 +3004,6 @@ const data = [
     question: "Dung heo T Moc kg-NP990",
   },
   {
-    answer: "53339",
-    question: "C-Gao trang XUAN HONG kg",
-  },
-  {
     answer: "53402",
     question: "Banh uot kg-KIEUTRANG",
   },
@@ -3934,34 +3014,6 @@ const data = [
   {
     answer: "53352",
     question: "Ca huong lam sach kg-NCC",
-  },
-  {
-    answer: "53380",
-    question: "C-Ech lsach tam uop-Coop",
-  },
-  {
-    answer: "53381",
-    question: "C-Luon tam uop-Coop",
-  },
-  {
-    answer: "53385",
-    question: "C-Ca huong tam uop-Coop",
-  },
-  {
-    answer: "53386",
-    question: "C-Ca ngu tam uop-Coop",
-  },
-  {
-    answer: "53387",
-    question: "C-Ca bac ma tam uop-Coop",
-  },
-  {
-    answer: "53388",
-    question: "C-Ca nuc tam uop-Coop",
-  },
-  {
-    answer: "53389",
-    question: "C-Ca dieu hong tam uop-Coop",
   },
   {
     answer: "53419",
@@ -4004,14 +3056,6 @@ const data = [
     question: "Dui bittet bo Uc kg",
   },
   {
-    answer: "53445",
-    question: "C-Dau hu trang kg",
-  },
-  {
-    answer: "53446",
-    question: "C-Dau hu chien kg",
-  },
-  {
     answer: "53449",
     question: "Thit tam uop nuong BBQ",
   },
@@ -4038,10 +3082,6 @@ const data = [
   {
     answer: "53456",
     question: "Re atiso kho kg",
-  },
-  {
-    answer: "53502",
-    question: "C-Cha ca basa tuoi kg-Coop",
   },
   {
     answer: "53503",
@@ -4100,10 +3140,6 @@ const data = [
     question: "Dau-luon-xuongcahoikg-AKRHi990",
   },
   {
-    answer: "53654",
-    question: "C-@So do hokkagai-BS990",
-  },
-  {
     answer: "53648",
     question: "Tao Sekai Ichi Nhat kg",
   },
@@ -4128,26 +3164,6 @@ const data = [
     question: "Kho muc con da M(17-20cm)",
   },
   {
-    answer: "53691",
-    question: "C-@Thit gaTender kg- LeBoucher",
-  },
-  {
-    answer: "53692",
-    question: "C-@Xuong dui ga kg-Le Boucher",
-  },
-  {
-    answer: "53693",
-    question: "C-@Dui ga Fille kg-LeBoucher",
-  },
-  {
-    answer: "53698",
-    question: "@Du du vang dai kg-HN",
-  },
-  {
-    answer: "53701",
-    question: "C-@Canh toi cuon kg-Le Boucher",
-  },
-  {
     answer: "53721",
     question: "Jambon kg-NGOCNGA",
   },
@@ -4162,22 +3178,6 @@ const data = [
   {
     answer: "53729",
     question: "Ga ta nguyen con kg-CP",
-  },
-  {
-    answer: "53731",
-    question: "C-Dua leo huu co kg-BDAOG",
-  },
-  {
-    answer: "53732",
-    question: "C-Bi dao huu co kg-BDAOG",
-  },
-  {
-    answer: "53733",
-    question: "C-Bau huu co kg-BDAOG",
-  },
-  {
-    answer: "53736",
-    question: "C-KSD-@Trung ca hoi kg-BS990",
   },
   {
     answer: "53745",
@@ -4214,10 +3214,6 @@ const data = [
   {
     answer: "53771",
     question: "Mo heo T Moc kg-NP990",
-  },
-  {
-    answer: "53802",
-    question: "C-@Co ga k.da kg-Le Boucher",
   },
   {
     answer: "53807",
@@ -4280,10 +3276,6 @@ const data = [
     question: "Dau giong Ha Lan",
   },
   {
-    answer: "56677",
-    question: "S-D.hu chiennho+txay SC-NCC kg",
-  },
-  {
     answer: "55539",
     question: "Dau muc la nho so che kg",
   },
@@ -4300,32 +3292,12 @@ const data = [
     question: "Dau muc nang nho so che Kg",
   },
   {
-    answer: "55543",
-    question: "S-Dau muc so che kg",
-  },
-  {
-    answer: "50188",
-    question: "S-Dua cai chua kg",
-  },
-  {
-    answer: "50189",
-    question: "S-Dua gia chua kg",
-  },
-  {
     answer: "50914",
     question: "Dua leo Kg",
   },
   {
     answer: "50190",
     question: "Gia dau xanh kg",
-  },
-  {
-    answer: "57104",
-    question: "S-Goi ngo sen tron kg",
-  },
-  {
-    answer: "56678",
-    question: "S-Kho qua+txay sc NCC Kg",
   },
   {
     answer: "50915",
@@ -4342,10 +3314,6 @@ const data = [
   {
     answer: "56050",
     question: "Luon ncon lsach kg-NCC",
-  },
-  {
-    answer: "56051",
-    question: "S-Luon lam sach NCC so che kg",
   },
   {
     answer: "50191",
@@ -4388,10 +3356,6 @@ const data = [
     question: "Muc ong 10-15cm Kg",
   },
   {
-    answer: "56681",
-    question: "S-Oc Buu don txaysc+giosong Kg",
-  },
-  {
     answer: "50193",
     question: "Rau den tia Kg",
   },
@@ -4414,10 +3378,6 @@ const data = [
   {
     answer: "52445",
     question: "Tai heo kg",
-  },
-  {
-    answer: "55763",
-    question: "S-Tho so che kg",
   },
   {
     answer: "51910",
@@ -4468,24 +3428,8 @@ const data = [
     question: "Ca SaBa ng.con kg",
   },
   {
-    answer: "11548",
-    question: "C-Dao TQuoc kg (1)",
-  },
-  {
-    answer: "50860",
-    question: "C-Hat duoi uoi kg",
-  },
-  {
     answer: "50861",
     question: "Hat e kg",
-  },
-  {
-    answer: "50867",
-    question: "C-Nam tuyet kg",
-  },
-  {
-    answer: "55159",
-    question: "C-Ca Co so che kg",
   },
   {
     answer: "55153",
@@ -4516,40 +3460,12 @@ const data = [
     question: "Bo vien Kg",
   },
   {
-    answer: "58519",
-    question: "C-Ca com kho kg",
-  },
-  {
-    answer: "58520",
-    question: "C-Bo lat chay kg",
-  },
-  {
-    answer: "58505",
-    question: "C-Ca trung kg",
-  },
-  {
-    answer: "58504",
-    question: "C-Cha ca vuong kg",
-  },
-  {
-    answer: "58507",
-    question: "C-Ba roi cuc kg",
-  },
-  {
-    answer: "51658",
-    question: "C-Hong vuong TQuoc kg",
-  },
-  {
     answer: "50113",
     question: "Mang luoc kg",
   },
   {
     answer: "50134",
     question: "Mang luoc xe kg",
-  },
-  {
-    answer: "51786",
-    question: "C-Tao Hong TQuoc kg",
   },
   {
     answer: "51789",
@@ -4584,16 +3500,8 @@ const data = [
     question: "Thu linh heo-VS990",
   },
   {
-    answer: "52346",
-    question: "C-La phoi heo kg-VS990",
-  },
-  {
     answer: "55392",
     question: "Ca Dua kg",
-  },
-  {
-    answer: "54002",
-    question: "C-Vit tam uop kg",
   },
   {
     answer: "54501",
@@ -4628,40 +3536,12 @@ const data = [
     question: "Man do giong Thai kg",
   },
   {
-    answer: "57068",
-    question: "C-Ca com chay kg",
-  },
-  {
     answer: "57069",
     question: "Hoanh thanh chay kg",
   },
   {
-    answer: "11520",
-    question: "S-Luu TQ loai 2 kg (1)",
-  },
-  {
     answer: "51773",
     question: "Chuoi sap song kg",
-  },
-  {
-    answer: "51921",
-    question: "C-Hong deo TQuoc loai lon kg",
-  },
-  {
-    answer: "54751",
-    question: "S-Ca Phen so che Kg",
-  },
-  {
-    answer: "54752",
-    question: "S-Ca Ngu bo tam uop Kg",
-  },
-  {
-    answer: "54753",
-    question: "S-Ca Chi Vang tam uop Kg",
-  },
-  {
-    answer: "54754",
-    question: "S-Ca Luoi trau tam uop Kg",
   },
   {
     answer: "51922",
@@ -4670,58 +3550,6 @@ const data = [
   {
     answer: "55449",
     question: "Ca Dieu Hong song",
-  },
-  {
-    answer: "54800",
-    question: "S-Ca Do cu so che kg",
-  },
-  {
-    answer: "54801",
-    question: "S-Ca he so che kg",
-  },
-  {
-    answer: "58737",
-    question: "C-Mo gung kg-Tet",
-  },
-  {
-    answer: "58738",
-    question: "C-Mut bi tam kg-Tet",
-  },
-  {
-    answer: "58739",
-    question: "C-Mut cu nang kg-Tet",
-  },
-  {
-    answer: "58740",
-    question: "C-Mut cha la thung kg-Tet",
-  },
-  {
-    answer: "58720",
-    question: "C-Nho My Lion kg-Tet",
-  },
-  {
-    answer: "58730",
-    question: "C-Hong deo loai 1 kg-Tet",
-  },
-  {
-    answer: "58731",
-    question: "C-Hong deo loai 2 kg-Tet",
-  },
-  {
-    answer: "58722",
-    question: "C-Keo me My Ngoc kg-Tet",
-  },
-  {
-    answer: "58711",
-    question: "C-Rau cau DLoan kg-Tet",
-  },
-  {
-    answer: "58713",
-    question: "C-Xi muoi khong hat kg-Tet",
-  },
-  {
-    answer: "57121",
-    question: "C-Mam thai y kg",
   },
   {
     answer: "52462",
@@ -4738,18 +3566,6 @@ const data = [
   {
     answer: "52467",
     question: "Thit xay kg-NCC",
-  },
-  {
-    answer: "56689",
-    question: "S-Muc ong 10-15cm+t.xay NCC kg",
-  },
-  {
-    answer: "56690",
-    question: "S-Bi dao don thit xay NCC kg",
-  },
-  {
-    answer: "56691",
-    question: "S-Ca chua don thit xay NCC kg",
   },
   {
     answer: "56693",
@@ -4784,20 +3600,12 @@ const data = [
     question: "Mia khuc con vo kg",
   },
   {
-    answer: "52479",
-    question: "S-Thit xay sieu thi tam uop kg",
-  },
-  {
     answer: "51935",
     question: "Nho xanh Chile kg",
   },
   {
     answer: "51936",
     question: "Tao bi do NamPhi kg",
-  },
-  {
-    answer: "51937",
-    question: "C-Tao do NamPhi kg",
   },
   {
     answer: "51938",
@@ -4808,20 +3616,8 @@ const data = [
     question: "Nhan Indo kg",
   },
   {
-    answer: "51944",
-    question: "C-Dua xoai non kg",
-  },
-  {
     answer: "58695",
     question: "Ot kho kg",
-  },
-  {
-    answer: "57356",
-    question: "C-Muc la 2nang kg",
-  },
-  {
-    answer: "57357",
-    question: "C-Muc la 1nang kg",
   },
   {
     answer: "57802",
@@ -4888,10 +3684,6 @@ const data = [
     question: "Bap bo kg-SMguel990",
   },
   {
-    answer: "11916",
-    question: "S-Quyt vang ngoai kg (1)",
-  },
-  {
     answer: "50001",
     question: "Than noi trau kg-VS990",
   },
@@ -4902,10 +3694,6 @@ const data = [
   {
     answer: "54571",
     question: "Tom the size 30-40con/kg",
-  },
-  {
-    answer: "50301",
-    question: "C-Bot ca ri kg",
   },
   {
     answer: "52025",
@@ -4988,14 +3776,6 @@ const data = [
     question: "Banh canh sac kg",
   },
   {
-    answer: "51294",
-    question: "C-Kho mieng heo kg",
-  },
-  {
-    answer: "51296",
-    question: "C-Thit cha bong d.biet kg",
-  },
-  {
     answer: "58761",
     question: "Ca ngan kg-PTHIET",
   },
@@ -5008,20 +3788,12 @@ const data = [
     question: "Ca dong kg-PTHIET",
   },
   {
-    answer: "58770",
-    question: "C-Cha ca thu tuoi kg-PTHIET",
-  },
-  {
     answer: "58771",
     question: "Gao thom Jasmine kg",
   },
   {
     answer: "58772",
     question: "Trai vai kg",
-  },
-  {
-    answer: "56211",
-    question: "S-Cot let ram so che kg-NCC",
   },
   {
     answer: "58660",
@@ -5036,26 +3808,10 @@ const data = [
     question: "Ca chua loai so kg",
   },
   {
-    answer: "51326",
-    question: "S-Cu den so che kg",
-  },
-  {
-    answer: "51327",
-    question: "S-Khoai tay Dalat so che kg",
-  },
-  {
-    answer: "52085",
-    question: "S-D.hu chien lon+txay-NCC kg",
-  },
-  {
     answer: "51387",
     question: "File heo(than noi) kg-AHT",
   },
-  {
-    answer: "59272",
-    question: "Bap bo hoa bo Uc-VS990",
-  },
-  {
+ {
     answer: "51411",
     question: "Suon non heo kg-VTCH990",
   },
@@ -5098,46 +3854,6 @@ const data = [
   {
     answer: "51480",
     question: "Mo heo kg-VTCH990",
-  },
-  {
-    answer: "56327",
-    question: "C-Banh pho Binh Tay kg",
-  },
-  {
-    answer: "56328",
-    question: "C-Bun bo Binh Tay kg",
-  },
-  {
-    answer: "56329",
-    question: "C-Bun tuoi Tu Linh kg",
-  },
-  {
-    answer: "56330",
-    question: "C-Bun bo Tu Linh kg",
-  },
-  {
-    answer: "11097",
-    question: "S-Nho den k.hat Nam Phi kg(1)",
-  },
-  {
-    answer: "11934",
-    question: "S-Nho do Nam Phi kg(1)",
-  },
-  {
-    answer: "12002",
-    question: "S-Kiwi vang  L1 kg(1)",
-  },
-  {
-    answer: "15088",
-    question: "S-Bao tu basa tuoi kg(1)",
-  },
-  {
-    answer: "15477",
-    question: "S-Ca basa k.dau kg(1)",
-  },
-  {
-    answer: "56189",
-    question: "S-Dui heo so che-CR",
   },
   {
     answer: "59337",
@@ -5192,10 +3908,6 @@ const data = [
     question: "Mo heo kg-AHT990",
   },
   {
-    answer: "52879",
-    question: "C-@Bo mamcuonPamplie kg-CFF990",
-  },
-  {
     answer: "53209",
     question: "Chuoi Coop Select L1 kg- U&I",
   },
@@ -5228,10 +3940,6 @@ const data = [
     question: "Bi do non baby kg",
   },
   {
-    answer: "11849",
-    question: "S-Thanh long ruot do kg(1)",
-  },
-  {
     answer: "51679",
     question: "Ca tre lam sach VietGAP kg",
   },
@@ -5243,15 +3951,7 @@ const data = [
     answer: "51699",
     question: "Ca loc den lam sach VietGAP kg",
   },
-  {
-    answer: "55624",
-    question: "Than ngoai bo Uc-AHT990",
-  },
-  {
-    answer: "55627",
-    question: "Bap bo hoa bo Uc-AHT990",
-  },
-  {
+ {
     answer: "52767",
     question: "Ca chi vang sot vi kg",
   },
@@ -5288,14 +3988,6 @@ const data = [
     question: "Ca bong cat tam gia vi kg",
   },
   {
-    answer: "53251",
-    question: "@Than vai bo My Steak-KB990",
-  },
-  {
-    answer: "53257",
-    question: "@F-Cam sanh tui luoi L1 kg-TFR",
-  },
-  {
     answer: "56500",
     question: "Muop huong COOP kg",
   },
@@ -5310,10 +4002,6 @@ const data = [
   {
     answer: "52771",
     question: "Thit heo vun kg-AHT990",
-  },
-  {
-    answer: "52912",
-    question: "@Dau than bo Uc kg-KB990",
   },
   {
     answer: "59017",
@@ -5468,14 +4156,6 @@ const data = [
     question: "Kiwi vang ITALY kg",
   },
   {
-    answer: "52683",
-    question: "C-@Ph.mai Danablu kg-CFF990",
-  },
-  {
-    answer: "59599",
-    question: "C-@Ca trich ep trung-BS990",
-  },
-  {
     answer: "53143",
     question: "Muc ngao me kg-PKD990",
   },
@@ -5496,60 +4176,12 @@ const data = [
     question: "Tra lai TIN NGHIA kg",
   },
   {
-    answer: "11119",
-    question: "S-Nho do PeRu kg(1)",
-  },
-  {
-    answer: "11948",
-    question: "S-Nho xanh k.hat NamPhi kg(1)",
-  },
-  {
-    answer: "11924",
-    question: "S-Tao bi do My dac biet(1)",
-  },
-  {
-    answer: "18664",
-    question: "S-Tao Empire My kg(1)",
-  },
-  {
-    answer: "18902",
-    question: "S-Tao Pacific Newzealand kg(1)",
-  },
-  {
-    answer: "18909",
-    question: "S-Nho do k.hat NamPhi(1)",
-  },
-  {
     answer: "53161",
     question: "Xuong va+Xg.mat kien kg-VS990",
   },
   {
     answer: "52807",
     question: "Tao Pink New Zealand kg",
-  },
-  {
-    answer: "53164",
-    question: "C-Nho My Coop L2 (kg)-SUNDO",
-  },
-  {
-    answer: "53309",
-    question: "C-@Thit ga catlat kg-LeBoucher",
-  },
-  {
-    answer: "53310",
-    question: "C-@Canh ga 2khuc kg-Le Boucher",
-  },
-  {
-    answer: "53312",
-    question: "C-@Dau co ga TV kg-Le Boucher",
-  },
-  {
-    answer: "53313",
-    question: "C-@Xuong sungaCN kg-Le Boucher",
-  },
-  {
-    answer: "53315",
-    question: "C-@Chan ga TV kg-Leboucher",
   },
   {
     answer: "53171",
@@ -5594,10 +4226,6 @@ const data = [
   {
     answer: "53332",
     question: "Banh uot Thanh Tri kg-PKD990",
-  },
-  {
-    answer: "53178",
-    question: "C-@Phomai Pres.Raclette-CFF990",
   },
   {
     answer: "53191",
@@ -5648,20 +4276,8 @@ const data = [
     question: "Dua mam chay kg",
   },
   {
-    answer: "55190",
-    question: "C-Dau ca Chem so che kg",
-  },
-  {
     answer: "57053",
     question: "Mam ruoc VTau kg",
-  },
-  {
-    answer: "11527",
-    question: "S-Tao hong kg (1)",
-  },
-  {
-    answer: "11556",
-    question: "S-Tao FUJI loai 1 kg (1)",
   },
   {
     answer: "57063",
@@ -5672,24 +4288,12 @@ const data = [
     question: "Suon non chay kg",
   },
   {
-    answer: "57254",
-    question: "C-Kho sac lon kg",
-  },
-  {
     answer: "51645",
     question: "Man Com kg",
   },
   {
     answer: "51630",
     question: "Dao My kg",
-  },
-  {
-    answer: "51768",
-    question: "C-Xi muoi khong hat kg",
-  },
-  {
-    answer: "57782",
-    question: "C-Tao do kho kg",
   },
   {
     answer: "51782",
@@ -5702,10 +4306,6 @@ const data = [
   {
     answer: "57310",
     question: "Kho ca thieu tam ot kg",
-  },
-  {
-    answer: "57046",
-    question: "C-Mam ca sac hop",
   },
   {
     answer: "56667",
@@ -5746,10 +4346,6 @@ const data = [
   {
     answer: "51569",
     question: "Dau xanh kg",
-  },
-  {
-    answer: "57763",
-    question: "C-Bot bang kg",
   },
   {
     answer: "57768",
@@ -5856,48 +4452,12 @@ const data = [
     question: "Sun goi heo-NP990",
   },
   {
-    answer: "11842",
-    question: "S-Nho xanh Uc kg (1)",
-  },
-  {
-    answer: "11839",
-    question: "S-Nho do Uc loai 1 kg (1)",
-  },
-  {
-    answer: "11577",
-    question: "S-Nho den khong hat My kg (1)",
-  },
-  {
-    answer: "11846",
-    question: "S-Nho do Chile kg (1)",
-  },
-  {
-    answer: "11622",
-    question: "S-Quyt Uc kg (1)",
-  },
-  {
     answer: "51858",
     question: "Nho do Ba Moi kg",
   },
   {
     answer: "55450",
     question: "Ca Chim den kg",
-  },
-  {
-    answer: "54808",
-    question: "S-Ca ngao so che kg",
-  },
-  {
-    answer: "54810",
-    question: "S-Ca ho tam uop kg",
-  },
-  {
-    answer: "54811",
-    question: "S-Ca do da so che kg",
-  },
-  {
-    answer: "54812",
-    question: "S-Ca thu ao so che kg",
   },
   {
     answer: "51862",
@@ -5916,18 +4476,6 @@ const data = [
     question: "Cu cai trang kg",
   },
   {
-    answer: "11860",
-    question: "S-Cam My loai 1 kg (1)",
-  },
-  {
-    answer: "11865",
-    question: "S-Chuoi su kg (1)",
-  },
-  {
-    answer: "11868",
-    question: "S-Long mut kg (1)",
-  },
-  {
     answer: "53567",
     question: "Ga CNghiep bong Kg - CP",
   },
@@ -5940,16 +4488,8 @@ const data = [
     question: "Tom kho trung kg",
   },
   {
-    answer: "51900",
-    question: "C-Man do TQuoc kg",
-  },
-  {
     answer: "52421",
     question: "Thit dui heo kg",
-  },
-  {
-    answer: "54831",
-    question: "S-Minh Ca Loc Bong kdau sc kg",
   },
   {
     answer: "51856",
@@ -5958,14 +4498,6 @@ const data = [
   {
     answer: "54838",
     question: "Ca chem nho tuoi kg",
-  },
-  {
-    answer: "11793",
-    question: "S-Quyt Thai kg (1)",
-  },
-  {
-    answer: "11554",
-    question: "S-Quyt duong loai2 kg (1)",
   },
   {
     answer: "52454",
@@ -6020,18 +4552,6 @@ const data = [
     question: "Cha ca chien kg",
   },
   {
-    answer: "54839",
-    question: "S-Ca ngan nho so che kg",
-  },
-  {
-    answer: "56696",
-    question: "S-Kho qua don cha ca thu kg",
-  },
-  {
-    answer: "56688",
-    question: "S-D.hu chien nho+t.xay-NCC kg",
-  },
-  {
     answer: "52452",
     question: "Da mo vun heo kg-VS990",
   },
@@ -6048,10 +4568,6 @@ const data = [
     question: "Ca cam lon kg",
   },
   {
-    answer: "54766",
-    question: "S-Minh CaThu sche kg(bo set 1)",
-  },
-  {
     answer: "55422",
     question: "Ca Ngu bo Kg",
   },
@@ -6064,52 +4580,8 @@ const data = [
     question: "Ca Bac Ma kg",
   },
   {
-    answer: "54949",
-    question: "S-Ca ro phi so che kg-NCC",
-  },
-  {
-    answer: "54757",
-    question: "S-Ca Duc tam uop Kg",
-  },
-  {
     answer: "50216",
     question: "La lot kg",
-  },
-  {
-    answer: "54759",
-    question: "S-Ca Du tam uop Kg",
-  },
-  {
-    answer: "54760",
-    question: "S-Ca Bong do so che Kg",
-  },
-  {
-    answer: "54765",
-    question: "S-Ca Tre tam uop Kg",
-  },
-  {
-    answer: "54767",
-    question: "S-Ca Ro nho so che Kg",
-  },
-  {
-    answer: "54768",
-    question: "S-Ca Nuc tam uop Kg",
-  },
-  {
-    answer: "54769",
-    question: "S-Ca Ngan lon tam uop Kg",
-  },
-  {
-    answer: "54770",
-    question: "S-Ca bong Mu tam uop Kg",
-  },
-  {
-    answer: "54774",
-    question: "S-Ca Loc xe tam uop kg",
-  },
-  {
-    answer: "54775",
-    question: "S-Ca loc den tam uop kg",
   },
   {
     answer: "54776",
@@ -6122,10 +4594,6 @@ const data = [
   {
     answer: "55438",
     question: "Ca Ngan lon Kg",
-  },
-  {
-    answer: "54778",
-    question: "S-Ca huong (Dong)tam uop kg",
   },
   {
     answer: "52487",
@@ -6160,40 +4628,12 @@ const data = [
     question: "Than ngoai bo kg-TPDN990",
   },
   {
-    answer: "54782",
-    question: "C-Ca co so che kg",
-  },
-  {
     answer: "53093",
     question: "Nam bo kg-TPDN990",
   },
   {
-    answer: "54783",
-    question: "S-Ca chim den tam uop kg",
-  },
-  {
-    answer: "54785",
-    question: "C-Ca Chem lon so che kg",
-  },
-  {
-    answer: "58016",
-    question: "C-Banh trang xa kg",
-  },
-  {
     answer: "55443",
     question: "Ca Loc xe kg",
-  },
-  {
-    answer: "54789",
-    question: "S-Ca Chem nho tam uop Kg",
-  },
-  {
-    answer: "54790",
-    question: "S-Ca Bong Tuong so che Kg",
-  },
-  {
-    answer: "54791",
-    question: "S-Ca Bong trung tam uop kg",
   },
   {
     answer: "51956",
@@ -6224,10 +4664,6 @@ const data = [
     question: "Dui ga goc tu NK kg",
   },
   {
-    answer: "58706",
-    question: "C-Mu gon kg",
-  },
-  {
     answer: "58705",
     question: "Mu trom kg",
   },
@@ -6252,20 +4688,8 @@ const data = [
     question: "Thit heo vun kg-HM",
   },
   {
-    answer: "52537",
-    question: "S-Suon non tam uop kg-HM",
-  },
-  {
     answer: "52539",
     question: "Thit xay kg-HM",
-  },
-  {
-    answer: "56701",
-    question: "S-Kho qua+Txay phaloc-HM Kg",
-  },
-  {
-    answer: "56702",
-    question: "S-Bi dao+txay pha loc-HM kg",
   },
   {
     answer: "57371",
@@ -6312,20 +4736,8 @@ const data = [
     question: "Tom the kg (41-50 con/kg)",
   },
   {
-    answer: "50966",
-    question: "S-Bi do tron sc kg",
-  },
-  {
-    answer: "50967",
-    question: "S-Bi xanh(dao)sc kg",
-  },
-  {
     answer: "50990",
     question: "Khoai tay DaLat kg",
-  },
-  {
-    answer: "56712",
-    question: "S-Bap cai cuon+txay ploc-HM Kg",
   },
   {
     answer: "50288",
@@ -6338,10 +4750,6 @@ const data = [
   {
     answer: "50297",
     question: "Ga tha vuon nguyen con - kg",
-  },
-  {
-    answer: "50304",
-    question: "C-Tom kho lon kg-PNga",
   },
   {
     answer: "52016",
@@ -6358,14 +4766,6 @@ const data = [
   {
     answer: "50270",
     question: "Hanh tim Vinh Chau xa kg",
-  },
-  {
-    answer: "50445",
-    question: "S-Bong cai cuon gio song kg",
-  },
-  {
-    answer: "50444",
-    question: "S-Kho qua nhoi ca that lat kg",
   },
   {
     answer: "50284",
@@ -6408,20 +4808,8 @@ const data = [
     question: "Tao Fuji New Zealand dbiet kg",
   },
   {
-    answer: "51334",
-    question: "S-Muop dang+t.xay phaloc-HM Kg",
-  },
-  {
     answer: "51306",
     question: "Ca chua giong Ha Lan kg",
-  },
-  {
-    answer: "51495",
-    question: "C-Tom kho SONGHUNG L1 kg",
-  },
-  {
-    answer: "51496",
-    question: "C-Tom kho SONGHUNG L2 kg",
   },
   {
     answer: "51498",
@@ -6442,10 +4830,6 @@ const data = [
   {
     answer: "56188",
     question: "Tao Sonya NewZealand kg",
-  },
-  {
-    answer: "10055",
-    question: "S-Cai bo xoi Kg (1)",
   },
   {
     answer: "58659",
@@ -6496,14 +4880,6 @@ const data = [
     question: "Minh ca hoi kg",
   },
   {
-    answer: "59065",
-    question: "C-Dau phong non kg",
-  },
-  {
-    answer: "59068",
-    question: "C-Nui sao kg",
-  },
-  {
     answer: "59127",
     question: "Cai be xanh baby kg",
   },
@@ -6520,92 +4896,13 @@ const data = [
     question: "Tao mat Busa HQ bao goi kg",
   },
   {
-    answer: "15997",
-    question: "S-Tao Pink My kg(1)",
-  },
-  {
-    answer: "16222",
-    question: "S-Tao Jonagold My kg(1)",
-  },
-  {
-    answer: "19332",
-    question: "S-Tao Pinata My kg(1)",
-  },
-  {
-    answer: "15402",
-    question: "S-Ca com lsach kg(1)",
-  },
-  {
-    answer: "15441",
-    question: "S-Ca mo nho kg(1)",
-  },
-  {
-    answer: "15437",
-    question: "S-Ca nuc kg(1)",
-  },
-  {
-    answer: "10180",
-    question: "S-Bong cai trang kg(1)",
-  },
-  {
     answer: "56289",
     question: "Khe ngot giong Thai kg",
   },
-  {
-    answer: "59277",
-    question: "Xuong ong bo Uc-VS990",
-  },
-  {
-    answer: "56298",
-    question: "S-Nac dui bo sche kg-Vissan",
-  },
-  {
-    answer: "56347",
-    question: "C-Ca mu do ncon kg",
-  },
-  {
-    answer: "56331",
-    question: "C-Bun tuoi DTSINH kg",
-  },
+
   {
     answer: "58873",
     question: "Bong cai xanh COOP kg",
-  },
-  {
-    answer: "19167",
-    question: "S-Nho den khonghat My L1 kg(1)",
-  },
-  {
-    answer: "10757",
-    question: "S-Ca tim Kg(1)",
-  },
-  {
-    answer: "10177",
-    question: "S-Bap cai tim Kg(1)",
-  },
-  {
-    answer: "10783",
-    question: "S-Bau Kg(1)",
-  },
-  {
-    answer: "10907",
-    question: "S-Bi dao kg(1)",
-  },
-  {
-    answer: "10059",
-    question: "S-Cai ngot Kg(1)",
-  },
-  {
-    answer: "10174",
-    question: "S-Cai be xanh kg(1)",
-  },
-  {
-    answer: "10052",
-    question: "S-Rau Bo ngot Kg(1)",
-  },
-  {
-    answer: "11915",
-    question: "S-Le nau My kg(1)",
   },
   {
     answer: "59044",
@@ -6656,18 +4953,6 @@ const data = [
     question: "Xuong duoi heo kg-THCT990",
   },
   {
-    answer: "11922",
-    question: "S-Nho xanh khong hat kg(1)",
-  },
-  {
-    answer: "16008",
-    question: "S-Le vang do Nam Phi kg (1)",
-  },
-  {
-    answer: "19082",
-    question: "S-Tao Jazz NewZealand kg (1)",
-  },
-  {
     answer: "52190",
     question: "Cam duong (quyt Tien Vua) kg",
   },
@@ -6716,18 +5001,6 @@ const data = [
     question: "Thit bo xay kg-AHT990",
   },
   {
-    answer: "18803",
-    question: "S-Tao Kiku Newzealand kg(1)",
-  },
-  {
-    answer: "19168",
-    question: "S-Nho xanh k.hat My L1 kg(1)",
-  },
-  {
-    answer: "11730",
-    question: "S-Dua hau k.hat kg(1)",
-  },
-  {
     answer: "52789",
     question: "Ca dieu hong kho kg-PKD990",
   },
@@ -6746,10 +5019,6 @@ const data = [
   {
     answer: "52740",
     question: "Xoi nuoc cot dua-PKD990",
-  },
-  {
-    answer: "19166",
-    question: "S-Nho do khong hat My L1 kg(1)",
   },
   {
     answer: "53242",
@@ -6824,10 +5093,6 @@ const data = [
     question: "Nho den k.hat Nam Phi kg",
   },
   {
-    answer: "51100",
-    question: "C-Keo theo leo kg",
-  },
-  {
     answer: "51108",
     question: "Mut me say kg",
   },
@@ -6847,11 +5112,7 @@ const data = [
     answer: "51116",
     question: "Xoi dau xanh-PKD990",
   },
-  {
-    answer: "51117",
-    question: "Xoi gac-PKD990",
-  },
-  {
+ {
     answer: "51118",
     question: "Mang cau Tay Ninh L1 kg",
   },
@@ -6900,22 +5161,6 @@ const data = [
     question: "Bao tu heo pha lau kg-PKD990",
   },
   {
-    answer: "51148",
-    question: "C-Kho ruoc rang kg",
-  },
-  {
-    answer: "51151",
-    question: "C-Kho muc co da xe tam nmam kg",
-  },
-  {
-    answer: "10646",
-    question: "S-Ca tre ls kdau tamuop kg",
-  },
-  {
-    answer: "51156",
-    question: "S-Ca Huynh de ls tam uop kg",
-  },
-  {
     answer: "51158",
     question: "Mam Thai dua gang kg",
   },
@@ -6924,28 +5169,12 @@ const data = [
     question: "Mam ruoc kg",
   },
   {
-    answer: "51160",
-    question: "C-Mam ca gio kg",
-  },
-  {
     answer: "51162",
     question: "Ga ac 2con/bich(kg)",
   },
   {
-    answer: "51181",
-    question: "S-Tom the lon cat dau kg",
-  },
-  {
     answer: "51182",
     question: "Cha cua be kg",
-  },
-  {
-    answer: "51183",
-    question: "C-Gio bo kg",
-  },
-  {
-    answer: "51184",
-    question: "C-Cha bo kg",
   },
   {
     answer: "51686",
@@ -6988,10 +5217,6 @@ const data = [
     question: "Kiwi xanh Chile kg",
   },
   {
-    answer: "51511",
-    question: "S-D.hu lon+txay phaloc-HM kg",
-  },
-  {
     answer: "51519",
     question: "Uc ga cong nghiep kg",
   },
@@ -7010,18 +5235,6 @@ const data = [
   {
     answer: "59274",
     question: "Thit bo Uc xay-VS990",
-  },
-  {
-    answer: "59276",
-    question: "Dam mui bo Uc-VS990",
-  },
-  {
-    answer: "59278",
-    question: "Xuong bo bo Uc-VS990",
-  },
-  {
-    answer: "59279",
-    question: "Mo bo Uc-VS990",
   },
   {
     answer: "59282",
@@ -7068,10 +5281,6 @@ const data = [
     question: "Cherry Canada kg",
   },
   {
-    answer: "53202",
-    question: "C-@Canh gaCNghiep kg-Leboucher",
-  },
-  {
     answer: "56379",
     question: "Banh canh kg-KTRANG",
   },
@@ -7090,10 +5299,6 @@ const data = [
   {
     answer: "51648",
     question: "Bap hoa bo kg-VS990",
-  },
-  {
-    answer: "58015",
-    question: "C-Banh trang loai 1 kg",
   },
   {
     answer: "58810",
@@ -7132,10 +5337,6 @@ const data = [
     question: "Dua nu xanh kg-STung990",
   },
   {
-    answer: "58828",
-    question: "S-D.hu chienlon+txay SC NCC kg",
-  },
-  {
     answer: "59088",
     question: "Muc la dai duong kg",
   },
@@ -7144,52 +5345,8 @@ const data = [
     question: "Le nau My kg",
   },
   {
-    answer: "50639",
-    question: "C-Mut chum ruot kg",
-  },
-  {
-    answer: "57107",
-    question: "C-Tuong hot xay kg",
-  },
-  {
-    answer: "58021",
-    question: "C-Chocolate hat de kg-Tet",
-  },
-  {
-    answer: "58022",
-    question: "C-Chocolate bong hong kg",
-  },
-  {
-    answer: "58023",
-    question: "C-Keo deo bap kg",
-  },
-  {
-    answer: "57108",
-    question: "C-Pate gan kg",
-  },
-  {
-    answer: "57110",
-    question: "C-Jambon kg",
-  },
-  {
-    answer: "57112",
-    question: "C-Cha que ong kg",
-  },
-  {
-    answer: "57114",
-    question: "C-Cha lua nong kg",
-  },
-  {
-    answer: "57790",
-    question: "C-Xi muoi kg",
-  },
-  {
     answer: "59116",
     question: "Duoi ca thu kg",
-  },
-  {
-    answer: "56212",
-    question: "S-Bao tu basa so che kg",
   },
   {
     answer: "51709",
@@ -7200,16 +5357,8 @@ const data = [
     question: "Quay thuc pham kho-TAMKY990",
   },
   {
-    answer: "51715",
-    question: "S-Ca co lsach tam kg",
-  },
-  {
     answer: "51300",
     question: "Khoai mi hap nuoc dua-VTau990",
-  },
-  {
-    answer: "51298",
-    question: "C-Khoai lang chien kg-VTau990",
   },
   {
     answer: "53296",
@@ -7224,28 +5373,8 @@ const data = [
     question: "Heo sua quay tu 10kg",
   },
   {
-    answer: "52032",
-    question: "S-Nhan cha gio+txay sc-NCC kg",
-  },
-  {
     answer: "52036",
     question: "Vit tuoi nguyen con kg-Vswan",
-  },
-  {
-    answer: "57109",
-    question: "C-Xuc xich toi kg",
-  },
-  {
-    answer: "59515",
-    question: "C-@Dua nu chua ngot kg-SH990",
-  },
-  {
-    answer: "59534",
-    question: "C-@Kimchi su hao kg-KK990",
-  },
-  {
-    answer: "59546",
-    question: "C-@Ca keo rim kg-KK990",
   },
   {
     answer: "52453",
@@ -7264,14 +5393,6 @@ const data = [
     question: "Cu kieu tuoi lam sach kg",
   },
   {
-    answer: "51548",
-    question: "C-Dao TQuoc kg",
-  },
-  {
-    answer: "51605",
-    question: "C-Man den TQuoc loai1",
-  },
-  {
     answer: "51638",
     question: "Cam sanh kg",
   },
@@ -7280,28 +5401,12 @@ const data = [
     question: "Ca Loc den ncon l.sach kg-NCC",
   },
   {
-    answer: "11501",
-    question: "S-Buoi nam roi loai 2 kg (1)",
-  },
-  {
     answer: "53026",
     question: "Bo kho uop san co da",
   },
   {
-    answer: "55193",
-    question: "C-Duoi ca tre uop kg",
-  },
-  {
     answer: "55315",
     question: "Ca Mang so che kg",
-  },
-  {
-    answer: "55517",
-    question: "C-Muc ong nho uop kg",
-  },
-  {
-    answer: "55755",
-    question: "C-Ech uop gia vi kg",
   },
   {
     answer: "56528",
@@ -7316,28 +5421,8 @@ const data = [
     question: "Kho ca Keo kg",
   },
   {
-    answer: "50053",
-    question: "C-Cai be trang kg",
-  },
-  {
     answer: "52041",
     question: "Rau cau  cac loai kg-LX990",
-  },
-  {
-    answer: "56509",
-    question: "C-Tim gan cat xao kg",
-  },
-  {
-    answer: "57503",
-    question: "C-Tuong hot kg",
-  },
-  {
-    answer: "56030",
-    question: "S-Ba khia tron AL kg",
-  },
-  {
-    answer: "51649",
-    question: "C-Hong vuong My kg",
   },
   {
     answer: "56240",
@@ -7348,32 +5433,8 @@ const data = [
     question: "Mit Thai nguyen trai kg",
   },
   {
-    answer: "56214",
-    question: "S-Kho qua don cha ca basa kg",
-  },
-  {
-    answer: "56215",
-    question: "S-Dau hu don cha ca basa kg",
-  },
-  {
-    answer: "57012",
-    question: "C-Cha ca Basa tuoi kg",
-  },
-  {
     answer: "51337",
     question: "Nho den k.hat ngon tay My kg",
-  },
-  {
-    answer: "51230",
-    question: "C-Bot gao xa kg",
-  },
-  {
-    answer: "54514",
-    question: "C-Tom vien kg",
-  },
-  {
-    answer: "54515",
-    question: "C-Tom hap kg",
   },
   {
     answer: "51339",
@@ -7412,44 +5473,8 @@ const data = [
     question: "Sua soi kg",
   },
   {
-    answer: "56227",
-    question: "C-Kieu chua ngot COOP kg-SGF",
-  },
-  {
-    answer: "57115",
-    question: "C-Mam sac khong xuong kg",
-  },
-  {
-    answer: "57119",
-    question: "C-Mam ca loc khong xuong kg",
-  },
-  {
-    answer: "57122",
-    question: "C-Mam tren la kg",
-  },
-  {
-    answer: "57123",
-    question: "C-Mam tren bau nho kg",
-  },
-  {
-    answer: "57124",
-    question: "C-Mam ruoc ChauDoc kg",
-  },
-  {
-    answer: "57125",
-    question: "C-Cu cai nuoc tuong kg",
-  },
-  {
     answer: "58719",
     question: "Hat dieu loai 1 kg-Tet",
-  },
-  {
-    answer: "58721",
-    question: "C-Keo bong cac loai kg-Tet",
-  },
-  {
-    answer: "58726",
-    question: "C-Mut me chua cay kg-Tet",
   },
   {
     answer: "55531",
@@ -7462,14 +5487,6 @@ const data = [
   {
     answer: "51283",
     question: "Nam bao ngu xam kg",
-  },
-  {
-    answer: "56683",
-    question: "S-Kho qua don t.dui truoc kg",
-  },
-  {
-    answer: "56692",
-    question: "S-Kho qua don thit xay kg-NCC",
   },
   {
     answer: "58641",
@@ -7504,24 +5521,12 @@ const data = [
     question: "Can nuoc Kg",
   },
   {
-    answer: "52475",
-    question: "S-Thit dui sauheotam uopkg-CMT",
-  },
-  {
-    answer: "57287",
-    question: "C-Kho ca Tren kg",
-  },
-  {
     answer: "53540",
     question: "Ga ta ncon kg",
   },
   {
     answer: "57281",
     question: "Kho muc lon kg",
-  },
-  {
-    answer: "56295",
-    question: "S-D.hu chienlon+tdui tr.heo kg",
   },
   {
     answer: "56296",
@@ -7534,10 +5539,6 @@ const data = [
   {
     answer: "57778",
     question: "Nu voi kg",
-  },
-  {
-    answer: "57770",
-    question: "C-Duong tan phen kg",
   },
   {
     answer: "58649",
@@ -7584,30 +5585,6 @@ const data = [
     question: "Dung heo kg-KL990",
   },
   {
-    answer: "50117",
-    question: "C-Kho bo mieng TuXuyen CPP kg",
-  },
-  {
-    answer: "50119",
-    question: "C-Kho bo soi TuXuyen CPP kg",
-  },
-  {
-    answer: "50122",
-    question: "C-Kho bo vien TuXuyen CPP kg",
-  },
-  {
-    answer: "50129",
-    question: "C-Kho bo vien Cary CPP kg",
-  },
-  {
-    answer: "59211",
-    question: "S-Dui ga CN goctu sche kg",
-  },
-  {
-    answer: "59212",
-    question: "S-Ma dui ga CN so che kg",
-  },
-  {
     answer: "57297",
     question: "Kho Ca Thu tam kg",
   },
@@ -7648,10 +5625,6 @@ const data = [
     question: "Banh uot kg",
   },
   {
-    answer: "56166",
-    question: "S-Bo luc lac (thit than) kg",
-  },
-  {
     answer: "52370",
     question: "Tim heo-VS990",
   },
@@ -7680,14 +5653,6 @@ const data = [
     question: "Mang cau L2 kg",
   },
   {
-    answer: "11862",
-    question: "S-Quyt duong loai 1 kg (1)",
-  },
-  {
-    answer: "50741",
-    question: "C-Kho Bo soi deo cary CPP kg",
-  },
-  {
     answer: "55402",
     question: "Ca Com lsach kg-NCC",
   },
@@ -7696,20 +5661,12 @@ const data = [
     question: "Ca Co lsach kg-Tu NCC",
   },
   {
-    answer: "50812",
-    question: "C-Nam dong co kho kg",
-  },
-  {
     answer: "57501",
     question: "Mi can kg",
   },
   {
     answer: "55423",
     question: "Ca Chi Vang Kg",
-  },
-  {
-    answer: "51625",
-    question: "C-Tao do uc kg",
   },
   {
     answer: "55447",
@@ -7726,14 +5683,6 @@ const data = [
   {
     answer: "55349",
     question: "Ca Mui lsach kg",
-  },
-  {
-    answer: "11507",
-    question: "S-Nho do My kg (1)",
-  },
-  {
-    answer: "11636",
-    question: "S-Le xanh My kg (1)",
   },
   {
     answer: "50275",
@@ -7768,22 +5717,6 @@ const data = [
     question: "Tom cang song kg",
   },
   {
-    answer: "51402",
-    question: "C-Tom kho L2 kg-HY",
-  },
-  {
-    answer: "51403",
-    question: "C-Kho ca thieu kg-HY",
-  },
-  {
-    answer: "51404",
-    question: "C-Kho ca loc tam kg-HY",
-  },
-  {
-    answer: "51405",
-    question: "C-Tom kho trung kg-TH",
-  },
-  {
     answer: "50798",
     question: "Dui ga toichien nmamkg-PKD990",
   },
@@ -7798,10 +5731,6 @@ const data = [
   {
     answer: "50809",
     question: "Thit kho trung kg-PKD990",
-  },
-  {
-    answer: "56304",
-    question: "C-Bun tuoi Binh Tay kg",
   },
   {
     answer: "50813",
@@ -7840,22 +5769,6 @@ const data = [
     question: "Cha ca basa chien kg-PKD990",
   },
   {
-    answer: "50306",
-    question: "C-Que cay kg",
-  },
-  {
-    answer: "50310",
-    question: "C-Cai kho kg",
-  },
-  {
-    answer: "50863",
-    question: "S-Nhan cha gio kg(k.mon cao)",
-  },
-  {
-    answer: "50315",
-    question: "C-Cai bap thao muoi kg",
-  },
-  {
     answer: "55058",
     question: "Ca Lu Du kg",
   },
@@ -7864,20 +5777,8 @@ const data = [
     question: "Bao tu don thit kg",
   },
   {
-    answer: "11943",
-    question: "S-Tao bi do N.Zealand kg(1)",
-  },
-  {
-    answer: "50862",
-    question: "C-Hat sen hue kho kg",
-  },
-  {
     answer: "52256",
     question: "Thit chan gio kg",
-  },
-  {
-    answer: "15423",
-    question: "S-Ca Chi vang kg (1)",
   },
   {
     answer: "51483",
@@ -7892,44 +5793,12 @@ const data = [
     question: "Toi nuoc tom kg",
   },
   {
-    answer: "51276",
-    question: "C-Me Thai kg",
-  },
-  {
-    answer: "11906",
-    question: "S-Kiwi L1 kg (1)",
-  },
-  {
     answer: "55412",
     question: "Ca Bong Dua sche kg - Tu NCC",
   },
   {
-    answer: "51901",
-    question: "C-Le trang TQuoc kg",
-  },
-  {
     answer: "51027",
     question: "Ca lang song kg",
-  },
-  {
-    answer: "54755",
-    question: "S-Ca Bac Ma tam uop Kg",
-  },
-  {
-    answer: "54758",
-    question: "S-Ca Liet so che Kg",
-  },
-  {
-    answer: "54761",
-    question: "S-Ca Keo tam uop Kg",
-  },
-  {
-    answer: "54772",
-    question: "S-Ca mo nho tam uop kg",
-  },
-  {
-    answer: "54792",
-    question: "S-Ca Bong cat tam uop kg",
   },
   {
     answer: "51285",
@@ -7944,20 +5813,12 @@ const data = [
     question: "Bap gio heo kg-VS990",
   },
   {
-    answer: "52540",
-    question: "S-Ba roi so che kg-HM",
-  },
-  {
     answer: "50199",
     question: "Salad giong My kg",
   },
   {
     answer: "52541",
     question: "Gio heo rut xuong kg-HM",
-  },
-  {
-    answer: "56705",
-    question: "S-D.hu nho+txay pha loc-HM kg",
   },
   {
     answer: "51305",
@@ -7984,24 +5845,8 @@ const data = [
     question: "Nam meo den thai soi kg",
   },
   {
-    answer: "59061",
-    question: "S-Ba roi so che kg-NCC",
-  },
-  {
     answer: "58647",
     question: "Nuoc da tinh khiet kg",
-  },
-  {
-    answer: "56332",
-    question: "C-Bun bo DTSINH kg",
-  },
-  {
-    answer: "56334",
-    question: "S-Ca chep kho rieng",
-  },
-  {
-    answer: "56337",
-    question: "S-Thit nuong kg",
   },
   {
     answer: "58665",
@@ -8012,24 +5857,8 @@ const data = [
     question: "Vu sua tim kg",
   },
   {
-    answer: "11895",
-    question: "S-Tao hong New Zealand kg (1)",
-  },
-  {
-    answer: "55497",
-    question: "S-Ca Soc so che Kg",
-  },
-  {
     answer: "59332",
     question: "Tao Pinata My kg",
-  },
-  {
-    answer: "54762",
-    question: "S-Ca nuc chuoi so che kg",
-  },
-  {
-    answer: "54763",
-    question: "S-Ca Nuc go so che Kg",
   },
   {
     answer: "57135",
@@ -8044,26 +5873,6 @@ const data = [
     question: "Cam sanh Ham Yen kg",
   },
   {
-    answer: "59066",
-    question: "C-Nui ong dai kg",
-  },
-  {
-    answer: "59067",
-    question: "C-Nui so kg",
-  },
-  {
-    answer: "11795",
-    question: "S-Cam NamPhi loai1 kg (1)",
-  },
-  {
-    answer: "11785",
-    question: "S-Nho do khong hat kg (1)",
-  },
-  {
-    answer: "50968",
-    question: "S-Kho qua sc kg",
-  },
-  {
     answer: "59339",
     question: "Cha ran kg-DSON",
   },
@@ -8072,32 +5881,8 @@ const data = [
     question: "Ca chem vua kg",
   },
   {
-    answer: "50725",
-    question: "C-Bun Thu Duc kg",
-  },
-  {
-    answer: "56703",
-    question: "S-Ca chua+t.xay pha loc-HM Kg",
-  },
-  {
-    answer: "56704",
-    question: "S-Muc ong10-15+txay pha loc-HM",
-  },
-  {
-    answer: "50975",
-    question: "S-Muop dang+thit xay sc NCC Kg",
-  },
-  {
     answer: "52562",
     question: "Duoi heo kg-SMguel990",
-  },
-  {
-    answer: "11790",
-    question: "S-Du du vang L1 kg(1)",
-  },
-  {
-    answer: "11817",
-    question: "S-Tao xanh My kg(1)",
   },
   {
     answer: "50290",
@@ -8106,10 +5891,6 @@ const data = [
   {
     answer: "50299",
     question: "Duong cat nhuyen trang kg",
-  },
-  {
-    answer: "50305",
-    question: "C-Bot nep kg",
   },
   {
     answer: "50778",
@@ -8136,16 +5917,8 @@ const data = [
     question: "Tao hong My kg",
   },
   {
-    answer: "56700",
-    question: "S-D.hu chiennho+tdui tr.heo kg",
-  },
-  {
     answer: "51004",
     question: "Gio song kg",
-  },
-  {
-    answer: "50412",
-    question: "S-Nhan cha gio+txay ploc-HM Kg",
   },
   {
     answer: "52018",
@@ -8154,10 +5927,6 @@ const data = [
   {
     answer: "51663",
     question: "Dui la co bo-NP990",
-  },
-  {
-    answer: "51045",
-    question: "S-D.hu trang+txay phaloc-HM kg",
   },
   {
     answer: "51049",
@@ -8204,10 +5973,6 @@ const data = [
     question: "Mang tre luoc kg-TX",
   },
   {
-    answer: "11808",
-    question: "S-Thanh long Phan Thiet L1(1)",
-  },
-  {
     answer: "50717",
     question: "Mang chua kg-TX",
   },
@@ -8234,14 +5999,6 @@ const data = [
   {
     answer: "50256",
     question: "Tom kho Loai 2 kg",
-  },
-  {
-    answer: "50257",
-    question: "C-Tom kho Loai 3 kg-NH",
-  },
-  {
-    answer: "50070",
-    question: "C-Kho ca bo bong kg",
   },
   {
     answer: "50075",
@@ -8286,10 +6043,6 @@ const data = [
   {
     answer: "50735",
     question: "Le Asia TQ kg",
-  },
-  {
-    answer: "50736",
-    question: "C-Le Jewel TQ kg",
   },
   {
     answer: "59428",
@@ -8360,24 +6113,8 @@ const data = [
     question: "Tao Ambrosia Italia kg",
   },
   {
-    answer: "53533",
-    question: "C-Bong ga CNghiep uop kg",
-  },
-  {
-    answer: "57264",
-    question: "C-Kho ca Ba Sa kg",
-  },
-  {
-    answer: "57775",
-    question: "C-Chuoi hot kho kg",
-  },
-  {
     answer: "57784",
     question: "Thuc dia kg",
-  },
-  {
-    answer: "52090",
-    question: "S-Ca nuc hap kg",
   },
   {
     answer: "50787",
@@ -8396,44 +6133,12 @@ const data = [
     question: "Cam Sunkist loai 1 kg",
   },
   {
-    answer: "57305",
-    question: "C-Tom Bac kho dat Ca mau kg",
-  },
-  {
-    answer: "57306",
-    question: "C-Tom kho Ba Hon kg",
-  },
-  {
-    answer: "57307",
-    question: "C-Kho ruoc trang kg",
-  },
-  {
     answer: "51454",
     question: "Mam ruoc ca linh kg-Betu",
   },
   {
-    answer: "50150",
-    question: "C-Pho tai kg",
-  },
-  {
-    answer: "51772",
-    question: "C-Le ngoai kg",
-  },
-  {
     answer: "52213",
     question: "Cam cara Ai Cap kg",
-  },
-  {
-    answer: "58011",
-    question: "C-Cafe kg",
-  },
-  {
-    answer: "57309",
-    question: "C-Tom kho loai 4 kg",
-  },
-  {
-    answer: "57311",
-    question: "C-Kho muc loai 1 kg",
   },
   {
     answer: "53273",
@@ -8456,18 +6161,10 @@ const data = [
     question: "Trai mo HaNoi kg",
   },
   {
-    answer: "57047",
-    question: "C-Cai thia kho kg",
-  },
-  {
     answer: "57506",
     question: "Cha chien chay kg",
   },
-  {
-    answer: "59273",
-    question: "Bo xao bo Uc-VS990",
-  },
-  {
+ {
     answer: "56486",
     question: "Ca loc tam gia vi kg",
   },
@@ -8516,22 +6213,6 @@ const data = [
     question: "Ga ta ncon kg-SH",
   },
   {
-    answer: "18661",
-    question: "S-Tao Bi do Phap kg(1)",
-  },
-  {
-    answer: "12807",
-    question: "S-Tao Pink New Zealand kg(1)",
-  },
-  {
-    answer: "56208",
-    question: "C-Ca bong Song Tra kho tieu kg",
-  },
-  {
-    answer: "59452",
-    question: "@Mam ba khia kg-SH990",
-  },
-  {
     answer: "51992",
     question: "Dua Thien Hong kg",
   },
@@ -8546,10 +6227,6 @@ const data = [
   {
     answer: "52938",
     question: "Chim cut quay/roti kg-PKD990",
-  },
-  {
-    answer: "52921",
-    question: "C-@Xxich Toulouse kg- KB990",
   },
   {
     answer: "53547",
@@ -8620,10 +6297,6 @@ const data = [
     question: "Mo bo-VS990",
   },
   {
-    answer: "56672",
-    question: "C-Dau mam ca thu kg",
-  },
-  {
     answer: "52334",
     question: "Ba roi heo kg-VS990",
   },
@@ -8650,10 +6323,6 @@ const data = [
   {
     answer: "52387",
     question: "La phoi heo-NP990",
-  },
-  {
-    answer: "11877",
-    question: "S-Tao bi do my kg (1)",
   },
   {
     answer: "52773",
@@ -8683,11 +6352,7 @@ const data = [
     answer: "50902",
     question: "Tieu so xay xa kg",
   },
-  {
-    answer: "52608",
-    question: "C-S-Thitxayphaloc tamuop kg-HM",
-  },
-  {
+ {
     answer: "50833",
     question: "Khoai lang deo kg",
   },
@@ -8712,44 +6377,8 @@ const data = [
     question: "Ba khia tron kg-Betu",
   },
   {
-    answer: "51466",
-    question: "C-Dua cai tron kg-BeTu",
-  },
-  {
     answer: "51849",
     question: "Thanh long ruot do L1 kg",
-  },
-  {
-    answer: "19034",
-    question: "S-Tao Diva NewzeaLand kg(1)",
-  },
-  {
-    answer: "10784",
-    question: "S-Bi giong My kg(1)",
-  },
-  {
-    answer: "12023",
-    question: "S-Cam Cara Uc kg(1)",
-  },
-  {
-    answer: "50981",
-    question: "C-Phomai EMBORG EDAM kg",
-  },
-  {
-    answer: "50983",
-    question: "C-Phomai EMBORG EMMENTHALER kg",
-  },
-  {
-    answer: "50984",
-    question: "C-Phomai EMBORG DANABLU kg",
-  },
-  {
-    answer: "52622",
-    question: "S-Nac dui heo so che kg-CMT",
-  },
-  {
-    answer: "50995",
-    question: "C-Gao thom bong hong kg",
   },
   {
     answer: "51089",
@@ -8760,10 +6389,6 @@ const data = [
     question: "Nho den My kg",
   },
   {
-    answer: "52033",
-    question: "S-File ca Lat tam gia vi kg",
-  },
-  {
     answer: "55413",
     question: "Ca loc bong kdau ls kg-NCC",
   },
@@ -8772,40 +6397,8 @@ const data = [
     question: "Ca loc bong ncon kg",
   },
   {
-    answer: "55496",
-    question: "S-Ca hanh nho so che kg",
-  },
-  {
-    answer: "54771",
-    question: "S-Ca mu so che kg",
-  },
-  {
-    answer: "54779",
-    question: "S-Ca doi tam uop kg",
-  },
-  {
-    answer: "54780",
-    question: "S-Ca dieu hong tam uop500-700g",
-  },
-  {
-    answer: "54781",
-    question: "S-Ca com tam uop kg",
-  },
-  {
-    answer: "54799",
-    question: "S-Ca Cham la so che kg",
-  },
-  {
     answer: "55451",
     question: "Ca Chim trang kg",
-  },
-  {
-    answer: "54805",
-    question: "S-Ca Lem so che kg",
-  },
-  {
-    answer: "54813",
-    question: "S-Ca thu chi so che kg",
   },
   {
     answer: "55459",
@@ -8814,14 +6407,6 @@ const data = [
   {
     answer: "50905",
     question: "Chanh kh.hat tui VNam kg",
-  },
-  {
-    answer: "11794",
-    question: "S-Buoi da xanh L2 kg(1)",
-  },
-  {
-    answer: "11805",
-    question: "S-Long mut L2 kg (1)",
   },
   {
     answer: "53028",
@@ -8848,40 +6433,12 @@ const data = [
     question: "Buoi da xanh bao luoi kg",
   },
   {
-    answer: "57271",
-    question: "C-Kho ca khoai kg",
-  },
-  {
     answer: "57262",
     question: "Kho ca loc tam kg",
   },
   {
-    answer: "15425",
-    question: "S-Bac ma kg (1)",
-  },
-  {
-    answer: "15438",
-    question: "S-Ngan lon Kg(1)",
-  },
-  {
-    answer: "55328",
-    question: "C-Ca Moi so che kg",
-  },
-  {
-    answer: "55129",
-    question: "C-Ca Sao uop kg",
-  },
-  {
     answer: "56587",
     question: "3351437-Ca nuc thuon kg-LH",
-  },
-  {
-    answer: "57793",
-    question: "C-O mai me cam thao kg",
-  },
-  {
-    answer: "57794",
-    question: "C-O mai xoai kg",
   },
   {
     answer: "50198",
@@ -8912,18 +6469,6 @@ const data = [
     question: "Gan dau bap bo-NP990",
   },
   {
-    answer: "11850",
-    question: "S-Tao do New Zealand kg (1)",
-  },
-  {
-    answer: "11541",
-    question: "S-Kiwi Uc L2 kg (1)",
-  },
-  {
-    answer: "11562",
-    question: "S-Man do Uc kg (1)",
-  },
-  {
     answer: "53236",
     question: "Tao Breeze Newzealand kg",
   },
@@ -8948,16 +6493,8 @@ const data = [
     question: "Uc Vit tam uop Kg",
   },
   {
-    answer: "11883",
-    question: "S-Quyt My kg (1)",
-  },
-  {
     answer: "52104",
     question: "Ca chua cocktail kg",
-  },
-  {
-    answer: "18952",
-    question: "S-Tao Fuji Han Quoc kg(1)",
   },
   {
     answer: "51048",
@@ -8976,20 +6513,8 @@ const data = [
     question: "Cam Ai Cap kg",
   },
   {
-    answer: "56140",
-    question: "S-Tom the trung so che kg",
-  },
-  {
     answer: "51052",
     question: "Thit kho tau kg-PKD990",
-  },
-  {
-    answer: "59519",
-    question: "C-@Goi ngo sen kg-SH990",
-  },
-  {
-    answer: "59522",
-    question: "@Kim chi kg -SH990",
   },
   {
     answer: "53302",
@@ -9036,10 +6561,6 @@ const data = [
     question: "Bup cai xay kg",
   },
   {
-    answer: "57140",
-    question: "C-Bun tuoi-RCK kg",
-  },
-  {
     answer: "58004",
     question: "Com dep xanh kg",
   },
@@ -9052,10 +6573,6 @@ const data = [
     question: "Gao tam thom kg",
   },
   {
-    answer: "50034",
-    question: "S-Thit vai heo tam uop kg",
-  },
-  {
     answer: "50054",
     question: "Cua gach son nho kg",
   },
@@ -9064,20 +6581,8 @@ const data = [
     question: "Mat ca ngu daiduong(3-5pcs/kg)",
   },
   {
-    answer: "50982",
-    question: "C-Phomai EMBORG GOUDA kg",
-  },
-  {
     answer: "54574",
     question: "Tom the kg(51-60con/kg)",
-  },
-  {
-    answer: "16188",
-    question: "S-Tao Sonya NewZealand kg (1)",
-  },
-  {
-    answer: "18772",
-    question: "S-Vai thieu L1 kg (1)",
   },
   {
     answer: "51902",
@@ -9096,14 +6601,6 @@ const data = [
     question: "Kiwi vang Chile kg",
   },
   {
-    answer: "54777",
-    question: "S-Ca kinh so che kg",
-  },
-  {
-    answer: "18972",
-    question: "S-Tao Envy Newz.size70-80kg(1)",
-  },
-  {
     answer: "52758",
     question: "Ca nuc kho-PKD990",
   },
@@ -9112,24 +6609,8 @@ const data = [
     question: "Ca ngu kho-PKD990",
   },
   {
-    answer: "54830",
-    question: "S-Ca lat lsach NCC so che kg",
-  },
-  {
-    answer: "56277",
-    question: "C-Gao Huong Xuan X.HONG kg",
-  },
-  {
     answer: "58977",
     question: "Dua le Kim Hoang Hau kg-HXUAN",
-  },
-  {
-    answer: "11933",
-    question: "S-Nho den khong hat Uc kg (1)",
-  },
-  {
-    answer: "10472",
-    question: "S-Xoai cat HLoc L1 kg (1)",
   },
   {
     answer: "52788",
@@ -9148,28 +6629,8 @@ const data = [
     question: "Kho bo mieng HongHuong kg",
   },
   {
-    answer: "57320",
-    question: "C-Tom kho nho kg - DTL",
-  },
-  {
     answer: "57074",
     question: "Kieu nuoc tom kg",
-  },
-  {
-    answer: "10388",
-    question: "S-Tao Hong My(1)",
-  },
-  {
-    answer: "54529",
-    question: "S-Tom su so che loai 1 kg",
-  },
-  {
-    answer: "54530",
-    question: "S-Tom su so che loai 2 kg",
-  },
-  {
-    answer: "54531",
-    question: "S-Tom su so che loai 3 kg",
   },
   {
     answer: "51811",
@@ -9196,14 +6657,6 @@ const data = [
     question: "Carot Dalat-mang co kg",
   },
   {
-    answer: "57111",
-    question: "C-Gio thu kg",
-  },
-  {
-    answer: "57113",
-    question: "C-Cha que chen kg",
-  },
-  {
     answer: "57333",
     question: "Kho ca com ngcon L2 kg-THL990",
   },
@@ -9220,22 +6673,6 @@ const data = [
     question: "Ca rot Dalat kg",
   },
   {
-    answer: "57116",
-    question: "C-Mam ca loc nho kg",
-  },
-  {
-    answer: "57117",
-    question: "C-Mam ca loc trung kg",
-  },
-  {
-    answer: "57118",
-    question: "C-Mam ca loc lon kg",
-  },
-  {
-    answer: "57120",
-    question: "C-Mam ca loc file kg",
-  },
-  {
     answer: "50211",
     question: "Ngo tay kg",
   },
@@ -9244,20 +6681,8 @@ const data = [
     question: "Hat de kg",
   },
   {
-    answer: "58717",
-    question: "C-Hat dua kg-Tet",
-  },
-  {
     answer: "58718",
     question: "Hat huong duong XUANHONG kg",
-  },
-  {
-    answer: "58741",
-    question: "C-Mut dua non kg-Tet",
-  },
-  {
-    answer: "58742",
-    question: "C-Mut dua tam kg-Tet",
   },
   {
     answer: "58743",
@@ -9276,68 +6701,8 @@ const data = [
     question: "Mut me kg-Tet",
   },
   {
-    answer: "58747",
-    question: "C-Mut mo sua kg-Tet",
-  },
-  {
     answer: "58748",
     question: "Mut sen Hue kg-Tet",
-  },
-  {
-    answer: "58749",
-    question: "C-Mut tao kg-Tet",
-  },
-  {
-    answer: "58750",
-    question: "C-Tao so kg-Tet",
-  },
-  {
-    answer: "58723",
-    question: "C-Keo dau me kg-Tet",
-  },
-  {
-    answer: "58724",
-    question: "C-Keo bap sua kg-Tet",
-  },
-  {
-    answer: "58732",
-    question: "C-Mut chanh rung kg-Tet",
-  },
-  {
-    answer: "58712",
-    question: "C-Rau cau TLan kg-Tet",
-  },
-  {
-    answer: "58733",
-    question: "C-Mut me trai cay kg-Tet",
-  },
-  {
-    answer: "58734",
-    question: "C-Mut chanh xi muoi kg-Tet",
-  },
-  {
-    answer: "58735",
-    question: "C-Mut thom chua cay kg-Tet",
-  },
-  {
-    answer: "58736",
-    question: "C-Mut me quan kg-Tet",
-  },
-  {
-    answer: "58725",
-    question: "C-Mut khoai mon kg-Tet",
-  },
-  {
-    answer: "58727",
-    question: "C-Mut ca rot kg-Tet",
-  },
-  {
-    answer: "58728",
-    question: "C-Mut thom deo kg-Tet",
-  },
-  {
-    answer: "58729",
-    question: "C-Mang cau chua cay kg-Tet",
   },
   {
     answer: "53593",
@@ -9348,44 +6713,12 @@ const data = [
     question: "Canh ga CNghiep Kg",
   },
   {
-    answer: "58709",
-    question: "C-Chocola bong hong kg - Tet",
-  },
-  {
-    answer: "58708",
-    question: "C-Mut gung deo kg - Tet",
-  },
-  {
-    answer: "56682",
-    question: "S-Bi dao don thit dui truoc Kg",
-  },
-  {
-    answer: "56684",
-    question: "S-Muc ong 10-15+t.dui truoc Kg",
-  },
-  {
-    answer: "56685",
-    question: "S-Ca chua don t.dui truoc Kg",
-  },
-  {
-    answer: "56686",
-    question: "S-Muc ong20-30+thit xay kg NCC",
-  },
-  {
-    answer: "56687",
-    question: "S-Bap cai cuon thitxay NCC kg",
-  },
-  {
     answer: "57349",
     question: "Kho muc ong duoi 15cm kg",
   },
   {
     answer: "57355",
     question: "Muc mot nang kg-THL990",
-  },
-  {
-    answer: "56694",
-    question: "S-Muc ong 20-30+t.dui truoc Kg",
   },
   {
     answer: "51933",
@@ -9408,32 +6741,12 @@ const data = [
     question: "Ech ncon lsach kg-Tu NCC",
   },
   {
-    answer: "57363",
-    question: "C-Kho ca danh kg",
-  },
-  {
     answer: "56697",
     question: "Ca com hap kg",
   },
   {
-    answer: "55569",
-    question: "S-Muc ong 10-15 lam sach kg",
-  },
-  {
     answer: "53085",
     question: "KSD-Thit nam bo sc kg",
-  },
-  {
-    answer: "53086",
-    question: "S-Thit dui sau bo sc kg-CMT",
-  },
-  {
-    answer: "53087",
-    question: "S-Suon bo so che kg",
-  },
-  {
-    answer: "53088",
-    question: "S-Co bo so che kg",
   },
   {
     answer: "57128",
@@ -9446,14 +6759,6 @@ const data = [
   {
     answer: "57132",
     question: "Cha trung muc nang kg",
-  },
-  {
-    answer: "57367",
-    question: "C-Muc ong 2nang loai nho kg",
-  },
-  {
-    answer: "57368",
-    question: "C-Muc la 1nang loai nho kg",
   },
   {
     answer: "52488",
@@ -9540,14 +6845,6 @@ const data = [
     question: "Tom kho lon TA kg",
   },
   {
-    answer: "11658",
-    question: "S-Hong vuong TQuoc kg (1)",
-  },
-  {
-    answer: "11631",
-    question: "S-Quyt TQuoc loaiI kg (1)",
-  },
-  {
     answer: "56026",
     question: "So long nac ( lot vo) Kg",
   },
@@ -9576,28 +6873,12 @@ const data = [
     question: "Kho ca Bo giay tam kg",
   },
   {
-    answer: "50811",
-    question: "C-Cai man soi kg",
-  },
-  {
     answer: "55148",
     question: "3064956-Ca Bo da uop",
   },
   {
-    answer: "55192",
-    question: "C-Duoi ca loc so che kg",
-  },
-  {
     answer: "57098",
     question: "Mam nem kg",
-  },
-  {
-    answer: "57084",
-    question: "C-Mam ruot ca linh kg",
-  },
-  {
-    answer: "57085",
-    question: "C-Mam tep kg",
   },
   {
     answer: "57086",
@@ -9624,48 +6905,12 @@ const data = [
     question: "Heo hai lat chay kg",
   },
   {
-    answer: "50986",
-    question: "C-Bo RUBY PASTRY kg",
-  },
-  {
     answer: "51769",
     question: "Nhan say kho kg",
   },
   {
-    answer: "55372",
-    question: "C-Minh ca Thu ao uop kg",
-  },
-  {
-    answer: "55373",
-    question: "C-Duoi ca Thu ao uop kg",
-  },
-  {
-    answer: "55374",
-    question: "S-Minh ca Thu ncon so che kg",
-  },
-  {
-    answer: "55375",
-    question: "C-Duoi ca Thu so che kg",
-  },
-  {
-    answer: "55377",
-    question: "C-Duoi ca Ngu uop kg",
-  },
-  {
-    answer: "55378",
-    question: "C-Minh ca Cam uop kg",
-  },
-  {
-    answer: "55379",
-    question: "C-Duoi ca Cam uop kg",
-  },
-  {
     answer: "55528",
     question: "KSD-Muc ong 20-30 so che kg",
-  },
-  {
-    answer: "11525",
-    question: "S-Oi DLoan kg (1)",
   },
   {
     answer: "51907",
@@ -9724,16 +6969,8 @@ const data = [
     question: "Thit vai heo kg-SMguel990",
   },
   {
-    answer: "56711",
-    question: "S-Oc buu don thit kg - HM",
-  },
-  {
     answer: "57139",
     question: "Banh canh bot gao kg",
-  },
-  {
-    answer: "50392",
-    question: "S-Caloc bong kdautam uopkg-Tky",
   },
   {
     answer: "52628",
@@ -9744,16 +6981,8 @@ const data = [
     question: "Vit xiem kg-TPDN990",
   },
   {
-    answer: "50253",
-    question: "C-Mut man com kg",
-  },
-  {
     answer: "50254",
     question: "Mut me chua cay kg",
-  },
-  {
-    answer: "50411",
-    question: "S-Bo cuonlalot+tduibo+txayPLHM",
   },
   {
     answer: "50987",
@@ -9784,16 +7013,8 @@ const data = [
     question: "Ga tha vuonhap-luoc kg-PKD990",
   },
   {
-    answer: "50303",
-    question: "C-Bot ngu vi huong kg",
-  },
-  {
     answer: "50307",
     question: "Hat dieu mau kg",
-  },
-  {
-    answer: "50308",
-    question: "C-Tai vi kg",
   },
   {
     answer: "52618",
@@ -9852,14 +7073,6 @@ const data = [
     question: "Kim chi cu cai kg",
   },
   {
-    answer: "50322",
-    question: "C-Kim chi xu hao kg",
-  },
-  {
-    answer: "50323",
-    question: "C-Kim chi nguyen cay kg",
-  },
-  {
     answer: "50324",
     question: "Ca nuc hap say kho kh.dau kg",
   },
@@ -9896,20 +7109,8 @@ const data = [
     question: "Vit ncon dong lanh kg-SANHA",
   },
   {
-    answer: "51348",
-    question: "S-Gio thu bao tu kg-BRia",
-  },
-  {
     answer: "58628",
     question: "Keo deo bap Viet kg",
-  },
-  {
-    answer: "58630",
-    question: "C-Keo xop phao kg",
-  },
-  {
-    answer: "58631",
-    question: "C-Keo deo Luu Ly kg",
   },
   {
     answer: "58632",
@@ -9930,10 +7131,6 @@ const data = [
   {
     answer: "58637",
     question: "Keo sua nhan kem kg",
-  },
-  {
-    answer: "58638",
-    question: "C-Keo Socola Bac ha kg",
   },
   {
     answer: "58639",
@@ -9968,28 +7165,12 @@ const data = [
     question: "Ca chim trang song kg",
   },
   {
-    answer: "52084",
-    question: "S-Ca Ro lon so che Kg",
-  },
-  {
     answer: "51292",
     question: "Ga ac lon dl (600g-1kg/con) kg",
   },
   {
-    answer: "51293",
-    question: "C-Kho soi heo kg",
-  },
-  {
     answer: "58803",
     question: "Tao Kiku Newzealand kg",
-  },
-  {
-    answer: "59209",
-    question: "S-Canh ga CN sche kg",
-  },
-  {
-    answer: "59210",
-    question: "S-Dui toi ga sche kg",
   },
   {
     answer: "59218",
@@ -10000,60 +7181,12 @@ const data = [
     question: "Rau hon hop COOP kg",
   },
   {
-    answer: "59118",
-    question: "S-Minh CaThu sche kg(bo set 2)",
-  },
-  {
-    answer: "51382",
-    question: "C-Chan gio muoi kg-ULTH",
-  },
-  {
-    answer: "51383",
-    question: "C-Gio lua kg-ULTH",
-  },
-  {
     answer: "51391",
     question: "Mut ca rot kg",
   },
   {
-    answer: "12012",
-    question: "S-Tao fuji New Zealand kg(1)",
-  },
-  {
-    answer: "11221",
-    question: "S-Kiwi xanh Chile kg(1)",
-  },
-  {
     answer: "51353",
     question: "Ca rot kg-TD",
-  },
-  {
-    answer: "56219",
-    question: "S-Kho qua don cha ca basa TSAG",
-  },
-  {
-    answer: "51670",
-    question: "C-Muckhotamgiavi10-15cmkg",
-  },
-  {
-    answer: "59453",
-    question: "C-@Bon bon chua ngot kg-SH990",
-  },
-  {
-    answer: "59513",
-    question: "C-@Ca phao mam nem kg-SH990",
-  },
-  {
-    answer: "59514",
-    question: "@Ca phao chua ngot kg-SH990",
-  },
-  {
-    answer: "59521",
-    question: "@Kieu chua ngot kg-SH990",
-  },
-  {
-    answer: "59541",
-    question: "C-@Toi ngam nuoc tuongkg-KK990",
   },
   {
     answer: "51415",
@@ -10104,10 +7237,6 @@ const data = [
     question: "Tao Ambrosia My kg",
   },
   {
-    answer: "51497",
-    question: "C-Tom kho SONGHUNG L3 kg",
-  },
-  {
     answer: "51499",
     question: "Kim chi chay kg",
   },
@@ -10116,40 +7245,12 @@ const data = [
     question: "Dua mon chay kg",
   },
   {
-    answer: "52061",
-    question: "C-Hat hanh nhan rang kg",
-  },
-  {
-    answer: "56375",
-    question: "@Dui toi ga nuong-quay-XTRA990",
-  },
-  {
-    answer: "53203",
-    question: "C-@Xuong ga CN kg-Lebourcher",
-  },
-  {
     answer: "52836",
     question: "Cu hu dua kg",
   },
   {
     answer: "52844",
     question: "Khoai lang tui luoi kg",
-  },
-  {
-    answer: "56380",
-    question: "S-Canh ga tam uop CP kg",
-  },
-  {
-    answer: "56381",
-    question: "S-Dui toi ga tam uop CP kg",
-  },
-  {
-    answer: "56382",
-    question: "S-Dui ga CN thaokhop tam CP kg",
-  },
-  {
-    answer: "56385",
-    question: "S-Dui toi ga tam uop RF kg",
   },
   {
     answer: "52721",
@@ -10272,14 +7373,6 @@ const data = [
     question: "Ca trung chien com dep-PKD990",
   },
   {
-    answer: "12742",
-    question: "S-Kiwi vang Chile kg(1)",
-  },
-  {
-    answer: "12822",
-    question: "S-Tao Pink Nam Phi kg(1)",
-  },
-  {
     answer: "52747",
     question: "Ga sot chanh day-PKD990",
   },
@@ -10304,62 +7397,10 @@ const data = [
     question: "Salad tron chua ngot-PKD990",
   },
   {
-    answer: "53233",
-    question: "@Thanh long trang kg-HN",
-  },
-  {
-    answer: "53234",
-    question: "@Xoai cat chu kg-HN",
-  },
-  {
-    answer: "53235",
-    question: "@Xoai cat Hoa Loc kg-HN",
-  },
-  {
     answer: "52890",
     question: "Muc tam gia vi kg-TP990",
   },
-  {
-    answer: "55623",
-    question: "Thit file bo Uc-AHT990",
-  },
-  {
-    answer: "55630",
-    question: "Gau bo Uc-AHT990",
-  },
-  {
-    answer: "55631",
-    question: "Nam bo Uc-AHT990",
-  },
-  {
-    answer: "55632",
-    question: "Co bo Uc-AHT990",
-  },
-  {
-    answer: "55633",
-    question: "Gan dau bap bo Uc-AHT990",
-  },
-  {
-    answer: "55634",
-    question: "Gan bo Uc-AHT990",
-  },
-  {
-    answer: "55635",
-    question: "Nac vun bo Uc-AHT990",
-  },
-  {
-    answer: "55636",
-    question: "Dam mui bo Uc-AHT990",
-  },
-  {
-    answer: "55637",
-    question: "Xuong ong bo Uc-AHT990",
-  },
-  {
-    answer: "19033",
-    question: "S-Tao Queen Newzealand kg(1)",
-  },
-  {
+     {
     answer: "53246",
     question: "Sa lach Batavia thuy canh kg",
   },
@@ -10398,18 +7439,6 @@ const data = [
   {
     answer: "52214",
     question: "Ca chua beef kg",
-  },
-  {
-    answer: "11945",
-    question: "S-Nho den NamPhi kg (1)",
-  },
-  {
-    answer: "52945",
-    question: "@F-Kho qua h.huu co kg-RCVN",
-  },
-  {
-    answer: "10193",
-    question: "S-Rau den tia Kg(1)",
   },
   {
     answer: "52783",
@@ -10580,18 +7609,6 @@ const data = [
     question: "Xuong co heo kg-KL990",
   },
   {
-    answer: "53283",
-    question: "@Bau Sao VG kg-HN",
-  },
-  {
-    answer: "53290",
-    question: "@Buoi da xanh kg-HN",
-  },
-  {
-    answer: "53291",
-    question: "@Man An Phuoc kg-HN",
-  },
-  {
     answer: "56571",
     question: "Thit file bo kg-TD990",
   },
@@ -10672,36 +7689,12 @@ const data = [
     question: "F-X.x Longaniza Iber.kg-NCD990",
   },
   {
-    answer: "52285",
-    question: "C-@X.xich Felino kg-CFF990",
-  },
-  {
-    answer: "52297",
-    question: "C-@X.xich cayMugnano kg-CFF990",
-  },
-  {
-    answer: "52639",
-    question: "C-@Ph.maiAppenzeller kg-CFF990",
-  },
-  {
     answer: "53154",
     question: "Cafe nguyen hat TIN NGHIA kg",
   },
   {
     answer: "53155",
     question: "Cafe nguyen xay TIN NGHIA kg",
-  },
-  {
-    answer: "52652",
-    question: "C-@Ph.mai Fonta kg-CFF990",
-  },
-  {
-    answer: "52653",
-    question: "C-@Ph.mai Brie d'.Melun-CFF990",
-  },
-  {
-    answer: "52654",
-    question: "C-@Ph.mai Bleu De Gex-CFF990",
   },
   {
     answer: "58996",
@@ -10764,16 +7757,8 @@ const data = [
     question: "3351933-Hanh tim Ly Son kg-LH",
   },
   {
-    answer: "53167",
-    question: "C-@Than vai bo Uc kg-KB990",
-  },
-  {
     answer: "53169",
     question: "Nho den k.hat ngon tay Uc kg",
-  },
-  {
-    answer: "56599",
-    question: "C-Nho My COOP(kg)-Vinamit",
   },
   {
     answer: "59035",
@@ -10820,14 +7805,6 @@ const data = [
     question: "Bap cai trai tim kg",
   },
   {
-    answer: "10244",
-    question: "S-Le Han Quoc kg (1)",
-  },
-  {
-    answer: "10473",
-    question: "S-Xoai cat HLoc L2 kg (1)",
-  },
-  {
     answer: "51969",
     question: "Nho xanh Phan Rang kg",
   },
@@ -10846,10 +7823,6 @@ const data = [
   {
     answer: "53029",
     question: "KSD-Thit bo xao so che Kg",
-  },
-  {
-    answer: "51385",
-    question: "C-Gio tai kg-ULTH",
   },
   {
     answer: "51388",
@@ -10884,10 +7857,6 @@ const data = [
     question: "Ca bong dua tam gia vi kg",
   },
   {
-    answer: "11632",
-    question: "S-Cam Tquoc kg (1)",
-  },
-  {
     answer: "52610",
     question: "Gan heo kg-TPDN990",
   },
@@ -10907,41 +7876,13 @@ const data = [
     answer: "52617",
     question: "Pheo non heo-TPDN990",
   },
-  {
-    answer: "55625",
-    question: "Nac dui bo Uc-AHT990",
-  },
-  {
-    answer: "55626",
-    question: "Bap bo Uc-AHT990",
-  },
-  {
-    answer: "55628",
-    question: "Bo xao bo Uc-AHT990",
-  },
-  {
-    answer: "55629",
-    question: "Bo xay bo Uc-AHT990",
-  },
-  {
-    answer: "55638",
-    question: "Mo bo Uc-AHT990",
-  },
-  {
+   {
     answer: "56499",
     question: "Tao Fuji ChiLe kg",
   },
   {
     answer: "58872",
     question: "Quay mam-CR990",
-  },
-  {
-    answer: "51586",
-    question: "C-Nho My L2 kg",
-  },
-  {
-    answer: "51587",
-    question: "C-Hat dieu L2 kg",
   },
   {
     answer: "56511",
@@ -10982,10 +7923,6 @@ const data = [
   {
     answer: "58911",
     question: "Cu san non kg",
-  },
-  {
-    answer: "57138",
-    question: "S-Kieu chua ngot kg-LXuyen",
   },
   {
     answer: "55358",
@@ -11040,28 +7977,8 @@ const data = [
     question: "Man duong uc kg",
   },
   {
-    answer: "58513",
-    question: "C-Thit cua kg",
-  },
-  {
-    answer: "58514",
-    question: "C-Thit vit kg",
-  },
-  {
-    answer: "58501",
-    question: "C-Tom nho kg",
-  },
-  {
-    answer: "58518",
-    question: "C-Suon non 2",
-  },
-  {
     answer: "57762",
     question: "Nep ngong kg",
-  },
-  {
-    answer: "58543",
-    question: "C-Cha lua kg-TPDN990",
   },
   {
     answer: "52581",
@@ -11084,20 +8001,12 @@ const data = [
     question: "Thit dui heo quay kg",
   },
   {
-    answer: "52031",
-    question: "S-Dui ech tam kg",
-  },
-  {
     answer: "52088",
     question: "Cherry vang Chile kg",
   },
   {
     answer: "52091",
     question: "Ca chua nho kg",
-  },
-  {
-    answer: "52089",
-    question: "S-Ca bac ma hap kg-QN",
   },
   {
     answer: "52100",
@@ -11156,16 +8065,8 @@ const data = [
     question: "Nho xanh BaMoi kg",
   },
   {
-    answer: "53527",
-    question: "C-Ga uop chien nuoc mam kg",
-  },
-  {
     answer: "57065",
     question: "Thit ga chay kg",
-  },
-  {
-    answer: "11903",
-    question: "S-Nho den My kg (1)",
   },
   {
     answer: "57505",
@@ -11184,28 +8085,12 @@ const data = [
     question: "Keo me den kg",
   },
   {
-    answer: "52267",
-    question: "@Chanh khong hat L1-TFR",
-  },
-  {
     answer: "59043",
     question: "Cha ca do cu chien kg",
   },
   {
     answer: "56135",
     question: "Cherry vang  My kg",
-  },
-  {
-    answer: "52275",
-    question: "C-@X.xichCho.Casademont-CFF990",
-  },
-  {
-    answer: "52355",
-    question: "C-@Atiso ngam dau-CFF990",
-  },
-  {
-    answer: "52665",
-    question: "C-@Ph.mai Tomme Blanche-CFF990",
   },
   {
     answer: "51484",
@@ -11220,16 +8105,8 @@ const data = [
     question: "Thanh long kg",
   },
   {
-    answer: "56163",
-    question: "S-Thit bo xay (fillet) kg",
-  },
-  {
     answer: "50162",
     question: "Mi Quang kg",
-  },
-  {
-    answer: "50163",
-    question: "C-Banh cuon kg",
   },
   {
     answer: "50164",
@@ -11252,10 +8129,6 @@ const data = [
     question: "Mut khoai kg",
   },
   {
-    answer: "50252",
-    question: "C-Mut Man hat kg",
-  },
-  {
     answer: "56034",
     question: "Ram so che Kg",
   },
@@ -11267,17 +8140,9 @@ const data = [
     answer: "52709",
     question: "3364314-Ca ho kg-LH",
   },
-  {
-    answer: "52609",
-    question: "C-S-Cot let so che kg-HM",
-  },
-  {
+ {
     answer: "52718",
     question: "Ba roi quay-PKD990",
-  },
-  {
-    answer: "50281",
-    question: "C-Tom kho nho-TH",
   },
   {
     answer: "52726",
@@ -11286,18 +8151,6 @@ const data = [
   {
     answer: "52734",
     question: "Ruoc rim nuoc mam-PKD990",
-  },
-  {
-    answer: "50287",
-    question: "C-Tao FUJI DB kg",
-  },
-  {
-    answer: "50300",
-    question: "C-Cai nhuyen muoi kg",
-  },
-  {
-    answer: "50311",
-    question: "C-Tom kho trung kg-Pnga",
   },
   {
     answer: "52757",
@@ -11328,10 +8181,6 @@ const data = [
     question: "Luoi heo kg-SMguel990",
   },
   {
-    answer: "50329",
-    question: "C-Cai ngot muoi kg",
-  },
-  {
     answer: "50332",
     question: "Chan ga NK-CK990",
   },
@@ -11352,28 +8201,12 @@ const data = [
     question: "Tim heo uop kg",
   },
   {
-    answer: "51671",
-    question: "C-Muc kho tam giavi 15-20cm kg",
-  },
-  {
     answer: "55756",
     question: "KSD-Dui Ech tam kg",
   },
   {
     answer: "50377",
     question: "Ca hoi tuoi nguyen con NaUy kg",
-  },
-  {
-    answer: "11655",
-    question: "S-Man den Uc kg (1)",
-  },
-  {
-    answer: "11901",
-    question: "S-Le trang TQ kg (1)",
-  },
-  {
-    answer: "11508",
-    question: "S-Nho xanh My kg (1)",
   },
   {
     answer: "52839",
@@ -11416,28 +8249,12 @@ const data = [
     question: "Gio bo kg",
   },
   {
-    answer: "15447",
-    question: "S-Ca Huong kg (1)",
-  },
-  {
-    answer: "15422",
-    question: "S-Ca Ngu bo Kg(1)",
-  },
-  {
     answer: "50406",
     question: "Mang luoi lon kho kg",
   },
   {
     answer: "56503",
     question: "Banh pho kg",
-  },
-  {
-    answer: "56670",
-    question: "S-Kho qua don Basa kg",
-  },
-  {
-    answer: "52189",
-    question: "C-Tom kho ANVINH kg",
   },
   {
     answer: "50420",
@@ -11450,10 +8267,6 @@ const data = [
   {
     answer: "52888",
     question: "Ca trung chien-PKD990",
-  },
-  {
-    answer: "19418",
-    question: "S-Tao Kiku My kg(1)",
   },
   {
     answer: "50437",
@@ -11476,10 +8289,6 @@ const data = [
     question: "Rau muong con kg",
   },
   {
-    answer: "50443",
-    question: "S-Ca dieu hong chung tuong kg",
-  },
-  {
     answer: "50459",
     question: "Ma dui ga dong lanh-CP",
   },
@@ -11498,14 +8307,6 @@ const data = [
   {
     answer: "58658",
     question: "Tao Ambrosia Canada kg",
-  },
-  {
-    answer: "52941",
-    question: "C-Nho My COOP(kg)-Sun Do",
-  },
-  {
-    answer: "52944",
-    question: "@F-Dua leo h.huu co kg-RCVN",
   },
   {
     answer: "52958",
@@ -11548,16 +8349,8 @@ const data = [
     question: "Chan gio truoc rxuong-KL990",
   },
   {
-    answer: "56673",
-    question: "C-Bong bi don thit kg",
-  },
-  {
     answer: "53020",
     question: "Dphong rang toi ot kg",
-  },
-  {
-    answer: "16607",
-    question: "S-Kiwi xanh My kg(1)",
   },
   {
     answer: "53165",
@@ -11568,40 +8361,12 @@ const data = [
     question: "Ga tre ncon kg",
   },
   {
-    answer: "53200",
-    question: "C-@Dui gathaokhop kg-Leboucher",
-  },
-  {
-    answer: "53201",
-    question: "C-@Uc gakxuong-da kg-LeBoucher",
-  },
-  {
     answer: "53208",
     question: "Chanh Uc kg",
   },
   {
-    answer: "59069",
-    question: "C-Nui xoan kg",
-  },
-  {
     answer: "57324",
     question: "Tom kho TE kg",
-  },
-  {
-    answer: "53221",
-    question: "@Cam sanh L1 kg-HN",
-  },
-  {
-    answer: "53224",
-    question: "@Dua hau ruot do kg-HN",
-  },
-  {
-    answer: "53225",
-    question: "@Dua hau soc My kg-HN",
-  },
-  {
-    answer: "53232",
-    question: "@Thanh long ruot do kg-HN",
   },
   {
     answer: "51821",
@@ -11622,14 +8387,6 @@ const data = [
   {
     answer: "51475",
     question: "Kim chi bon bon kg-BeTu",
-  },
-  {
-    answer: "57081",
-    question: "C-Mam ca tren kg",
-  },
-  {
-    answer: "57082",
-    question: "C-Mam ca chot kg",
   },
   {
     answer: "57083",
@@ -11660,10 +8417,6 @@ const data = [
     question: "Ca dieu hong tam uop kg",
   },
   {
-    answer: "59109",
-    question: "S-Ca Bac Ma so che kg",
-  },
-  {
     answer: "51010",
     question: "Muc ong kho L1 kg",
   },
@@ -11678,10 +8431,6 @@ const data = [
   {
     answer: "51054",
     question: "Ram chien gion kg",
-  },
-  {
-    answer: "51075",
-    question: "C-Coi so kho kg",
   },
   {
     answer: "53036",
@@ -11700,28 +8449,8 @@ const data = [
     question: "Xuong ong bo-VS990",
   },
   {
-    answer: "11605",
-    question: "S-Man den TQuoc loai 1 kg (1)",
-  },
-  {
-    answer: "11848",
-    question: "S-Nho den Chile kg (1)",
-  },
-  {
-    answer: "11867",
-    question: "S-Hong don DaLat kg (1)",
-  },
-  {
-    answer: "11890",
-    question: "S-Cam sanh L1 kg (1)",
-  },
-  {
     answer: "57096",
     question: "Mam tom kg",
-  },
-  {
-    answer: "58012",
-    question: "C-Duong cat vang kg",
   },
   {
     answer: "50898",
@@ -11732,84 +8461,16 @@ const data = [
     question: "Ca Keo lsach kg-NCC",
   },
   {
-    answer: "58014",
-    question: "C-Banh trang kg",
-  },
-  {
-    answer: "55498",
-    question: "S-Ca Hieu so che Kg",
-  },
-  {
-    answer: "55499",
-    question: "S-Ca Chet nho tam uop kg",
-  },
-  {
-    answer: "54756",
-    question: "S-Ca tren so che kg",
-  },
-  {
-    answer: "54764",
-    question: "S-Ca Can so che Kg",
-  },
-  {
-    answer: "54773",
-    question: "C-Ca loc (phile) so che kg",
-  },
-  {
-    answer: "54784",
-    question: "S-Ca chim trang so che kg",
-  },
-  {
-    answer: "54798",
-    question: "S-Ca Bop so che kg",
-  },
-  {
     answer: "55452",
     question: "Ca Chem lon lsach kg - Tu NCC",
-  },
-  {
-    answer: "54806",
-    question: "S-Ca moi tam uop kg",
-  },
-  {
-    answer: "54807",
-    question: "S-Ca mom do so che kg",
-  },
-  {
-    answer: "54809",
-    question: "S-Ca bong dua tam uop kg",
   },
   {
     answer: "55460",
     question: "Minh ca Hu kg - Tu NCC",
   },
   {
-    answer: "54815",
-    question: "S-Ca Roc so che kg",
-  },
-  {
-    answer: "54816",
-    question: "S-Ca do so che kg (mau do)",
-  },
-  {
-    answer: "54818",
-    question: "S-Ca Voc so che kg",
-  },
-  {
-    answer: "54820",
-    question: "S-Ca to ho so che kg",
-  },
-  {
     answer: "52427",
     question: "Thit heo xay kg-CP",
-  },
-  {
-    answer: "11763",
-    question: "S-Tao FUJI loai2 kg (1)",
-  },
-  {
-    answer: "11913",
-    question: "S-Le do My kg (1)",
   },
   {
     answer: "50841",
@@ -11822,14 +8483,6 @@ const data = [
   {
     answer: "51470",
     question: "Dua kieu kg-BeTu",
-  },
-  {
-    answer: "59518",
-    question: "C-@Goi bon bon kg-SH990",
-  },
-  {
-    answer: "59523",
-    question: "@Mam ca phao kg-SH990",
   },
   {
     answer: "56249",
@@ -11872,24 +8525,8 @@ const data = [
     question: "Tao Golden Sun NewZealand kg",
   },
   {
-    answer: "53919",
-    question: "C-Dui toi ran F kg-Uni DL",
-  },
-  {
-    answer: "53920",
-    question: "C-Duitoi ran S(12-14)kg-Uni DL",
-  },
-  {
     answer: "53921",
     question: "Dui toi ran S(8-10) kg-Uni DL",
-  },
-  {
-    answer: "53922",
-    question: "C-Canh ga ran F kg-Uni DL",
-  },
-  {
-    answer: "53923",
-    question: "C-Canhga ran S(12-14)kg-Uni DL",
   },
   {
     answer: "53924",
@@ -11904,18 +8541,6 @@ const data = [
     question: "Canh ga ran kg-PKD990",
   },
   {
-    answer: "53925",
-    question: "C-Thach Pudding cafe",
-  },
-  {
-    answer: "53926",
-    question: "C-Thach Pudding tra xanh",
-  },
-  {
-    answer: "53927",
-    question: "C-Thach Pudding chocolate",
-  },
-  {
     answer: "53928",
     question: "Thach Pudding phomai",
   },
@@ -11924,28 +8549,12 @@ const data = [
     question: "Dualuoi g.Nhat ruot camL2-BHSG",
   },
   {
-    answer: "11801",
-    question: "S-Cam My L2-Size 72 kg (1)",
-  },
-  {
     answer: "53940",
     question: "Chan ga tam bot dl kg-CP",
   },
   {
     answer: "53941",
     question: "Chan ga chien gion kg-PKD990",
-  },
-  {
-    answer: "53943",
-    question: "@Than vai bo My cat BBQ-KB990",
-  },
-  {
-    answer: "53944",
-    question: "@Than vai bo My Hotpot-KB990",
-  },
-  {
-    answer: "53948",
-    question: "@Than vai bo My cat xao-KB990",
   },
   {
     answer: "53953",
@@ -12050,22 +8659,6 @@ const data = [
   {
     answer: "54036",
     question: "Tao Diva Organic NewZealand kg",
-  },
-  {
-    answer: "54038",
-    question: "C-Bao CSmile 1mautuhuy20x30-kg",
-  },
-  {
-    answer: "54039",
-    question: "C-Bao CSmile 1mautuhuy40x70-kg",
-  },
-  {
-    answer: "54040",
-    question: "C-Bao CSmile 1mautuhuy26x40-kg",
-  },
-  {
-    answer: "53991",
-    question: "C-Bao CSmile 1mautuhuy30x50-kg",
   },
   {
     answer: "54042",
@@ -12316,98 +8909,6 @@ const data = [
     question: "Bo vien suon Uc kg-KB990",
   },
   {
-    answer: "54153",
-    question: "C-Xuc xich Anh kg-KB990",
-  },
-  {
-    answer: "54154",
-    question: "C-Xuc xich Toulouse-KB990",
-  },
-  {
-    answer: "54155",
-    question: "C-Xuc xich Y kg-KB990",
-  },
-  {
-    answer: "54162",
-    question: "@Hanh nhan cat lat kg-VP990",
-  },
-  {
-    answer: "54163",
-    question: "@Hanh nhan cat soi kg-VP990",
-  },
-  {
-    answer: "54165",
-    question: "@Hanh nhan n.hat co vo kg-990",
-  },
-  {
-    answer: "54166",
-    question: "@Hanh nhan n.hat ko vo kg-990",
-  },
-  {
-    answer: "54167",
-    question: "@Hanh nhan n.hat r.muoi kg-990",
-  },
-  {
-    answer: "54168",
-    question: "@H.nhan n.hat n.mat ong kg-990",
-  },
-  {
-    answer: "54169",
-    question: "@Hat Macadamia L1 kg-VP990",
-  },
-  {
-    answer: "54172",
-    question: "@Hat dieu ngao mat ong kg-990",
-  },
-  {
-    answer: "54174",
-    question: "@Hat kho hh ngao matong kg-990",
-  },
-  {
-    answer: "54177",
-    question: "@Hat phi kg-VP990",
-  },
-  {
-    answer: "54178",
-    question: "@Hat oc cho kg-VP990",
-  },
-  {
-    answer: "54179",
-    question: "@Qua sung kho kg-VP990",
-  },
-  {
-    answer: "54180",
-    question: "@Qua mo kho kg-VP990",
-  },
-  {
-    answer: "54181",
-    question: "@Qua man kho kg-VP990",
-  },
-  {
-    answer: "54182",
-    question: "@Trai cay hon hop kg-VP990",
-  },
-  {
-    answer: "54183",
-    question: "@Qua nam viet quat kg-VP990",
-  },
-  {
-    answer: "54184",
-    question: "@Nho kho den khong hat kg-990",
-  },
-  {
-    answer: "54185",
-    question: "@Qua cha la kho kg-VP990",
-  },
-  {
-    answer: "54187",
-    question: "@Mut gung say deo kg-VP990",
-  },
-  {
-    answer: "54188",
-    question: "@Xoai say deo kg-VP990",
-  },
-  {
     answer: "54190",
     question: "Le Kousui Nhat kg",
   },
@@ -12420,72 +8921,8 @@ const data = [
     question: "Le Housui Nhat kg",
   },
   {
-    answer: "54199",
-    question: "C-@Th.heo n.uopn.tuongkg-KW990",
-  },
-  {
-    answer: "54200",
-    question: "@Kim chi cai thao kg-MGF990",
-  },
-  {
-    answer: "54201",
-    question: "@Kim chi cu cai kg-MGF990",
-  },
-  {
-    answer: "54202",
-    question: "@Kim chi dua leo kg-MGF990",
-  },
-  {
-    answer: "54204",
-    question: "@Ot bot Han Quoc kg-MGF990",
-  },
-  {
-    answer: "54205",
-    question: "@Kim chi ca bo kg-MGF990",
-  },
-  {
-    answer: "54206",
-    question: "@Kim chi ca com kg-MGF990",
-  },
-  {
-    answer: "54207",
-    question: "@Kim chi ca chi vang kg-MGF990",
-  },
-  {
-    answer: "54208",
-    question: "@Kim chi ca moi kg-MGF990",
-  },
-  {
-    answer: "54209",
-    question: "C-@Kim chi ca lu du kg-MGF990",
-  },
-  {
-    answer: "54210",
-    question: "C-@Kim chi xao kg-MGF990",
-  },
-  {
-    answer: "10178",
-    question: "S-Bap cai trang kg(1)",
-  },
-  {
-    answer: "10028",
-    question: "S-Bap cai thao kg(1)",
-  },
-  {
     answer: "54215",
     question: "Ca ro song kg-BDAOG",
-  },
-  {
-    answer: "54221",
-    question: "@Dua leo kg-HN",
-  },
-  {
-    answer: "54222",
-    question: "@Dau bap kg-HN",
-  },
-  {
-    answer: "54223",
-    question: "@kho qua trai kg-HN",
   },
   {
     answer: "54224",
@@ -12619,11 +9056,7 @@ const data = [
     answer: "54317",
     question: "Tai heo GlobalGap-AHT990",
   },
-  {
-    answer: "54383",
-    question: "Chan ga ngam sa tac-PKD990",
-  },
-  {
+ {
     answer: "54261",
     question: "Dua le giong Han Quoc kg",
   },
@@ -12968,10 +9401,6 @@ const data = [
     question: "Nho do thom dbiet k.hat My kg",
   },
   {
-    answer: "54420",
-    question: "C-Coc chua ngot kg-TNP",
-  },
-  {
     answer: "54421",
     question: "Cha ca hap kg-Thanh Van",
   },
@@ -12986,10 +9415,6 @@ const data = [
   {
     answer: "54430",
     question: "Kiwi vang Phap kg",
-  },
-  {
-    answer: "54433",
-    question: "C-Nho My COOP kg",
   },
   {
     answer: "54435",
@@ -13014,26 +9439,6 @@ const data = [
   {
     answer: "54440",
     question: "Dua luoi g.Nhat ruot cam-TLOC",
-  },
-  {
-    answer: "54592",
-    question: "@Hat chia kg-VP990",
-  },
-  {
-    answer: "54593",
-    question: "@Hat lanh kg-VP990",
-  },
-  {
-    answer: "54594",
-    question: "@Hat diem mach kg-VP990",
-  },
-  {
-    answer: "54595",
-    question: "@Hat ho dao kg-VP990",
-  },
-  {
-    answer: "54441",
-    question: "C-@Qua thanh dau kho 1kg-VP990",
   },
   {
     answer: "54450",
@@ -13172,10 +9577,6 @@ const data = [
     question: "Ca sac ran tam gia vi 1nang kg",
   },
   {
-    answer: "54494",
-    question: "C-Ca ro phi tam giavi 1nang kg",
-  },
-  {
     answer: "54518",
     question: "Cai thia thuy canh kg",
   },
@@ -13196,10 +9597,6 @@ const data = [
     question: "Ca tra tam gia vi 1 nang kg",
   },
   {
-    answer: "12195",
-    question: "S-Cam Ai Cap (1)",
-  },
-  {
     answer: "54603",
     question: "Chuoi Coop Select L1 kg-Lefarm",
   },
@@ -13218,26 +9615,6 @@ const data = [
   {
     answer: "54623",
     question: "Ca thu dao kg-Hoang Ngan",
-  },
-  {
-    answer: "13308",
-    question: "S-Buoi da xanh Tam TanL1 kg(1)",
-  },
-  {
-    answer: "13405",
-    question: "S-Tao hongQueen NZealand kg(1)",
-  },
-  {
-    answer: "14430",
-    question: "S-Kiwi vang Phap kg(1)",
-  },
-  {
-    answer: "11897",
-    question: "S-Man hau kg(1)",
-  },
-  {
-    answer: "13817",
-    question: "S-Tao Star NewZealand kg(1)",
   },
   {
     answer: "54625",
@@ -13266,82 +9643,6 @@ const data = [
   {
     answer: "54626",
     question: "Ca nuc dong lanh kg",
-  },
-  {
-    answer: "13670",
-    question: "S-Tao Fuji Nhat kg (1)",
-  },
-  {
-    answer: "14619",
-    question: "S-Tao Snap Dragon My kg (1)",
-  },
-  {
-    answer: "14488",
-    question: "S-Tao Ligol Balan kg (1)",
-  },
-  {
-    answer: "14625",
-    question: "S-Tao Beauty NewZealand kg (1)",
-  },
-  {
-    answer: "13194",
-    question: "S-Nho den k.hat ng tay NPhi(1)",
-  },
-  {
-    answer: "12705",
-    question: "S-Nho do k.hat Chile kg (1)",
-  },
-  {
-    answer: "13169",
-    question: "S-Nho den k.hat ngon tay Uc(1)",
-  },
-  {
-    answer: "12180",
-    question: "S-Tao ngot Dragon My kg (1)",
-  },
-  {
-    answer: "18981",
-    question: "S-Cherry do My COOP kg (1)",
-  },
-  {
-    answer: "10498",
-    question: "S-Cherry Uc kg (1)",
-  },
-  {
-    answer: "18627",
-    question: "S-Cherry Chile kg(1)",
-  },
-  {
-    answer: "19346",
-    question: "S-Cherry Newzealand kg (1)",
-  },
-  {
-    answer: "16201",
-    question: "S-Cherry Canada kg (1)",
-  },
-  {
-    answer: "11758",
-    question: "S-Cherry My kg (1)",
-  },
-  {
-    answer: "18663",
-    question: "S-Kiwi xanh Phap kg (1)",
-  },
-  {
-    answer: "11630",
-    question: "S-Dao My kg (1)",
-  },
-  {
-    answer: "11635",
-    question: "S-Man My kg (1)",
-  },
-  {
-    answer: "14190",
-    question: "S-Le Kousui Nhat kg (1)",
-  },
-  {
-    answer: "14195",
-    question: "S-Le Housui Nhat kg  (1)",
   },
   {
     answer: "54658",
@@ -13460,22 +9761,6 @@ const data = [
     question: "Khoai mo tom tuoi SC kg",
   },
   {
-    answer: "18873",
-    question: "S-Bong cai xanh COOP kg(1)",
-  },
-  {
-    answer: "10101",
-    question: "S-Bong thien ly kg (1)",
-  },
-  {
-    answer: "12903",
-    question: "S-Ca chua den kg (1)",
-  },
-  {
-    answer: "10223",
-    question: "S-Bap cai trai tim kg (1)",
-  },
-  {
     answer: "54690",
     question: "Kim chi rong sun bien kg",
   },
@@ -13486,26 +9771,6 @@ const data = [
   {
     answer: "54692",
     question: "Mi quang kg-KTRANG",
-  },
-  {
-    answer: "16500",
-    question: "S-Muop huong COOP kg (1)",
-  },
-  {
-    answer: "18676",
-    question: "S-Ot chuong COOP kg (1)",
-  },
-  {
-    answer: "10071",
-    question: "S-Rau Hung que kg (1)",
-  },
-  {
-    answer: "10073",
-    question: "S-Rau lang kg (1)",
-  },
-  {
-    answer: "18956",
-    question: "S-Dau cove thuong COOP kg (1)",
   },
   {
     answer: "56904",
@@ -13674,10 +9939,6 @@ const data = [
   {
     answer: "54730",
     question: "Nho xanh Phan Rang kg-BNGOC",
-  },
-  {
-    answer: "54736",
-    question: "@Dau kho Goji(ky tu) kg-VP990",
   },
   {
     answer: "54738",
@@ -13852,10 +10113,6 @@ const data = [
     question: "Ga say chua cay TNP kg",
   },
   {
-    answer: "55051",
-    question: "C-Cha ca loc tuoi kg",
-  },
-  {
     answer: "55055",
     question: "Banh uot THANHTRI kg-TT990",
   },
@@ -13882,10 +10139,6 @@ const data = [
   {
     answer: "55086",
     question: "Ca chot lam sach kg",
-  },
-  {
-    answer: "13209",
-    question: "S-Chuoi COOP L1 kg(1)",
   },
   {
     answer: "55091",
@@ -13955,11 +10208,7 @@ const data = [
     answer: "55179",
     question: "Ca du-PGP990",
   },
-  {
-    answer: "55180",
-    question: "Ca nuc-PGP990",
-  },
-  {
+ {
     answer: "55181",
     question: "Ca mo-PGP990",
   },
@@ -13991,11 +10240,7 @@ const data = [
     answer: "55189",
     question: "Ca chem tuoi-PGP990",
   },
-  {
-    answer: "55191",
-    question: "Bach tuoc-PGP990",
-  },
-  {
+ {
     answer: "55194",
     question: "Ca doi-PGP990",
   },
@@ -14016,20 +10261,12 @@ const data = [
     question: "Nho phu thuy My kg",
   },
   {
-    answer: "55210",
-    question: "C-Mit g.thai c.mieng kg-BBCC",
-  },
-  {
     answer: "55211",
     question: "Dua hau ruot do kg-BB&CC",
   },
   {
     answer: "55212",
     question: "Dua hau k.hat L1 kg-BB&CC",
-  },
-  {
-    answer: "55214",
-    question: "C-Dua hau ruot vang kg-BBCC",
   },
   {
     answer: "55219",
@@ -14067,15 +10304,7 @@ const data = [
     answer: "55257",
     question: "Ca hu kg-PGP990",
   },
-  {
-    answer: "55261",
-    question: "Luon nc ls-PGP990",
-  },
-  {
-    answer: "55264",
-    question: "Ca loc bong ls-PGP990",
-  },
-  {
+ {
     answer: "55265",
     question: "Tom the kg-PGP990",
   },
@@ -14087,15 +10316,7 @@ const data = [
     answer: "55268",
     question: "Ca that lat nao kg-PGP990",
   },
-  {
-    answer: "55269",
-    question: "Ca keo ls-PGP990",
-  },
-  {
-    answer: "55270",
-    question: "Ca tre ls-PGP990",
-  },
-  {
+ {
     answer: "55271",
     question: "Ca dieu hong lsach kg-PGP990",
   },
@@ -14148,62 +10369,6 @@ const data = [
     question: "Ghe kg-PGP990",
   },
   {
-    answer: "55320",
-    question: "C-@Keo bap iet kg-DH990",
-  },
-  {
-    answer: "55325",
-    question: "C-@Keo hinh qua dau kg-DH990",
-  },
-  {
-    answer: "55334",
-    question: "C-@Keo Misoca kg-DH990",
-  },
-  {
-    answer: "55335",
-    question: "C-@Keo deo sua comduakg-DH990",
-  },
-  {
-    answer: "55339",
-    question: "C-@Keo deo tra xanh kg-DH990",
-  },
-  {
-    answer: "55350",
-    question: "C-@Keo socola bac ha kg-DH990",
-  },
-  {
-    answer: "55352",
-    question: "C-@Keo socola chum kg-DH990",
-  },
-  {
-    answer: "55354",
-    question: "C-@Keo sua nhankemAerokg-DH990",
-  },
-  {
-    answer: "55362",
-    question: "C-@Keo chocoballs kg-DH990",
-  },
-  {
-    answer: "55366",
-    question: "C-@Kem hanh nhan kg-DH990",
-  },
-  {
-    answer: "55368",
-    question: "C-@Keo socola babico kg-DH990",
-  },
-  {
-    answer: "55380",
-    question: "C-@Keo socolaSmaelankg-DH990",
-  },
-  {
-    answer: "55516",
-    question: "C-@Thach suachuasize37kg-DH990",
-  },
-  {
-    answer: "55521",
-    question: "C-@Thach raucaushalarakg-DH990",
-  },
-  {
     answer: "55584",
     question: "Than bo KIMBERLEY xao kg-KB990",
   },
@@ -14226,14 +10391,6 @@ const data = [
   {
     answer: "55592",
     question: "Dau than bo KIMBERLEY kg-KB990",
-  },
-  {
-    answer: "55596",
-    question: "@Hat dieu rang muoi kg-VP990",
-  },
-  {
-    answer: "55597",
-    question: "@Hat de rang muoi co vo kg-990",
   },
   {
     answer: "55613",
@@ -14396,14 +10553,6 @@ const data = [
     question: "Thit bo dlanh kg",
   },
   {
-    answer: "55675",
-    question: "C-Quyt duong L1 Coop Select kg",
-  },
-  {
-    answer: "55676",
-    question: "C-Quyt duong L2 Coop Select kg",
-  },
-  {
     answer: "55677",
     question: "Man hong dao kg",
   },
@@ -14420,40 +10569,12 @@ const data = [
     question: "Ba roi so che kg",
   },
   {
-    answer: "55681",
-    question: "C-Bap cai tim DaLat kg-BBCC",
-  },
-  {
-    answer: "55682",
-    question: "C-Bapcai trai timDaLat kg-BBCC",
-  },
-  {
-    answer: "55683",
-    question: "C-Bap cai trang kg-BBCCC",
-  },
-  {
     answer: "55686",
     question: "Bi giong my kg-BB&CC",
   },
   {
-    answer: "55688",
-    question: "C-Bong cai trang kg-BBCC",
-  },
-  {
-    answer: "55689",
-    question: "C-Bong cai xanh kg-BBCC",
-  },
-  {
-    answer: "55690",
-    question: "C-Cai thao dalat kg-BBCC",
-  },
-  {
     answer: "55691",
     question: "Chanh khong hat kg-BB&CC",
-  },
-  {
-    answer: "55693",
-    question: "C-Quyt kid Coop Select 500g",
   },
   {
     answer: "55697",
@@ -14490,38 +10611,6 @@ const data = [
   {
     answer: "55708",
     question: "Nho xanh k.hat My dac biet kg",
-  },
-  {
-    answer: "55800",
-    question: "C-@Cafe hat KING Da Lat kg",
-  },
-  {
-    answer: "55801",
-    question: "C-@Cafehat KING BuonMaThuot kg",
-  },
-  {
-    answer: "55802",
-    question: "C-@Cafe hat KING Brazil kg",
-  },
-  {
-    answer: "55803",
-    question: "C-@Cafe hat KING Colombia kg",
-  },
-  {
-    answer: "55804",
-    question: "C-@Cafe hat KING Guatemala kg",
-  },
-  {
-    answer: "55805",
-    question: "C-@Cafe hat KING Espresso kg",
-  },
-  {
-    answer: "55806",
-    question: "C-@Cafe hat KING Breakfast kg",
-  },
-  {
-    answer: "55807",
-    question: "C-@Cafe hat KING Signature kg",
   },
   {
     answer: "55808",
@@ -14596,10 +10685,6 @@ const data = [
     question: "Man do g.Thai dong vi kg",
   },
   {
-    answer: "55836",
-    question: "C-Ga ta Tam Ky 1/2 con kg",
-  },
-  {
     answer: "55842",
     question: "Tim heo so che tam uop kg",
   },
@@ -14655,11 +10740,7 @@ const data = [
     answer: "55913",
     question: "Fille basa sot nuoc mam-PKD990",
   },
-  {
-    answer: "55914",
-    question: "Ca dieu hong om ngu sac-PKD990",
-  },
-  {
+ {
     answer: "55915",
     question: "Canh ga sot chanh day-PKD990",
   },
@@ -14740,14 +10821,6 @@ const data = [
     question: "Suon nuong mat ong so che kg",
   },
   {
-    answer: "55936",
-    question: "@Bi do ho lo kg-HN",
-  },
-  {
-    answer: "55937",
-    question: "@Chanh kg-HN",
-  },
-  {
     answer: "55947",
     question: "Ca lang song kg-PGP990",
   },
@@ -14774,14 +10847,6 @@ const data = [
   {
     answer: "55983",
     question: "Canh ga dlanh(khuc giua)nk kg",
-  },
-  {
-    answer: "55980",
-    question: "C-Dualuoi g.nhat r.cam kg-BBCC",
-  },
-  {
-    answer: "55984",
-    question: "C-Dua bon bon kg",
   },
   {
     answer: "55985",
@@ -15032,14 +11097,6 @@ const data = [
     question: "QuytduongCoop Selecttuiluoi kg",
   },
   {
-    answer: "56757",
-    question: "C-@Dui ga goc tu kg-Leboucher",
-  },
-  {
-    answer: "56758",
-    question: "C-@Dui toiCNghiep kg-Leboucher",
-  },
-  {
     answer: "56759",
     question: "Ga Cnghiep ncon kg-Leboucher",
   },
@@ -15052,44 +11109,8 @@ const data = [
     question: "Tao Koru My kg",
   },
   {
-    answer: "18910",
-    question: "S-Tao beauty Nam Phi(1)",
-  },
-  {
-    answer: "12951",
-    question: "S-Tao Organic Juliet(1)",
-  },
-  {
-    answer: "13454",
-    question: "S-Le Han Quoc L1(1)",
-  },
-  {
-    answer: "13653",
-    question: "S-Tao Autumn Glory My(1)",
-  },
-  {
-    answer: "15981",
-    question: "S-Tao Lolipop Phap(1)",
-  },
-  {
-    answer: "16750",
-    question: "S-Tao Joya Phap(1)",
-  },
-  {
     answer: "56762",
     question: "Dua luoi g.Nhat ruot cam kg",
-  },
-  {
-    answer: "56764",
-    question: "@Hat bi boc vo kg-VP990",
-  },
-  {
-    answer: "56765",
-    question: "@Hat huong duong boc vo kg-990",
-  },
-  {
-    answer: "12212",
-    question: "S-Oi Nu Hoang kg(1)",
   },
   {
     answer: "56776",
@@ -15102,22 +11123,6 @@ const data = [
   {
     answer: "56770",
     question: "Ca loc bong kdau t.uop-PKD",
-  },
-  {
-    answer: "56785",
-    question: "C-Khoai tay hong CoopSelect kg",
-  },
-  {
-    answer: "56786",
-    question: "C-Khoai tay vang CoopSelect kg",
-  },
-  {
-    answer: "56787",
-    question: "C-Hanh tay tim Coop Select kg",
-  },
-  {
-    answer: "56788",
-    question: "C-Hanh tay Coop Select kg",
   },
   {
     answer: "56790",
@@ -15287,11 +11292,7 @@ const data = [
     answer: "56774",
     question: "Ga Ac ham SC kg-PKD",
   },
-  {
-    answer: "56775",
-    question: "Canh bi do chan gio heo SC-PKD",
-  },
-  {
+ {
     answer: "56842",
     question: "Heo nuong sate kg-CP",
   },
@@ -15370,34 +11371,6 @@ const data = [
   {
     answer: "56887",
     question: "Bong cai xanh Coop Select kg",
-  },
-  {
-    answer: "56889",
-    question: "C-@Keo deo xoaiMagocakg-DH990",
-  },
-  {
-    answer: "16852",
-    question: "S-Tao Dazzle New Zealand kg(1)",
-  },
-  {
-    answer: "16784",
-    question: "S-Tao Posy New Zealand kg(1)",
-  },
-  {
-    answer: "16760",
-    question: "S-Tao Juici My kg  (1)",
-  },
-  {
-    answer: "16761",
-    question: "S-Tao Koru My kg (1)",
-  },
-  {
-    answer: "14650",
-    question: "S-Tao Prince New Zealand kg(1)",
-  },
-  {
-    answer: "16914",
-    question: "S-Tao Koru Newzealand kg(1)",
   },
   {
     answer: "56902",
@@ -15544,10 +11517,6 @@ const data = [
     question: "QuytduongCoop Select L1 tui kg",
   },
   {
-    answer: "56944",
-    question: "C-Cam sanh CoopSelectL1 tui kg",
-  },
-  {
     answer: "55832",
     question: "Cachua BeefDaLatCoop Select kg",
   },
@@ -15662,482 +11631,10 @@ const data = [
   {
     answer: "56985",
     question: "Suon gia SC tam uop kg",
-  },
-  {
-    answer: "56986",
-    question: "C-BuoidaxanhCoopSelectL2 kg-VF",
-  },
-  {
-    answer: "56988",
-    question: "C-Cum bien kg",
-  },
-  {
-    answer: "56990",
-    question: "C-KSD-Au-Dui toi ga My-VB990",
-  },
-  {
-    answer: "56991",
-    question: "C-KSD-Au-CANH TOI 1KG-VB990",
-  },
-  {
-    answer: "56993",
-    question: "C-KSD-Au-CANH GIUA 1KG-VB990",
-  },
-  {
-    answer: "56997",
-    question: "C-KSD-Au-B.C HEO R.SUON C.KHUC",
-  },
-  {
-    answer: "57006",
-    question: "C-KSD-Au-SUON NON HEO KG-VB990",
-  },
-  {
-    answer: "57021",
-    question: "C-KSD-Au-DE SUONBO MY KG-VB990",
-  },
-  {
-    answer: "57035",
-    question: "C-AU-CA BONG CAT kg-PGP990",
-  },
-  {
-    answer: "57040",
-    question: "C-AU-CA NUC KG-PGP990",
-  },
-  {
-    answer: "57041",
-    question: "C-AU-CA BASA K.DAU KG-PGP990",
-  },
-  {
-    answer: "57042",
-    question: "C-AU-TOM THE-PGP990",
-  },
-  {
-    answer: "57044",
-    question: "C-AU-TOM CANG NGOP KG-PGP990",
-  },
-  {
-    answer: "57051",
-    question: "C-AU-CA MO CHAM DB KG-PGP990",
-  },
-  {
-    answer: "57054",
-    question: "C-AU-CA BAC MA KG-PGP990",
-  },
-  {
-    answer: "57055",
-    question: "C-AU-BACH TUOC KG-PGP990",
-  },
-  {
-    answer: "57057",
-    question: "C-AU-TOM LOT-PGP990",
-  },
-  {
-    answer: "57058",
-    question: "C-AU-THIT CANG GHE-PGP990",
-  },
-  {
-    answer: "57059",
-    question: "C-AU-DUI ECH 1KG-PGP990",
-  },
-  {
-    answer: "57060",
-    question: "C-AU-CA BOP CAT KHUC-PGP990",
-  },
-  {
-    answer: "57061",
-    question: "C-AU-CA DUOI 2-3 CON KG-PGP990",
-  },
-  {
-    answer: "57091",
-    question: "C-AU-CACHEM700GR UP 1KG-PGP990",
-  },
-  {
-    answer: "57169",
-    question: "C-AU-COI DIEP BIEN 1KG-PGP990",
-  },
-  {
-    answer: "57170",
-    question: "C-AU-CA TRAN BI KG-PGP990",
-  },
-  {
-    answer: "57171",
-    question: "C-AU-CA DOI KG-PGP990",
-  },
-  {
-    answer: "57172",
-    question: "C-AU-TOM CANG SONG KG-PGP990",
-  },
-  {
-    answer: "57173",
-    question: "C-AU-CA HUONG KG-PGP990",
-  },
-  {
-    answer: "57174",
-    question: "C-AU-CA NGAN KG-PGP990",
-  },
-  {
-    answer: "57175",
-    question: "C-AU-CA THU KHUC-PGP990",
-  },
-  {
-    answer: "57176",
-    question: "C-AU-LUON LAM SACH KG-PGP990",
-  },
-  {
-    answer: "57177",
-    question: "C-AU-NGHEU KG-PGP990",
-  },
-  {
-    answer: "57178",
-    question: "C-AU-CA CHEM FILE-PGP990",
-  },
-  {
-    answer: "57179",
-    question: "C-AU-CA BASA FILE KG-PGP990",
-  },
-  {
-    answer: "57180",
-    question: "C-AU-CA LOC BONG KO DAU-PGP990",
-  },
-  {
-    answer: "57181",
-    question: "C-AU-CA KHOAI DB KG-PGP990",
-  },
-  {
-    answer: "57183",
-    question: "C-AU-CA NGU BO KG-PGP990",
-  },
-  {
-    answer: "57184",
-    question: "C-AU-CA SOC TRANG KG-PGP990",
-  },
-  {
-    answer: "57185",
-    question: "C-AU-CA BONG LAU KG-PGP990",
-  },
-  {
-    answer: "57186",
-    question: "C-Au-FILE CA HOI NAUY-PGP990",
-  },
-  {
-    answer: "57187",
-    question: "C-AU-CA CHIM DEN 1KG-PGP990",
-  },
-  {
-    answer: "57188",
-    question: "C-AU-CA CHIM TRANG KG-PGP990",
-  },
-  {
-    answer: "57189",
-    question: "C-AU-TOM SU-PGP990",
-  },
-  {
-    answer: "57190",
-    question: "C-AU-DAU CAHOI TUOI 1KG-PGP990",
-  },
-  {
-    answer: "57191",
-    question: "C-AU-CA COM 1KG-PGP990",
-  },
-  {
-    answer: "57192",
-    question: "C-AU-TOM HUM SONG KG-PGP990",
-  },
-  {
-    answer: "57193",
-    question: "C-AU-MUC ONG THUOC KG-PGP990",
-  },
-  {
-    answer: "57194",
-    question: "C-AU-HEN THIT 1KG-PGP990",
-  },
-  {
-    answer: "57195",
-    question: "C-AU-CA HO 1KG-PGP990",
-  },
-  {
-    answer: "57196",
-    question: "C-AU-LUON CA HOI 1KG-PGP990",
-  },
-  {
-    answer: "57197",
-    question: "C-AU-XUONG CA HOI 1KG-PGP990",
-  },
-  {
-    answer: "57198",
-    question: "C-AU-THAC LAC NAO 1KG-PGP990",
-  },
-  {
-    answer: "57199",
-    question: "C-AU-CUATHIT 2-3CON 1KG-PGP990",
-  },
-  {
-    answer: "57200",
-    question: "C-AU-TOM SU TN KG-PGP990",
-  },
-  {
-    answer: "57201",
-    question: "C-AU-CA HOI HAT LUU 1KG-PGP990",
-  },
-  {
-    answer: "57202",
-    question: "C-AU-CA MU CAT KHUC 1KG-PGP990",
-  },
-  {
-    answer: "57203",
-    question: "C-AU-CA DIEUHONGSONG KG-PGP990",
-  },
-  {
-    answer: "57204",
-    question: "C-AU-CA LANG SONG KG-PGP990",
-  },
-  {
-    answer: "57205",
-    question: "C-AU-CA CHEPGIONSONG KG-PGP990",
-  },
-  {
-    answer: "57206",
-    question: "C-AU-CA BONG MU SONG-PGP990",
-  },
-  {
-    answer: "57207",
-    question: "C-AU-TOMHUMSONGBACMY KG-PGP990",
-  },
-  {
-    answer: "57209",
-    question: "C-AU-CA PHEN DB KG-PGP990",
-  },
-  {
-    answer: "57212",
-    question: "C-AU-CA HANH DB-PGP990",
-  },
-  {
-    answer: "57213",
-    question: "C-AU-CA NAU DB KG-PGP990",
-  },
-  {
-    answer: "57215",
-    question: "C-AU-CA KHOAI KG-PGP990",
-  },
-  {
-    answer: "57217",
-    question: "C-AU-CUA KING CRAB KG-PGP990",
-  },
-  {
-    answer: "57218",
-    question: "C-AU-CA BONG MU DEN KG-PGP990",
-  },
-  {
-    answer: "57219",
-    question: "C-AU-CA CHIM BIEN KG-PGP990",
-  },
-  {
-    answer: "57224",
-    question: "C-AU-CA LUOI TRAU DB-PGP990",
-  },
-  {
-    answer: "57225",
-    question: "C-AU-CA THU 2KG UP KG-PGP990",
-  },
-  {
-    answer: "57226",
-    question: "C-AU-CA GAY 600GR UP KG-PGP990",
-  },
-  {
-    answer: "57227",
-    question: "C-AU-CA BONG DUC KG-PGP990",
-  },
-  {
-    answer: "57228",
-    question: "C-AU-TRUNG CA THU KG-PGP990",
-  },
-  {
-    answer: "57229",
-    question: "C-AU-CA LANG NGOP-PGP990",
-  },
-  {
-    answer: "57230",
-    question: "C-AU-SO HUYET-PGP990",
-  },
-  {
-    answer: "57236",
-    question: "C-AU-CA MO CHAM DB-PGP990",
-  },
-  {
-    answer: "57238",
-    question: "C-AU-CA BOP 2KG UP KG-PGP990",
-  },
-  {
-    answer: "57240",
-    question: "C-AU-CA RO LAM SACH-PGP990",
-  },
-  {
-    answer: "57244",
-    question: "C-AU-CA CHIMTRANGSONGKG-PGP990",
-  },
-  {
-    answer: "57245",
-    question: "C-AU-BAO TU CA BASA-PGP990",
-  },
-  {
-    answer: "57246",
-    question: "C-AU-CA RIA DB KG-PGP990",
-  },
-  {
-    answer: "57247",
-    question: "C-AU-CA CAM DB KG-PGP990",
-  },
-  {
-    answer: "57248",
-    question: "C-AU-DAU CA BOP KG-PGP990",
-  },
-  {
-    answer: "57249",
-    question: "C-AU-MUC LA KG-PGP990",
-  },
-  {
-    answer: "57261",
-    question: "C-AU-MUC LA 2-3 CON KG-PGP990",
-  },
-  {
-    answer: "57270",
-    question: "C-AU-TOM HUM NGOP KG-PGP990",
-  },
-  {
-    answer: "57280",
-    question: "C-AU-GHE SONG-PGP990",
-  },
-  {
-    answer: "57284",
-    question: "C-MUC NANG BD 1KG-PGP990",
-  },
-  {
-    answer: "57290",
-    question: "C-AU-CANGU DD CATKHUCKG-PGP990",
-  },
-  {
-    answer: "57292",
-    question: "C-AU-CUA GACH 2-3CON KG-PGP990",
-  },
-  {
-    answer: "57295",
-    question: "C-AU-TOMHUMNGOP B.MY KG-PGP990",
-  },
-  {
-    answer: "57304",
-    question: "C-AU-DAU CA THU KG-PGP990",
-  },
-  {
-    answer: "57381",
-    question: "C-AU-DAU CA CHEM KG-PGP990",
-  },
-  {
-    answer: "57383",
-    question: "C-AU-DAU CA MU KG-PGP990",
-  },
-  {
-    answer: "57384",
-    question: "C-AU-CA HUONG BIEN KG-PGP990",
-  },
-  {
-    answer: "57387",
-    question: "C-AU-CA MU BIEN DO KG-PGP990",
-  },
-  {
-    answer: "57389",
-    question: "C-AU-CA TAM KG-PGP990",
-  },
-  {
-    answer: "57392",
-    question: "C-AU-CA KEO SONG KG-PGP990",
-  },
-  {
-    answer: "57393",
-    question: "C-AU-CA NUC GOC 2 -4C-PGP990",
-  },
-  {
-    answer: "57394",
-    question: "C-AU-CA HUONG TIA KG-PGP990",
-  },
-  {
-    answer: "57395",
-    question: "C-AU-CA VIEN 700GR UP-PGP990",
-  },
-  {
-    answer: "57396",
-    question: "C-AU-CA BONG LAU KHUC-PGP990",
-  },
-  {
-    answer: "57397",
-    question: "C-AU-CA HUONG BIEN KHUC-PGP990",
-  },
-  {
-    answer: "57399",
-    question: "C-AU-CA BO DA 700GR UP-PGP990",
-  },
-  {
-    answer: "57450",
-    question: "C-KSD-Au-THOM ORGANIC KG",
-  },
-  {
-    answer: "57400",
-    question: "C-KSD-AU-NUOC TUONG-990",
-  },
-  {
-    answer: "57597",
-    question: "C-KSD-AU-GUNG SUSHI-990",
-  },
-  {
-    answer: "57598",
-    question: "C-KSD-AU-RONGBIEN CHUKA WAKAME",
-  },
-  {
-    answer: "57599",
-    question: "C-KSD-AU-TRUNG CA CAM-990",
-  },
-  {
-    answer: "57600",
-    question: "C-KSD-AU-TRUNG CA DEN-990",
-  },
-  {
-    answer: "57601",
-    question: "C-KSD-AU-CA HOI SASHIMI-990",
-  },
-  {
-    answer: "57602",
-    question: "C-KSD-AU-SoCheBien DONG LANH-9",
-  },
-  {
-    answer: "57603",
-    question: "C-KSD-AU-SUA TRON GIA VI-990",
-  },
-  {
-    answer: "57604",
-    question: "C-KSD-AU-CA TUYET -990",
-  },
-  {
-    answer: "57605",
-    question: "C-KSD-AU-B.TUOTC.BIENHOKKAIDO-",
-  },
-  {
-    answer: "57606",
-    question: "C-KSD-AU-LUON-990",
-  },
-  {
-    answer: "57607",
-    question: "C-KSD-AU-TRUNG CA CHUON-990",
-  },
-  {
-    answer: "57608",
-    question: "C-KSD-AU-TRUNG CA HOI 1-990",
-  },
+  }, 
   {
     answer: "57596",
     question: "PR-CA PHE CULI 1KG-990",
-  },
-  {
-    answer: "57410",
-    question: "C-Au-CA CHUA PANAMA",
   },
   {
     answer: "57423",
@@ -16160,52 +11657,8 @@ const data = [
     question: "AU-CHV XUC XICH KHO CHORIZO",
   },
   {
-    answer: "57417",
-    question: "C-Au-TOI CHUM KG",
-  },
-  {
-    answer: "57418",
-    question: "C-Au-TOI ROI KG",
-  },
-  {
-    answer: "57609",
-    question: "C-Au-LE NHAT",
-  },
-  {
-    answer: "57444",
-    question: "C-Au-CHUOI ORGANIC KG",
-  },
-  {
-    answer: "57445",
-    question: "C-Au-CHUOI SU ORGANIC KG",
-  },
-  {
-    answer: "57446",
-    question: "C-Au-THOM ORGANIC KG",
-  },
-  {
-    answer: "57447",
-    question: "C-Au-BI DO ORGANIC KG",
-  },
-  {
-    answer: "57448",
-    question: "C-Au-BAP CHUOI ORGANIC KG",
-  },
-  {
     answer: "57461",
     question: "KSD-AU-CHV DAM BONG VUONG KG",
-  },
-  {
-    answer: "57462",
-    question: "C-AU-BA ROI HUN KHOI 1KG",
-  },
-  {
-    answer: "57463",
-    question: "C-AU-T.TAM GIA VI XONG KHOI1KG",
-  },
-  {
-    answer: "57464",
-    question: "C-AU-THIT NGUOI CHIN 1KG",
   },
   {
     answer: "57469",
@@ -16230,14 +11683,6 @@ const data = [
   {
     answer: "57474",
     question: "Au-MANG LA TUOI ( KG)",
-  },
-  {
-    answer: "57477",
-    question: "C-Au-KIM CHI CAI THAO(KG)",
-  },
-  {
-    answer: "57478",
-    question: "C-AU-DUA CAI AN LIEN ( KG)",
   },
   {
     answer: "57486",
@@ -16404,22 +11849,6 @@ const data = [
     question: "AU-CB GAO TAM DAI LOAN",
   },
   {
-    answer: "57579",
-    question: "C-AU-BANH UOT",
-  },
-  {
-    answer: "57580",
-    question: "C-AU-BUN NHI - BO - TRUNG TD",
-  },
-  {
-    answer: "57581",
-    question: "C-AU-HU TIU DAI TD",
-  },
-  {
-    answer: "57582",
-    question: "C-AU-BUN OC TD",
-  },
-  {
     answer: "57494",
     question: "Au-PHO MAI BRIE 1KG",
   },
@@ -16452,14 +11881,6 @@ const data = [
     question: "FAu-THITNGUOI SERRANO 1KG-990",
   },
   {
-    answer: "57623",
-    question: "C-Au-XUC XICH MILANO KG-990",
-  },
-  {
-    answer: "57624",
-    question: "C-Au-PRE PH.MAI BFORT KG-990",
-  },
-  {
     answer: "57625",
     question: "FAu-PRE PM FOURME DAMB.KG-990",
   },
@@ -16472,20 +11893,12 @@ const data = [
     question: "FAu-PR P.MAI MIMOLETTE KG-990",
   },
   {
-    answer: "57628",
-    question: "C-Au-PRE P.M OSSAU IRAT.KG-990",
-  },
-  {
     answer: "57629",
     question: "FAu-PHO MAI LE GRUYERE KG-990",
   },
   {
     answer: "57630",
     question: "FAu-PM ROQUEFORT AGENTAL KG990",
-  },
-  {
-    answer: "57631",
-    question: "C-Au-PHO MAI STILTON KG-990",
   },
   {
     answer: "57632",
@@ -16506,10 +11919,6 @@ const data = [
   {
     answer: "57636",
     question: "FAu-PM REBLOCHON DE SAVO.-990",
-  },
-  {
-    answer: "57637",
-    question: "C-Au-PM TOM BLANCHE DOR KG-990",
   },
   {
     answer: "57638",
@@ -16536,10 +11945,6 @@ const data = [
     question: "FAu-PM GRAN AMICI PAMESAN-990",
   },
   {
-    answer: "57644",
-    question: "C-Au-P M XANH DANABLU 3KG-990",
-  },
-  {
     answer: "57645",
     question: "Au-PMAI WHITE BRINED 1KG-990",
   },
@@ -16550,18 +11955,6 @@ const data = [
   {
     answer: "57647",
     question: "FAu-PM CHEEDAR WHITE 2.5KG-990",
-  },
-  {
-    answer: "57648",
-    question: "C-Au-PM MANCHEGO 2.8KG-990",
-  },
-  {
-    answer: "57649",
-    question: "C-Au-PM VECHE MELUSIN.850G-990",
-  },
-  {
-    answer: "57650",
-    question: "C-Au-P.M MOZRELLA PIZZERIA-990",
   },
   {
     answer: "57651",
@@ -16579,23 +11972,7 @@ const data = [
     answer: "57654",
     question: "FAu-OLIU HON HOP KG-990",
   },
-  {
-    answer: "57655",
-    question: "C-Au-GREEN APERITIF OLI.KG-990",
-  },
-  {
-    answer: "57656",
-    question: "C-Au-BLACK LECNO OLIVES KG-990",
-  },
-  {
-    answer: "57657",
-    question: "C-Au-TAGGIASCA OLIVES KG-990",
-  },
-  {
-    answer: "57658",
-    question: "Au-GREEN CERIGNOLA OLIVES-990",
-  },
-  {
+ {
     answer: "57659",
     question: "FAu-CA CHUA PHOI NANG-990",
   },
@@ -16606,10 +11983,6 @@ const data = [
   {
     answer: "57661",
     question: "FAu-THIT NGUOI GA TAY KG-990",
-  },
-  {
-    answer: "57662",
-    question: "C-Au-T.HEOXK CONTADINO PRE-990",
   },
   {
     answer: "57663",
@@ -16624,26 +11997,6 @@ const data = [
     question: "FAu-THIT NGUOI XK PANCETTA-990",
   },
   {
-    answer: "57666",
-    question: "C-Au-T.HEO XK BALUG. PARMA-990",
-  },
-  {
-    answer: "57667",
-    question: "C-Au-JAMBON SERRANO KG-990",
-  },
-  {
-    answer: "57668",
-    question: "C-Au-T.NGUOI SERRANOSHOULD-990",
-  },
-  {
-    answer: "57669",
-    question: "C-Au-XUC XICH NAPOLI KG-990",
-  },
-  {
-    answer: "57670",
-    question: "C-Au-X.X PAVE NATURE 1KG-990",
-  },
-  {
     answer: "57671",
     question: "FAu-T.NGUOI SERANOLOMO KG-990",
   },
@@ -16656,28 +12009,8 @@ const data = [
     question: "FAu-X.X SUPERIOR ROSETTE-990",
   },
   {
-    answer: "57674",
-    question: "C-Au-XX CAY MEDITERANEA KG-990",
-  },
-  {
     answer: "57675",
     question: "FAu-THIT NGUOI PARMA 7.6KG-990",
-  },
-  {
-    answer: "57676",
-    question: "C-Au-X.XICH MUGNANO 450GR-990",
-  },
-  {
-    answer: "57677",
-    question: "C-Au-X.XICH NAPOLI CAY KG-990",
-  },
-  {
-    answer: "57678",
-    question: "C-Au-T.HEO MUOI SHOU BONELS990",
-  },
-  {
-    answer: "57679",
-    question: "C-Au-XX CAPOCOLONAPOLETANO-990",
   },
   {
     answer: "57680",
@@ -16704,24 +12037,8 @@ const data = [
     question: "Au-KHOAI MY HAP-990",
   },
   {
-    answer: "57685",
-    question: "C-Au-CA LAT kg-PGP990",
-  },
-  {
-    answer: "57686",
-    question: "C-Au-CA SOC KG-PGP990",
-  },
-  {
-    answer: "57689",
-    question: "C-Au-QUYT BI THAI KG",
-  },
-  {
     answer: "57690",
     question: "Au-DUA LUOI TRON RUOT CAM KG",
-  },
-  {
-    answer: "57691",
-    question: "C-Au-DUA LUOI RUOT XANH KG",
   },
   {
     answer: "57707",
@@ -16971,17 +12288,9 @@ const data = [
     answer: "57814",
     question: "Au-CANH KHO QUA D.THIT-PKD990",
   },
-  {
-    answer: "57819",
-    question: "Au-RAU CU LUOC-PKD990",
-  },
-  {
+ {
     answer: "57820",
     question: "Au-BA CHI CHIEN N. MAM -PKD990",
-  },
-  {
-    answer: "57823",
-    question: "C-Au-RAU CAU NEWCHOICE (KG)",
   },
   {
     answer: "57825",
@@ -17012,30 +12321,6 @@ const data = [
     question: "Au-KEO BAP VANG (KG)",
   },
   {
-    answer: "57838",
-    question: "C-Au-CA NGU DD FILE 1KG-PGP990",
-  },
-  {
-    answer: "57839",
-    question: "C-Au-CUA DONG XAY 1KG-PGP990",
-  },
-  {
-    answer: "57845",
-    question: "C-Au-CA MU FILE 1KG-PGP990",
-  },
-  {
-    answer: "57846",
-    question: "C-Au-BAONGU18-20CON 1KG-PGP990",
-  },
-  {
-    answer: "57847",
-    question: "C-Au-CUA CANADA KG-PGP990",
-  },
-  {
-    answer: "57848",
-    question: "C-Au-CA LOC DEN SONG-PGP990",
-  },
-  {
     answer: "57854",
     question: "AU-CB DAU AN CAI LAN",
   },
@@ -17064,26 +12349,6 @@ const data = [
     question: "Au-CB CAI CHUA",
   },
   {
-    answer: "57938",
-    question: "C-Au-MIT VIEN LINH ORG LOAI2KG",
-  },
-  {
-    answer: "57939",
-    question: "C-Au-DUA LUOI ORGANIC KG",
-  },
-  {
-    answer: "57940",
-    question: "C-Au-MIT VIEN LINH ORG LOAI1KG",
-  },
-  {
-    answer: "57941",
-    question: "C-Au-OI NU HOANG ORGANIC KG",
-  },
-  {
-    answer: "57937",
-    question: "C-Au-DU DU ORGANIC KG",
-  },
-  {
     answer: "57942",
     question: "Au-SANDWISH THIT SIMPLY-PKD990",
   },
@@ -17104,10 +12369,6 @@ const data = [
     question: "Au-TAM UOP UC GA-PKD990",
   },
   {
-    answer: "57947",
-    question: "C-Au-D.toi ga tay P.T 2-2.7LB",
-  },
-  {
     answer: "57976",
     question: "Au-ANCHORPHOMAICHEDDAR 1KG/2KG",
   },
@@ -17120,28 +12381,8 @@ const data = [
     question: "Au-ANCHORPHMAIMOZZARELL1KG/5KG",
   },
   {
-    answer: "57957",
-    question: "C-Au-C.I THIT TAM GIA VI",
-  },
-  {
-    answer: "57958",
-    question: "C-Au-C.I THIT NGUOI CHIN",
-  },
-  {
     answer: "57965",
     question: "Canh ngong hun khoi 1kg",
-  },
-  {
-    answer: "57732",
-    question: "C-Au-C.I BA ROI HUN KH",
-  },
-  {
-    answer: "57967",
-    question: "C-Au-THIT GIA SUC-VS990",
-  },
-  {
-    answer: "57968",
-    question: "C-Au-THUY HAI SAN-PGP990",
   },
   {
     answer: "57973",
@@ -17150,343 +12391,7 @@ const data = [
   {
     answer: "57974",
     question: "Au-T.NGUOI COPPA 1-2KG-990",
-  },
-  {
-    answer: "57975",
-    question: "C-Au-BP DUA TUOI 800GR UP 1 KG",
-  },
-  {
-    answer: "57980",
-    question: "C-Au-Thom trai con vo kg",
-  },
-  {
-    answer: "58067",
-    question: "C-KSD-Au-Ba chi bo My kg-KB990",
-  },
-  {
-    answer: "57984",
-    question: "C-Au-Thit dui heo-VS990",
-  },
-  {
-    answer: "57985",
-    question: "C-Au-Thit vai heo-VS990",
-  },
-  {
-    answer: "57986",
-    question: "C-Au-Thit nach heo-VS990",
-  },
-  {
-    answer: "57987",
-    question: "C-Au-Nac dam heo-VS990",
-  },
-  {
-    answer: "57988",
-    question: "C-Au-Nac dui heo-VS990",
-  },
-  {
-    answer: "57989",
-    question: "C-Au-Than noi heo-VS990",
-  },
-  {
-    answer: "57990",
-    question: "C-Au-Than ngoai heo-VS990",
-  },
-  {
-    answer: "57991",
-    question: "C-Au-Gio heo rut xuong-VS990",
-  },
-  {
-    answer: "57992",
-    question: "C-Au-Cotlet heo-VS990",
-  },
-  {
-    answer: "57993",
-    question: "C-Au-Ba roi heo -VS990",
-  },
-  {
-    answer: "57994",
-    question: "C-Au-Ba roi rut suon-VS990",
-  },
-  {
-    answer: "57995",
-    question: "C-Au-Suon non heo-VS990",
-  },
-  {
-    answer: "57996",
-    question: "C-Au-Suon gia heo-VS990",
-  },
-  {
-    answer: "57997",
-    question: "C-Au-Xuong duoi heo-VS990",
-  },
-  {
-    answer: "57998",
-    question: "C-Au-Duoi cut heo-VS990(d.heo)",
-  },
-  {
-    answer: "57999",
-    question: "C-Au-Chan gio heo-VS990",
-  },
-  {
-    answer: "58000",
-    question: "C-Au-Nac roi heo xay-VS990",
-  },
-  {
-    answer: "58017",
-    question: "C-Au-Dung heo-VS990",
-  },
-  {
-    answer: "58018",
-    question: "C-Au-Sun goi heo-VS990",
-  },
-  {
-    answer: "58019",
-    question: "C-Au-Suon heo chat-VS990",
-  },
-  {
-    answer: "58020",
-    question: "C-Au-Xuong ong heo-VS990",
-  },
-  {
-    answer: "58024",
-    question: "C-Au-Xuong bo heo-VS990",
-  },
-  {
-    answer: "58025",
-    question: "C-Au-Xuon song heo-VS990",
-  },
-  {
-    answer: "58026",
-    question: "C-Au-Nong heo-VS990",
-  },
-  {
-    answer: "58027",
-    question: "C-Au-Mo phan heo -VS990",
-  },
-  {
-    answer: "58028",
-    question: "C-Au-Xuong vun heo-VS990",
-  },
-  {
-    answer: "58029",
-    question: "C-Au-Thit nac heo xay -VS990",
-  },
-  {
-    answer: "58030",
-    question: "C-Au-Da mo vun -VS990",
-  },
-  {
-    answer: "58031",
-    question: "C-Au-Da heo (mieng lon)-VS990",
-  },
-  {
-    answer: "58032",
-    question: "C-Au-X.vaXG>MAT KIEN KG_VS(()",
-  },
-  {
-    answer: "58033",
-    question: "C-Au-Than noi boUc-VS990(Bo A)",
-  },
-  {
-    answer: "58034",
-    question: "C-Au-Than ngoaiboUc-VS990(BoB)",
-  },
-  {
-    answer: "58035",
-    question: "C-Au-Nac duiboUc-VS990(dui bo)",
-  },
-  {
-    answer: "58036",
-    question: "C-Au-Dui vai bo Uc-VS990",
-  },
-  {
-    answer: "58037",
-    question: "C-Au-Bap bo Uc-VS990",
-  },
-  {
-    answer: "58038",
-    question: "C-Au-Bap bo hoa bo Uc-VS990",
-  },
-  {
-    answer: "58039",
-    question: "C-Au-Bo xao bo Uc-VS990",
-  },
-  {
-    answer: "58040",
-    question: "C-Au-Bo xay Bo Uc-VS990",
-  },
-  {
-    answer: "58041",
-    question: "C-Au-Gau bo Uc-VS990",
-  },
-  {
-    answer: "58042",
-    question: "C-Au-Nam bo Uc-VS990",
-  },
-  {
-    answer: "58043",
-    question: "C-Au-Co bo Uc-VS990",
-  },
-  {
-    answer: "58044",
-    question: "C-Au-Gan dau bap bo Uc-VS990",
-  },
-  {
-    answer: "58045",
-    question: "C-Au-Gan bo Uc-VS990",
-  },
-  {
-    answer: "58046",
-    question: "C-Au-Nac vun bo Uc-VS990",
-  },
-  {
-    answer: "58047",
-    question: "C-Au-Dam mui bo UC-VS990",
-  },
-  {
-    answer: "58048",
-    question: "C-Au-Xuong ong bo Uc-VS990",
-  },
-  {
-    answer: "58049",
-    question: "C-Au-Mo bo Uc-VS990",
-  },
-  {
-    answer: "58050",
-    question: "C-Au-Dui go bo Uc-VS990",
-  },
-  {
-    answer: "58051",
-    question: "C-Au-Dui bittet bo Uc-VS990",
-  },
-  {
-    answer: "58052",
-    question: "C-Au-Dui la co bo Uc-VS990",
-  },
-  {
-    answer: "58053",
-    question: "C-Au-Xuong bo bo Uc-VS990",
-  },
-  {
-    answer: "58054",
-    question: "C-Au-Be suon bo Uc kg-VS990",
-  },
-  {
-    answer: "58055",
-    question: "C-Au-Tim heo-VS990",
-  },
-  {
-    answer: "58056",
-    question: "C-Au-Cat heo-VS990",
-  },
-  {
-    answer: "58057",
-    question: "C-Au-Luoi heo-VS990",
-  },
-  {
-    answer: "58058",
-    question: "C-Au-Bao tu heo-VS990",
-  },
-  {
-    answer: "58059",
-    question: "C-Au-Gan heo-VS990",
-  },
-  {
-    answer: "58060",
-    question: "C-Au-Pheo non heo-VS990",
-  },
-  {
-    answer: "58061",
-    question: "C-Au-Tai heo-VS990",
-  },
-  {
-    answer: "58062",
-    question: "C-Au-La mia heo-VS990",
-  },
-  {
-    answer: "58063",
-    question: "C-Au-Dau heo nguyen cai-VS990",
-  },
-  {
-    answer: "58064",
-    question: "C-Au-Mui heo-VS990",
-  },
-  {
-    answer: "58065",
-    question: "C-Au-Thu linh heo-VS990",
-  },
-  {
-    answer: "58066",
-    question: "C-Au-Nac bap heo -VS990",
-  },
-  {
-    answer: "58068",
-    question: "C-KSD-Au-Bap hoa bo My kg-K990",
-  },
-  {
-    answer: "58069",
-    question: "C-KSD-Au-BaphoaboMySlice-KB990",
-  },
-  {
-    answer: "58070",
-    question: "C-KSD-Au-Suonbo My cxuog-KB990",
-  },
-  {
-    answer: "58074",
-    question: "C-KSD-Au-T.vai bo My Hotpot kg",
-  },
-  {
-    answer: "58075",
-    question: "C-KSD-Au-D.than bo Uc kg-KB990",
-  },
-  {
-    answer: "58076",
-    question: "C-KSD-Au-Dau than bo Uc -KB990",
-  },
-  {
-    answer: "58078",
-    question: "C-KSD-Au-Thanvaibo Uc kg-KB990",
-  },
-  {
-    answer: "58081",
-    question: "C-Au-Xuc xich Anh kg-KB990",
-  },
-  {
-    answer: "58082",
-    question: "C-Au-Xuc xich Toulouse-KB990",
-  },
-  {
-    answer: "58083",
-    question: "C-Au-Xuc xich Y kg-KB990",
-  },
-  {
-    answer: "15247",
-    question: "S-Ca Huong lam sach kg (1)",
-  },
-  {
-    answer: "16002",
-    question: "S-Cua xay kg(1)",
-  },
-  {
-    answer: "16004",
-    question: "S-Nhong Kg (1)",
-  },
-  {
-    answer: "16031",
-    question: "S-Oc buu thit kg (1)",
-  },
-  {
-    answer: "16037",
-    question: "S-Thit hen kg (1)",
-  },
-  {
-    answer: "14574",
-    question: "S-Tom the lon(50-70con/kg) (1)",
-  },
-  {
-    answer: "58085",
-    question: "@Sau rieng kg-9PHE990",
-  },
+  },     
   {
     answer: "58096",
     question: "Rau mop chua kg TNP",
@@ -17494,22 +12399,6 @@ const data = [
   {
     answer: "58088",
     question: "Cha moc kg",
-  },
-  {
-    answer: "58092",
-    question: "C-Keo caphe sua Coop Select kg",
-  },
-  {
-    answer: "58093",
-    question: "C-Keo trai cay Coop Select kg",
-  },
-  {
-    answer: "58094",
-    question: "C-ThachschuaCoopSelect hnho kg",
-  },
-  {
-    answer: "58095",
-    question: "C-ThachschuaCoopSelect hlon kg",
   },
   {
     answer: "58097",
@@ -17624,84 +12513,8 @@ const data = [
     question: "Xuong ong heo chuan ngon(S)kg",
   },
   {
-    answer: "58162",
-    question: "C-F-Buoi nam roi kg",
-  },
-  {
-    answer: "58163",
-    question: "C-F-Cam Soan kg",
-  },
-  {
-    answer: "58164",
-    question: "C-F-Chanh khong hat dong vi kg",
-  },
-  {
-    answer: "58165",
-    question: "C-F-Chom chom giong Thai kg",
-  },
-  {
-    answer: "58166",
-    question: "C-F-Chom chom nhan kg",
-  },
-  {
-    answer: "58167",
-    question: "C-F-Chuoi cau kg",
-  },
-  {
-    answer: "58168",
-    question: "C-F-Chuoi sap song kg",
-  },
-  {
-    answer: "58169",
-    question: "C-F-Coc non giong Thai kg",
-  },
-  {
-    answer: "58170",
-    question: "C-F-Dau tay Da Lat kg",
-  },
-  {
-    answer: "58175",
-    question: "C-F-Man sua dong vi kg",
-  },
-  {
-    answer: "58180",
-    question: "C-F-Quyt tieu kg",
-  },
-  {
-    answer: "58181",
-    question: "C-F-So ri kg",
-  },
-  {
-    answer: "58182",
-    question: "C-F-Tao Hong Phan Rang kg",
-  },
-  {
-    answer: "58185",
-    question: "C-F-Thom trai con vo kg",
-  },
-  {
     answer: "58190",
     question: "F-Man An Phuoc kg",
-  },
-  {
-    answer: "58191",
-    question: "C-F-Man xanh duong kg",
-  },
-  {
-    answer: "58195",
-    question: "C-F-Buoi da xanh (tui xach) kg",
-  },
-  {
-    answer: "58198",
-    question: "C-@Ma dui ga kg-Le Boucher",
-  },
-  {
-    answer: "58211",
-    question: "C-F-Xoai Cat Chu kg- XCC",
-  },
-  {
-    answer: "58212",
-    question: "C-F-Xoai cat HLoc - XCC",
   },
   {
     answer: "58224",
@@ -17720,116 +12533,12 @@ const data = [
     question: "Thit vai heo G kg",
   },
   {
-    answer: "58236",
-    question: "C-F-Gau bo Uc kg",
-  },
-  {
-    answer: "58237",
-    question: "C-F-Nam bung bo Uc kg",
-  },
-  {
-    answer: "58238",
-    question: "C-F-Nac vun lon bo Uc kg",
-  },
-  {
-    answer: "58239",
-    question: "C-F-Co bo Uc kg",
-  },
-  {
-    answer: "58240",
-    question: "C-F-Bap bo Uc kg",
-  },
-  {
-    answer: "58241",
-    question: "C-F-Gu bo Uc kg",
-  },
-  {
-    answer: "58242",
-    question: "C-F-De suon bo Uc kg",
-  },
-  {
-    answer: "58243",
-    question: "C-F-Ba chi bo Uc kg",
-  },
-  {
-    answer: "58244",
-    question: "C-F-Cuc tron bo UC kg",
-  },
-  {
-    answer: "58245",
-    question: "C-F-Nac vai bo Uc kg",
-  },
-  {
-    answer: "58246",
-    question: "C-F-Thit tai bo Uc",
-  },
-  {
-    answer: "58247",
-    question: "C-F-Dui la co bo Uc kg",
-  },
-  {
-    answer: "58248",
-    question: "C-F-Bittetbo Uc kg",
-  },
-  {
-    answer: "58249",
-    question: "C-F-Thit caloc bo uc kg",
-  },
-  {
-    answer: "58250",
-    question: "C-F-Nam suon k.xgbo Uc kg",
-  },
-  {
-    answer: "58251",
-    question: "C-F-Thit long tet bo Uc",
-  },
-  {
-    answer: "58252",
-    question: "C-F-Thit giam tao bo Uc",
-  },
-  {
-    answer: "58253",
-    question: "C-F-Thit than bo Uc kg",
-  },
-  {
-    answer: "58254",
-    question: "C-F-Bap hoa bo Uc kg",
-  },
-  {
-    answer: "58255",
-    question: "C-F-Thit phi le bo Uc kg",
-  },
-  {
-    answer: "58258",
-    question: "C-F-Ca Chem lon lsach kg",
-  },
-  {
-    answer: "58261",
-    question: "C-F-Ca chim den lsach kg",
-  },
-  {
-    answer: "58264",
-    question: "C-F-Ca Huong lam sach kg",
-  },
-  {
-    answer: "58266",
-    question: "C-F-Ca dieu hong lsach kg",
-  },
-  {
-    answer: "58272",
-    question: "C-F-Muc ong lam sach kg",
-  },
-  {
     answer: "58277",
     question: "Ca bong duc kg -PGP990",
   },
   {
     answer: "58279",
     question: "Xuong heo rung lai kg-AHT990",
-  },
-  {
-    answer: "58283",
-    question: "C-F-Thit ngheu lsach kg",
   },
   {
     answer: "58291",
@@ -17878,62 +12587,6 @@ const data = [
   {
     answer: "58305",
     question: "Ma dui ga quay kg -PKD990",
-  },
-  {
-    answer: "58321",
-    question: "C-@Gung sushi kg-BS990",
-  },
-  {
-    answer: "58306",
-    question: "C-@Rongbien chukawake kg-BS990",
-  },
-  {
-    answer: "58307",
-    question: "C-@Trung ca cam kg-BS990",
-  },
-  {
-    answer: "58308",
-    question: "C-@Trung ca den kg-BS990",
-  },
-  {
-    answer: "58309",
-    question: "C-@Ca hoi sashimi kg-BS990",
-  },
-  {
-    answer: "58310",
-    question: "C-@So che bien d.lanh kg-BS990",
-  },
-  {
-    answer: "58311",
-    question: "C-KSD-AU-SUA TRON GVI kg-BS990",
-  },
-  {
-    answer: "58312",
-    question: "C-@Ca tuyet kg-BS990",
-  },
-  {
-    answer: "58313",
-    question: "C-@B.tuoc cb hokkai.kg-BS990",
-  },
-  {
-    answer: "58314",
-    question: "C-@Luon kg-BS990",
-  },
-  {
-    answer: "58315",
-    question: "C-@Trung ca chuon kg-BS990",
-  },
-  {
-    answer: "58316",
-    question: "C-@Trung ca hoi kg-BS990",
-  },
-  {
-    answer: "58317",
-    question: "C-@Fillet ca hoi Nauy kg-BS990",
-  },
-  {
-    answer: "58318",
-    question: "C-@Bao ngu Uc kg-BS990",
   },
   {
     answer: "58322",
@@ -18020,14 +12673,6 @@ const data = [
     question: "F-Dua chuot ngamgiam kg-NCD990",
   },
   {
-    answer: "58359",
-    question: "C-F-X.x LaRosette DeLyonNCD990",
-  },
-  {
-    answer: "58360",
-    question: "C-F-X.x LePavLyonnais kgNCD990",
-  },
-  {
     answer: "58361",
     question: "F-P.mai EmmiLeGruyre kg-NCD990",
   },
@@ -18064,10 +12709,6 @@ const data = [
     question: "F-P.mai Gorgonz.GALBANI-NCD990",
   },
   {
-    answer: "58373",
-    question: "C-F-P.mai Beaufort kg-NCD990",
-  },
-  {
     answer: "58374",
     question: "F-P.mai Comte Le Monta.-NCD990",
   },
@@ -18082,10 +12723,6 @@ const data = [
   {
     answer: "58377",
     question: "F-P.mai Saint Necta. kg-NCD990",
-  },
-  {
-    answer: "58378",
-    question: "C-F-P.maiFourmed'ambert kg990",
   },
   {
     answer: "58379",
@@ -18112,38 +12749,6 @@ const data = [
     question: "F-P.mai Latte.Parm.Regg-NCD990",
   },
   {
-    answer: "58386",
-    question: "C-F-X.x LevoniNostranokgNCD990",
-  },
-  {
-    answer: "58387",
-    question: "C-F-X.x LevoniAffumicata kg990",
-  },
-  {
-    answer: "58388",
-    question: "C-F-X.x LevoniSalameContad-990",
-  },
-  {
-    answer: "58389",
-    question: "C-F-X.xLevoni Salame Milano990",
-  },
-  {
-    answer: "58390",
-    question: "C-F-X.x Levoni Sala.Gennaro990",
-  },
-  {
-    answer: "58391",
-    question: "C-F-X.xLevoni SalameMugnan-990",
-  },
-  {
-    answer: "58392",
-    question: "C-F-X.xLevoniSal.Affu.kgNCD990",
-  },
-  {
-    answer: "58393",
-    question: "C-F-X.x Sala.VecchiaOsteria990",
-  },
-  {
     answer: "58394",
     question: "F-T.heo xkhoi Corona kg-NCD990",
   },
@@ -18162,10 +12767,6 @@ const data = [
   {
     answer: "58398",
     question: "F-Thit heo xk-CasSpeAff-NCD990",
-  },
-  {
-    answer: "58399",
-    question: "C-F-Oliu ngn.muoiNereDenNCD990",
   },
   {
     answer: "58400",
@@ -18200,22 +12801,6 @@ const data = [
     question: "Tao bi do My tui kg",
   },
   {
-    answer: "58421",
-    question: "C-F-Du Du Solo Unifarm",
-  },
-  {
-    answer: "58422",
-    question: "C-F-Luon ng.con lsach kg",
-  },
-  {
-    answer: "58424",
-    question: "C-F-Dui ech lsach kg",
-  },
-  {
-    answer: "58426",
-    question: "C-F-Thit bo Uc xay kg",
-  },
-  {
     answer: "58428",
     question: "Ca bien chien kg-PKD990",
   },
@@ -18224,16 +12809,8 @@ const data = [
     question: "Sa cay kg-BBCC",
   },
   {
-    answer: "58433",
-    question: "C-Su hao DL kg-BBCC",
-  },
-  {
     answer: "58435",
     question: "Khoai mo kg-BB&CC",
-  },
-  {
-    answer: "58438",
-    question: "C-Gia dau xanh kg",
   },
   {
     answer: "58440",
@@ -18384,10 +12961,6 @@ const data = [
     question: "Oc xao-DLM990",
   },
   {
-    answer: "58478",
-    question: "C-F-Dua hau k.hat(tui xach)kg",
-  },
-  {
     answer: "58481",
     question: "Man do g.Thai dong hop kg",
   },
@@ -18495,11 +13068,7 @@ const data = [
     answer: "58607",
     question: "Chan ga hap hanh-Bsun990",
   },
-  {
-    answer: "58608",
-    question: "Chan ga ngam sa tac-Bsun990",
-  },
-  {
+ {
     answer: "58609",
     question: "Com chien dui ga-Bsun990",
   },
@@ -18603,33 +13172,13 @@ const data = [
     answer: "59231",
     question: "Tom ram thit-Bsun990",
   },
-  {
-    answer: "59232",
-    question: "Trung ga luoc-Bsun990",
-  },
-  {
+ {
     answer: "59233",
     question: "Trung kho -Bsun990",
   },
   {
     answer: "59234",
     question: "Vit kho gung -Bsun990",
-  },
-  {
-    answer: "59235",
-    question: "C-F-Bach tuoc Nhat H&S",
-  },
-  {
-    answer: "59236",
-    question: "C-F-Ca hoi NaUy fillet H&S",
-  },
-  {
-    answer: "59243",
-    question: "C-F-Tom su kg-D.NAM",
-  },
-  {
-    answer: "59244",
-    question: "C-F-Ca bop lsach kg-D.NAM",
   },
   {
     answer: "59249",
@@ -18676,10 +13225,6 @@ const data = [
     question: "King Crab song kg-DG990",
   },
   {
-    answer: "59260",
-    question: "C-AU-GATAY MYPRESTAGE10LB-14LB",
-  },
-  {
     answer: "59303",
     question: "Lap xuong trung muoi TNP kg",
   },
@@ -18688,60 +13233,12 @@ const data = [
     question: "Cha lua kg-T.Giang990",
   },
   {
-    answer: "59265",
-    question: "C-F-Muop Org kg-VNMIT",
-  },
-  {
-    answer: "59266",
-    question: "C-F-Bap chuoi organic kg",
-  },
-  {
-    answer: "59267",
-    question: "C-F-Bau Org kg-VNMIT",
-  },
-  {
-    answer: "59268",
-    question: "C-F-Bi dao Org kg-VNMIT",
-  },
-  {
-    answer: "59269",
-    question: "C-F-Bi do Org kg-VNMIT",
-  },
-  {
-    answer: "59270",
-    question: "C-F-Chuoi Org kg-VNMIT",
-  },
-  {
-    answer: "59271",
-    question: "C-F-Chuoi su Org kg-VNMIT",
-  },
-  {
-    answer: "59301",
-    question: "C-F-Khoai lang vang Org kg-VNM",
-  },
-  {
-    answer: "59299",
-    question: "C-F-Thom Org kg-VNMIT",
-  },
-  {
     answer: "59300",
     question: "Dua luoi hong mat ruot cam kg",
   },
   {
     answer: "59302",
     question: "F-Khoai lang nuong-FL990",
-  },
-  {
-    answer: "59264",
-    question: "C-F-Tom hum hap Canada DL kg",
-  },
-  {
-    answer: "59564",
-    question: "C-F-Tao Rose My size28 kg",
-  },
-  {
-    answer: "59565",
-    question: "C-F-Tao Lucyrose My size40 kg",
   },
   {
     answer: "59566",
@@ -18779,41 +13276,9 @@ const data = [
     answer: "59574",
     question: "Thit xa xiu kg-HH990",
   },
-  {
-    answer: "59575",
-    question: "C-Ca ngu Saku VietNam  kg",
-  },
-  {
-    answer: "59576",
-    question: "C-Tom hum My kg",
-  },
-  {
-    answer: "59577",
-    question: "C-Trung ca cam Nhat kg",
-  },
-  {
-    answer: "59578",
-    question: "C-Bao ngu Uc dong lanh kg",
-  },
-  {
-    answer: "59579",
-    question: "C-Tom hum baby kg",
-  },
-  {
-    answer: "59580",
-    question: "C-So diep nua vo VN kg",
-  },
-  {
-    answer: "59592",
-    question: "Nac vai bo Uc-AHT990",
-  },
-  {
+ {
     answer: "59594",
     question: "Thit dui heo d.lanh kg-VS990",
-  },
-  {
-    answer: "59595",
-    question: "C-F-Minh ca basa cat khuc kg",
   },
   {
     answer: "59597",
@@ -18846,70 +13311,6 @@ const data = [
   {
     answer: "59620",
     question: "Chim cut 1 nang kg-Ntin",
-  },
-  {
-    answer: "59621",
-    question: "C-Ga tha vuon kg-HP",
-  },
-  {
-    answer: "59622",
-    question: "C-Ga CNghiep n.con kg-HP",
-  },
-  {
-    answer: "59623",
-    question: "C-Dau ga CNghiep kg-HP",
-  },
-  {
-    answer: "59624",
-    question: "C-Canh ga CNghiep kg-HP",
-  },
-  {
-    answer: "59625",
-    question: "C-Chan ga CNghiep kg-HP",
-  },
-  {
-    answer: "59626",
-    question: "C-Ma dui ga CNghiep kg-HP",
-  },
-  {
-    answer: "59627",
-    question: "C-Dui toi ga CNghiep kg-HP",
-  },
-  {
-    answer: "59628",
-    question: "C-Dui ga goc tu CNghiep kg-HP",
-  },
-  {
-    answer: "59629",
-    question: "C-Dui ga goc tu mo-p.cau kg-HP",
-  },
-  {
-    answer: "59630",
-    question: "C-Ma duigaCNghiep catkhuckg-HP",
-  },
-  {
-    answer: "59631",
-    question: "C-Sun dui ga CN kg-HP",
-  },
-  {
-    answer: "59632",
-    question: "C-Xuong ga CNghiep kg-HP",
-  },
-  {
-    answer: "59633",
-    question: "C-Uc ga file k.daCNghiep kg-HP",
-  },
-  {
-    answer: "59634",
-    question: "C-Long ga CNghiep kg-HP",
-  },
-  {
-    answer: "59635",
-    question: "C-Gan ga CNghiep kg-HP",
-  },
-  {
-    answer: "59636",
-    question: "C-Me ga CNghiep kg-HP",
   },
   {
     answer: "59637",
@@ -18992,30 +13393,6 @@ const data = [
     question: "Com chien trung kg-PKD990",
   },
   {
-    answer: "59689",
-    question: "C-F-Bap trang Uc kg",
-  },
-  {
-    answer: "59690",
-    question: "C-F-Bo xao loai Uc kg",
-  },
-  {
-    answer: "59691",
-    question: "C-Uc ga file k.da d.lanh kg-HP",
-  },
-  {
-    answer: "59700",
-    question: "C-F-Buoi da xanh kg",
-  },
-  {
-    answer: "59701",
-    question: "C-F-Buoi nam roi co canh kg",
-  },
-  {
-    answer: "59702",
-    question: "C-Au-Thit cua kg-PGP990",
-  },
-  {
     answer: "59703",
     question: "Tao Lucyrose My kg",
   },
@@ -19048,14 +13425,6 @@ const data = [
     question: "Dau DalatgiongN.Zealand kg-TNX",
   },
   {
-    answer: "59722",
-    question: "C-F-Oc cho nguyenvo kg-KASH990",
-  },
-  {
-    answer: "14733",
-    question: "S-Buoi Nam roi Coop Select kg",
-  },
-  {
     answer: "59741",
     question: "Nho xanh Peru kg",
   },
@@ -19066,14 +13435,6 @@ const data = [
   {
     answer: "59757",
     question: "Quyt Ai Cap kg",
-  },
-  {
-    answer: "59763",
-    question: "C-Au-Coi Hao Dieu kg-PGP990",
-  },
-  {
-    answer: "59769",
-    question: "C-F-Dualuoi r.cam Org kg-NT990",
   },
   {
     answer: "59772",
@@ -19096,106 +13457,14 @@ const data = [
     question: "Ca bong lau kg-PGP990",
   },
   {
-    answer: "16605",
-    question: "S-Xoai cat chu vang kg",
-  },
-  {
-    answer: "15950",
-    question: "S-Tao Envy My nho kg",
-  },
-  {
     answer: "59779",
     question: "Ba roi heo rut suon dlanh kg",
   },
-  {
-    answer: "18194",
-    question: "S-F-Quyt duong kg",
-  },
-  {
-    answer: "18196",
-    question: "S-F-Cam sanh kg",
-  },
-  {
-    answer: "18161",
-    question: "S-F-Bo 034 kg",
-  },
-  {
-    answer: "18162",
-    question: "C-S-F-Buoi nam roi kg",
-  },
-  {
-    answer: "18167",
-    question: "C-S-F-Chuoi cau kg",
-  },
-  {
-    answer: "18171",
-    question: "S-F-Du du vang kg",
-  },
-  {
-    answer: "18172",
-    question: "S-F-Dua hau kg",
-  },
-  {
-    answer: "18173",
-    question: "S-F-Dua hau kh.hat kg",
-  },
-  {
-    answer: "18174",
-    question: "S-F-Long mut kg",
-  },
-  {
-    answer: "18175",
-    question: "C-S-F-Man sua dong vi kg",
-  },
-  {
-    answer: "18178",
-    question: "S-F-Oi giong Dai Loan kg",
-  },
-  {
-    answer: "18179",
-    question: "S-F-Oi Nu Hoang kg",
-  },
-  {
-    answer: "18180",
-    question: "C-S-F-Quyt tieu kg",
-  },
-  {
-    answer: "18183",
-    question: "S-F-Thanh Long kg",
-  },
-  {
-    answer: "18184",
-    question: "S-F-Thanh long ruot do kg",
-  },
-  {
-    answer: "18185",
-    question: "C-S-F-Thom trai con vo kg",
-  },
-  {
-    answer: "18186",
-    question: "S-F-Vu sua kg",
-  },
-  {
-    answer: "18187",
-    question: "S-F-Xoai cat Hloc kg",
-  },
-  {
-    answer: "18188",
-    question: "S-F-Oi Tran Chau ruot do kg",
-  },
-  {
-    answer: "18189",
-    question: "S-F-Man hong dao kg",
-  },
-  {
-    answer: "18190",
-    question: "S-F-Man do g.Thai kg",
-  },
-  {
-    answer: "18191",
-    question: "C-S-F-Man xanh duong kg",
-  },
-  {
+
+
+
+
+ {
     answer: "59780",
     question: "Au-Canh k.qua donthit kg-NV990",
   },
@@ -19251,111 +13520,9 @@ const data = [
     answer: "59793",
     question: "Au-Muc xao sate kg-NV990",
   },
-  {
-    answer: "59803",
-    question: "C-F-Xa lach lolo do(trongFL)kg",
-  },
-  {
-    answer: "59804",
-    question: "C-F-Xalach loloxanh(trongFL)kg",
-  },
-  {
-    answer: "59805",
-    question: "C-F-Xalach soi xanh(trongFL)kg",
-  },
-  {
-    answer: "59806",
-    question: "C-F-Xa lach soi do(trongFL)kg",
-  },
-  {
-    answer: "59807",
-    question: "C-F-Xa lach bup dai(trongFL)kg",
-  },
-  {
-    answer: "59808",
-    question: "C-F-Xalach bup tron(trongFL)kg",
-  },
-  {
-    answer: "59809",
-    question: "C-F-Xa lach Romaine(trongFL)kg",
-  },
-  {
-    answer: "59810",
-    question: "C-F-Xa lach Batavia(trongFL)kg",
-  },
-  {
-    answer: "59811",
-    question: "C-F-Rau cai g.Nhat(trongFL) kg",
-  },
-  {
-    answer: "19688",
-    question: "S-F-Na Thai kg",
-  },
-  {
-    answer: "18275",
-    question: "S-F-Bo Booth 7 kg",
-  },
-  {
-    answer: "19750",
-    question: "C-S-F-Bo sap Daklak kg",
-  },
-  {
-    answer: "18195",
-    question: "C-S-F-Buoi da xanh(tuixach) kg",
-  },
-  {
-    answer: "18478",
-    question: "C-S-F-Dua hau k.hat(tuixach)kg",
-  },
-  {
-    answer: "18170",
-    question: "C-S-F-Dau tay Da Lat kg",
-  },
-  {
-    answer: "18177",
-    question: "S-F-Mit thai nghe kg",
-  },
-  {
-    answer: "18164",
-    question: "C-S-F-Chanh k.hat dong vi kg",
-  },
-  {
-    answer: "18181",
-    question: "C-S-F-So ri kg",
-  },
-  {
-    answer: "18176",
-    question: "S-F-Mang cut kg",
-  },
-  {
-    answer: "18182",
-    question: "C-S-F-Tao Hong Phan Rang kg",
-  },
-  {
-    answer: "18166",
-    question: "C-S-F-Chom chom nhan kg",
-  },
-  {
-    answer: "18169",
-    question: "C-S-F-Coc non giong Thai kg",
-  },
-  {
-    answer: "19700",
-    question: "C-S-F-Buoi da xanh kg",
-  },
-  {
-    answer: "18168",
-    question: "C-S-F-Chuoi sap song kg",
-  },
-  {
-    answer: "19701",
-    question: "C-S-F-Buoi nam roi co canh kg",
-  },
-  {
-    answer: "18165",
-    question: "C-S-F-Chom chom giong Thai kg",
-  },
-  {
+ 
+
+    {
     answer: "59822",
     question: "Dua luoi TL3 ruot cam L1 kg",
   },
@@ -19370,10 +13537,6 @@ const data = [
   {
     answer: "59826",
     question: "Thanhlongr.t.hongCoopSelect kg",
-  },
-  {
-    answer: "59828",
-    question: "C-F-Vai Thieu kg",
   },
   {
     answer: "59829",
@@ -19499,42 +13662,7 @@ const data = [
     answer: "59863",
     question: "Cu cai Han Quoc kg",
   },
-  {
-    answer: "19270",
-    question: "C-S-F-Chuoi Org kg-VNMIT",
-  },
-  {
-    answer: "19299",
-    question: "C-S-F-Thom Org kg-VNMIT",
-  },
-  {
-    answer: "19271",
-    question: "C-S-F-Chuoi su Org kg-VNMIT",
-  },
-  {
-    answer: "19828",
-    question: "C-S-F-Vai Thieu kg",
-  },
-  {
-    answer: "59864",
-    question: "C-F-Man Ha Noi dong hop kg",
-  },
-  {
-    answer: "19864",
-    question: "C-S-F-Man Ha Noi dong hop kg",
-  },
-  {
-    answer: "19757",
-    question: "S-Quyt Ai Cap kg",
-  },
-  {
-    answer: "19704",
-    question: "S-Tao Rosalynn Organic My kg",
-  },
-  {
-    answer: "13262",
-    question: "S-Tao Envy N.Zland size24-40kg",
-  },
+
   {
     answer: "59872",
     question: "Sau rieng giong Thai kg-HL",
@@ -19550,10 +13678,6 @@ const data = [
   {
     answer: "59875",
     question: "Thit so long kg-PGP990",
-  },
-  {
-    answer: "11958",
-    question: "S-Nhan da bo kg(1)",
   },
   {
     answer: "59946",
@@ -19608,34 +13732,6 @@ const data = [
     question: "Bong cai tim Uc kg-AF990",
   },
   {
-    answer: "59986",
-    question: "C-Ba roi nuong sate TU kg-TNP",
-  },
-  {
-    answer: "59987",
-    question: "C-Ba roi nuong m.ong TU kg-TNP",
-  },
-  {
-    answer: "59988",
-    question: "C-Cotlet nuong m.ong TU kg-TNP",
-  },
-  {
-    answer: "59989",
-    question: "C-Phalauheo(tim luoi)TU kg-TNP",
-  },
-  {
-    answer: "59990",
-    question: "C-Ga kho sa ot TU kg-TNP",
-  },
-  {
-    answer: "59991",
-    question: "C-Canh gachien n.mam TU kg-TNP",
-  },
-  {
-    answer: "59992",
-    question: "C-Dui ga nuong m.ong TU kg-TNP",
-  },
-  {
     answer: "60094",
     question: "Tao Rose New Zealand kg",
   },
@@ -19668,28 +13764,12 @@ const data = [
     question: "Tao Organic Juliet nho kg",
   },
   {
-    answer: "60104",
-    question: "@Than bo Angus Lean kg-KB990",
-  },
-  {
-    answer: "60105",
-    question: "@Than bo Angus xao kg-KB990",
-  },
-  {
-    answer: "60106",
-    question: "C-@Than bo Angus kg-KB990",
-  },
-  {
     answer: "60109",
     question: "Bap cai do Uc kg-AF990",
   },
   {
     answer: "60111",
     question: "Bong Atiso Uc kg-AF990",
-  },
-  {
-    answer: "60121",
-    question: "C-Thit ngheu kg-TN990",
   },
   {
     answer: "60123",
@@ -19716,28 +13796,8 @@ const data = [
     question: "Xoi bap kg",
   },
   {
-    answer: "12037",
-    question: "S-Nhan Hung Yen L1 kg(1)",
-  },
-  {
     answer: "60138",
     question: "File ca hoi con da HCK Uc kg",
-  },
-  {
-    answer: "60139",
-    question: "C-Uc ga file codaCNghiep kg-HP",
-  },
-  {
-    answer: "60140",
-    question: "C-Hanh tim xay CB kg",
-  },
-  {
-    answer: "60141",
-    question: "C-Hanh tim lot vo CB kg",
-  },
-  {
-    answer: "60142",
-    question: "C-Toi lot vo CB kg",
   },
   {
     answer: "60143",
@@ -19796,14 +13856,6 @@ const data = [
     question: "Nam viet quat kg-K990",
   },
   {
-    answer: "60160",
-    question: "C-@F-Mo nhan hanh nhan kg-K990",
-  },
-  {
-    answer: "60161",
-    question: "C-@F-Mo nhan macca kg-K990",
-  },
-  {
     answer: "60162",
     question: "Hanh nhan r.muoi hong kg-K990",
   },
@@ -19816,38 +13868,6 @@ const data = [
     question: "Hat de cuoi r.muoi kg-K990",
   },
   {
-    answer: "60165",
-    question: "C-Nhan huong duong gvY kgK990",
-  },
-  {
-    answer: "60166",
-    question: "C-Bi xanhmuoihongNutty kg-K990",
-  },
-  {
-    answer: "60167",
-    question: "C-Bi xanh giaviY Nutty kg-K990",
-  },
-  {
-    answer: "60168",
-    question: "C-@F-Nhanbixanhvi r.bienkgK990",
-  },
-  {
-    answer: "60169",
-    question: "C-H.duong&bi xanh muoi kg-K990",
-  },
-  {
-    answer: "60170",
-    question: "C-@F-Macca vi rong bien kgK990",
-  },
-  {
-    answer: "60171",
-    question: "C-@F-Macca vi matcha kg-K990",
-  },
-  {
-    answer: "60172",
-    question: "C-@F-Nhan macca kg-K990",
-  },
-  {
     answer: "60173",
     question: "Macca Nutty con vo kg-K990",
   },
@@ -19858,14 +13878,6 @@ const data = [
   {
     answer: "60175",
     question: "Oc cho nguyen vo kg-K990",
-  },
-  {
-    answer: "60176",
-    question: "C-@F-Hat bi xanh kg-K990",
-  },
-  {
-    answer: "60177",
-    question: "C-@F-Hat huong duong kg-K990",
   },
   {
     answer: "60178",
@@ -19888,28 +13900,12 @@ const data = [
     question: "Hat dau ga kg-K990",
   },
   {
-    answer: "60183",
-    question: "C-Hat phi kg-K990",
-  },
-  {
-    answer: "60184",
-    question: "C-Hat ho dao kg-K990",
-  },
-  {
-    answer: "60185",
-    question: "C-Hat dieu song kg-K990",
-  },
-  {
     answer: "60186",
     question: "Trailmix vi muoi hong kg-K990",
   },
   {
     answer: "60187",
     question: "Trailmix socola kg-K990",
-  },
-  {
-    answer: "15830",
-    question: "S-Xoai keo vang kg(1)",
   },
   {
     answer: "60190",
@@ -20044,22 +14040,6 @@ const data = [
     question: "Minh ca bop kg-VTT990",
   },
   {
-    answer: "60290",
-    question: "C-@F-Chala nhan hanhnhankgK990",
-  },
-  {
-    answer: "60291",
-    question: "C-@F-Cha la nhan macca kg-K990",
-  },
-  {
-    answer: "60292",
-    question: "C-@F-Cha la nhan oc cho kgK990",
-  },
-  {
-    answer: "60294",
-    question: "C-Hat dieu vi r.bien kg-K990",
-  },
-  {
     answer: "60296",
     question: "Trailmix 4 loai hat kg-K990",
   },
@@ -20092,32 +14072,16 @@ const data = [
     question: "Chuoi say deo kg-K990",
   },
   {
-    answer: "60304",
-    question: "C-Hanh nhan vi r.bien kg-K990",
-  },
-  {
     answer: "60305",
     question: "H.nhan vi schua dau kg-K990",
-  },
-  {
-    answer: "60306",
-    question: "C-@F-Hanhnhan vi matcha kgK990",
   },
   {
     answer: "60307",
     question: "H.duong vi muoi hong kg-K990",
   },
   {
-    answer: "60308",
-    question: "C-@F-H.duong vi r.bien kgK990",
-  },
-  {
     answer: "60309",
     question: "Oc cho caramel Nutty kg-K990",
-  },
-  {
-    answer: "60310",
-    question: "C-@F-Trailmix vi r.bien kgK990",
   },
   {
     answer: "60311",
@@ -20132,24 +14096,8 @@ const data = [
     question: "Ga Han Quoc luoc kg-PKD990",
   },
   {
-    answer: "60327",
-    question: "C-KSD-Au-Nac than bo Angus kg",
-  },
-  {
-    answer: "60329",
-    question: "C-KSD-Au-Than bo Angus xao kg",
-  },
-  {
-    answer: "60332",
-    question: "C-F-Bap cai tim kg-LB",
-  },
-  {
     answer: "60334",
     question: "File duoi ca hoi kg-PGP990",
-  },
-  {
-    answer: "60412",
-    question: "C-Cai lolo xanh (dong goi)kg",
   },
   {
     answer: "60420",
@@ -20200,10 +14148,6 @@ const data = [
     question: "Dualuoi TL3 r.camCoopSelect-VF",
   },
   {
-    answer: "60463",
-    question: "C-Sung say deo kg-K990",
-  },
-  {
     answer: "60464",
     question: "Tao do say deo kg-K990",
   },
@@ -20218,18 +14162,6 @@ const data = [
   {
     answer: "60467",
     question: "Yen mach can vo kg-K990",
-  },
-  {
-    answer: "60470",
-    question: "C-La giang kg-BBCC",
-  },
-  {
-    answer: "60471",
-    question: "C-Ca tim kg-BBCC",
-  },
-  {
-    answer: "60472",
-    question: "C-Rau ma la lon kg-BBCC",
   },
   {
     answer: "60473",
@@ -20250,10 +14182,6 @@ const data = [
   {
     answer: "60477",
     question: "Rau ngo ri kg-BBCC",
-  },
-  {
-    answer: "60478",
-    question: "C-Can tau kg-BBCC",
   },
   {
     answer: "60479",
@@ -20340,14 +14268,6 @@ const data = [
     question: "Ca huong lam sach kg-VTT990",
   },
   {
-    answer: "60508",
-    question: "C-Ga tha vuon CoopSelect kg-HP",
-  },
-  {
-    answer: "60509",
-    question: "C-Bo Hass giong My kg",
-  },
-  {
     answer: "60510",
     question: "Hau sua kg-BRO990",
   },
@@ -20372,28 +14292,8 @@ const data = [
     question: "Cua bien song kg-PGP990",
   },
   {
-    answer: "60518",
-    question: "C-Au-Cahoi nguyencon kg-PGP990",
-  },
-  {
     answer: "60519",
     question: "Ga tha vuon Coop Select kg-VS",
-  },
-  {
-    answer: "60520",
-    question: "C-@Hat dau ga kg-VP990",
-  },
-  {
-    answer: "60521",
-    question: "C-@Hat diem mach den kg-VP990",
-  },
-  {
-    answer: "60522",
-    question: "@Hat me trang kg-VP990",
-  },
-  {
-    answer: "60523",
-    question: "@Hat me den kg-VP990",
   },
   {
     answer: "60526",
@@ -20406,78 +14306,6 @@ const data = [
   {
     answer: "60529",
     question: "Tao Fuji nho Nam Phi kg",
-  },
-  {
-    answer: "60530",
-    question: "C-Ba roi heo(S)kg-MSG",
-  },
-  {
-    answer: "60531",
-    question: "C-Bap gio heo k.xuong(S)kg-MSG",
-  },
-  {
-    answer: "60532",
-    question: "C-Chan gioheo r.xuong(S)kg-MSG",
-  },
-  {
-    answer: "60533",
-    question: "C-Cot let heo(S)kg-MSG",
-  },
-  {
-    answer: "60534",
-    question: "C-Duoi heo(S)kg-MSG",
-  },
-  {
-    answer: "60535",
-    question: "C-Gio heo cat khoanh(S)kg-MSG",
-  },
-  {
-    answer: "60536",
-    question: "C-Dung heo (S)kg-MSG",
-  },
-  {
-    answer: "60537",
-    question: "C-Nac dam heo(S)kg-MSG",
-  },
-  {
-    answer: "60538",
-    question: "C-Nac dui heo(S)kg-MSG",
-  },
-  {
-    answer: "60539",
-    question: "C-Nac nong heo(S)kg-MSG",
-  },
-  {
-    answer: "60540",
-    question: "C-Suon heo(S)kg-MSG",
-  },
-  {
-    answer: "60541",
-    question: "C-Suon gia(S)kg-MSG",
-  },
-  {
-    answer: "60542",
-    question: "C-Than chuot heo(S)kg-MSG",
-  },
-  {
-    answer: "60543",
-    question: "C-Thit dui heo(S)kg-MSG",
-  },
-  {
-    answer: "60544",
-    question: "C-Thit heo xay L1(S)kg-MSG",
-  },
-  {
-    answer: "60545",
-    question: "C-Thit vai heo(S)kg-MSG",
-  },
-  {
-    answer: "60546",
-    question: "C-Xuong heo(S)kg-MSG",
-  },
-  {
-    answer: "60547",
-    question: "C-Xuong ong heo(S)kg-MSG",
   },
   {
     answer: "60548",
@@ -20616,10 +14444,6 @@ const data = [
     question: "Au-Xoai giong Dai Loan xanh kg",
   },
   {
-    answer: "60590",
-    question: "C-Dau tay say deo kg-K990",
-  },
-  {
     answer: "60591",
     question: "Vo buoi say deo kg-K990",
   },
@@ -20666,10 +14490,6 @@ const data = [
   {
     answer: "60603",
     question: "Cha lua chay kho kg-PKD990",
-  },
-  {
-    answer: "60611",
-    question: "C-Au-Ngheu 2 coi kg-PGP990",
   },
   {
     answer: "60616",
@@ -20948,14 +14768,6 @@ const data = [
     question: "Ca tim kho tuong chay SC kg",
   },
   {
-    answer: "60699",
-    question: "C-Chuoigiahco CoopFinest L1 kg",
-  },
-  {
-    answer: "60700",
-    question: "C-Chuoigiahco CoopFinest LS kg",
-  },
-  {
     answer: "60706",
     question: "Tao Ambrosia nho My kg",
   },
@@ -21152,16 +14964,8 @@ const data = [
     question: "Huong duong nv nuong kg-K990",
   },
   {
-    answer: "60797",
-    question: "C-Huongduong nv vimuoi kg-K990",
-  },
-  {
     answer: "60798",
     question: "Hat bi nv nuong kg-K990",
-  },
-  {
-    answer: "60799",
-    question: "C-Hat bi nv vimuoihong kg-K990",
   },
   {
     answer: "60800",
@@ -21198,14 +15002,6 @@ const data = [
   {
     answer: "60811",
     question: "Bi ngoi xanh CoopSelect kg-V.F",
-  },
-  {
-    answer: "60812",
-    question: "C-Dualeog.NhatCoopSelectkg-V.F",
-  },
-  {
-    answer: "60813",
-    question: "C-Cachuatrung CoopSelectkg-V.F",
   },
   {
     answer: "60814",
@@ -21280,52 +15076,12 @@ const data = [
     question: "Tao Sun Fuji Nhat kg",
   },
   {
-    answer: "11709",
-    question: "S-Le xanh Nam Phi kg",
-  },
-  {
-    answer: "15708",
-    question: "S-Nho xanh k.hat My dacbiet kg",
-  },
-  {
-    answer: "20587",
-    question: "S-Qua hong Han Quoc kg",
-  },
-  {
-    answer: "15813",
-    question: "S-Tao Breeze My kg",
-  },
-  {
-    answer: "20529",
-    question: "S-Tao Fuji nho Nam Phi kg",
-  },
-  {
-    answer: "20095",
-    question: "S-Tao Jazz nho NewZealand kg",
-  },
-  {
-    answer: "20101",
-    question: "S-Tao Organic Juliet nho kg",
-  },
-  {
-    answer: "60852",
-    question: "@Thanh long ruot trang kg-TFR",
-  },
-  {
-    answer: "60853",
-    question: "@Thanh long ruot do kg-TFR",
-  },
-  {
     answer: "60855",
     question: "Nho xanh khong hat Peru kg",
   },
   {
     answer: "60857",
     question: "Thanh Long vo vang kg",
-  },
-  {
-    answer: "60858",
-    question: "C-Trailmix 5 loai hat kg-K990",
   },
   {
     answer: "60859",
@@ -21338,62 +15094,6 @@ const data = [
   {
     answer: "60861",
     question: "Hat dieu hongtra duong kg-K990",
-  },
-  {
-    answer: "60862",
-    question: "C-Cai thao Coop Select kg-TN",
-  },
-  {
-    answer: "60863",
-    question: "C-Bap cai trangCoopSelectkg-TN",
-  },
-  {
-    answer: "60864",
-    question: "C-Ca chua beef CoopSelectkg-TN",
-  },
-  {
-    answer: "60865",
-    question: "C-Cai bo xoi Coop Select kg-TN",
-  },
-  {
-    answer: "60866",
-    question: "C-Xa lach lolo CoopSelectkg-TN",
-  },
-  {
-    answer: "60867",
-    question: "C-Xalach caron CoopSelectkg-TN",
-  },
-  {
-    answer: "60868",
-    question: "C-Hanh tay Coop Select kg-TN",
-  },
-  {
-    answer: "60869",
-    question: "C-Khoaitayhong CoopSelectkg-TN",
-  },
-  {
-    answer: "60870",
-    question: "C-Dua leo baby CoopSelectkg-TN",
-  },
-  {
-    answer: "60871",
-    question: "C-Bi ngoi xanh CoopSelectkg-TN",
-  },
-  {
-    answer: "60872",
-    question: "C-BapcaitraitimCoopSelectkg-TN",
-  },
-  {
-    answer: "60873",
-    question: "C-Bong cai xanhCoopSelectkg-TN",
-  },
-  {
-    answer: "60874",
-    question: "C-Cachua trung CoopSelectkg-TN",
-  },
-  {
-    answer: "60875",
-    question: "C-Ca rot Coop Select kg-TN",
   },
   {
     answer: "60880",
@@ -21420,30 +15120,6 @@ const data = [
     question: "Khoai lang lac kg-PKD990",
   },
   {
-    answer: "19566",
-    question: "S-Tao Sugarbee My kg",
-  },
-  {
-    answer: "20686",
-    question: "S-Tao Tessa Ha Lan kg",
-  },
-  {
-    answer: "14489",
-    question: "S-Tao bi do Ba Lan kg",
-  },
-  {
-    answer: "20847",
-    question: "S-Cam Cara My kg",
-  },
-  {
-    answer: "20100",
-    question: "S-Nho do khong hat Uc L1 kg",
-  },
-  {
-    answer: "16497",
-    question: "S-Bo Booth giong My kg(1)",
-  },
-  {
     answer: "60899",
     question: "Oi Ruby ruot hong(4-6trai)kg",
   },
@@ -21456,10 +15132,6 @@ const data = [
     question: "Tao bi do Ba Lan nho kg",
   },
   {
-    answer: "20882",
-    question: "S-TaoSmitten nho Newzealand kg",
-  },
-  {
     answer: "60921",
     question: "Bap cai xanh Uc kg-AF990",
   },
@@ -21470,30 +15142,6 @@ const data = [
   {
     answer: "60912",
     question: "Tao Cripps Pink My kg",
-  },
-  {
-    answer: "20672",
-    question: "S-Khoailang Coop Select tui kg",
-  },
-  {
-    answer: "19648",
-    question: "S-Ot chuong do Coop Select kg",
-  },
-  {
-    answer: "19649",
-    question: "S-Otchuong vang Coop Select kg",
-  },
-  {
-    answer: "19650",
-    question: "S-Otchuong xanh Coop Select kg",
-  },
-  {
-    answer: "19651",
-    question: "S-Otchuong 2mau Coop Select kg",
-  },
-  {
-    answer: "60934",
-    question: "C-@Bi non huu co kg-DG990",
   },
   {
     answer: "60937",
@@ -21582,10 +15230,6 @@ const data = [
   {
     answer: "60967",
     question: "Tao Jonaprince Ba Lan kg",
-  },
-  {
-    answer: "60968",
-    question: "C-F-Soco den bochnhan kgDHT990",
   },
   {
     answer: "60969",
@@ -21844,22 +15488,6 @@ const data = [
     question: "Muc ong 20-30cm kg-TD",
   },
   {
-    answer: "61089",
-    question: "C-F-Bap cai do kg-QL",
-  },
-  {
-    answer: "61090",
-    question: "C-F-Bapcai la nhan Savoy kg-QL",
-  },
-  {
-    answer: "61091",
-    question: "C-F-Bap cai trang kg-QL",
-  },
-  {
-    answer: "61092",
-    question: "C-F-Cai thao kg-QL",
-  },
-  {
     answer: "61093",
     question: "Banh pho (soi) KHUONGHUY kg",
   },
@@ -21875,15 +15503,7 @@ const data = [
     answer: "61097",
     question: "Ca loc den song kg-TD",
   },
-  {
-    answer: "61105",
-    question: "CS-Chan gio heo r.x kg-MD990",
-  },
-  {
-    answer: "61106",
-    question: "CS-Nac dam kg-MD990",
-  },
-  {
+ {
     answer: "61113",
     question: "Dua leo Kg-TD",
   },
@@ -22034,42 +15654,13 @@ const data = [
   {
     answer: "61222",
     question: "Cam cara ruot do kg",
-  },
-  {
-    answer: "61271",
-    question: "C-KSD-Au-Bap hoa bo Uc-KB990",
-  },
-  {
-    answer: "61272",
-    question: "C-KSD-Au-Ba chi bo Uc-KB990",
-  },
-  {
-    answer: "61273",
-    question: "C-KSD-Au-Nam bo Uc-KB990",
-  },
-  {
+  },  {
     answer: "61274",
     question: "Ca bac ma kg-TD",
   },
   {
     answer: "61279",
     question: "Ca chi vang kg-TD",
-  },
-  {
-    answer: "61299",
-    question: "Minh ca bop catkhoanhkg-NCC-TD",
-  },
-  {
-    answer: "61317",
-    question: "Ca basa ncon lsach kg-TuNCC-TD",
-  },
-  {
-    answer: "61322",
-    question: "Ca dieu hong lsach kg-TuNCC-TD",
-  },
-  {
-    answer: "61327",
-    question: "Ca loc den ncon lsachkg-NCC-TD",
   },
   {
     answer: "61328",
@@ -22083,19 +15674,11 @@ const data = [
     answer: "61347",
     question: "Ca loc den ncon kg-TD",
   },
-  {
-    answer: "61352",
-    question: "Ca chem lon lsach kg-TuNCC-TD",
-  },
-  {
+ {
     answer: "61357",
     question: "Cua bien thitsongL1(2-3c)kg-TD",
   },
-  {
-    answer: "61358",
-    question: "Tom su kg-Tu NCC-TD",
-  },
-  {
+ {
     answer: "61391",
     question: "Cua bien song 3-4 con/kg-TD",
   },
@@ -22115,11 +15698,7 @@ const data = [
     answer: "61432",
     question: "Ca hoi tuoi nguyenconNaUykg-TD",
   },
-  {
-    answer: "61434",
-    question: "Ca hoi filletkg(con da)-NCC-TD",
-  },
-  {
+ {
     answer: "61453",
     question: "Tim heo kg-TD",
   },
@@ -22230,10 +15809,6 @@ const data = [
   {
     answer: "61585",
     question: "K.mem ALP.2chew sua-tr.sua kg",
-  },
-  {
-    answer: "61587",
-    question: "C-KSD-Au-Thanvai bo Uc Lean kg",
   },
   {
     answer: "61588",
@@ -22384,130 +15959,6 @@ const data = [
     question: "Bong cai xanh kg-CB",
   },
   {
-    answer: "61664",
-    question: "C-@Dau trang kg-KQuy",
-  },
-  {
-    answer: "61665",
-    question: "C-@Dau ngu kg-KQuy",
-  },
-  {
-    answer: "61666",
-    question: "C-@Dau do vi kg-KQuy",
-  },
-  {
-    answer: "61667",
-    question: "C-@Ca chua socola kg-KQuy",
-  },
-  {
-    answer: "61668",
-    question: "C-@Dua leo baby kg-KQuy",
-  },
-  {
-    answer: "61669",
-    question: "C-@Ot chuong 3mau kg-KQuy",
-  },
-  {
-    answer: "61670",
-    question: "C-@Ca chua beef kg-KQuy",
-  },
-  {
-    answer: "61671",
-    question: "C-@Bap cai trai tim kg-KQuy",
-  },
-  {
-    answer: "61672",
-    question: "C-@Bap cai thao kg-KQuy",
-  },
-  {
-    answer: "61673",
-    question: "C-@Baro hanh kg-KQuy",
-  },
-  {
-    answer: "61674",
-    question: "C-@Bapcaithao g.DaiLoankg-KQuy",
-  },
-  {
-    answer: "61675",
-    question: "C-@Can tay kg-KQuy",
-  },
-  {
-    answer: "61676",
-    question: "C-@Cu su hao kg-KQuy",
-  },
-  {
-    answer: "61677",
-    question: "C-@Bi ngoi xanh kg-KQuy",
-  },
-  {
-    answer: "61678",
-    question: "C-@Chuoi Laba kg-KQuy",
-  },
-  {
-    answer: "61679",
-    question: "C-@Bap cai tim kg-KQuy",
-  },
-  {
-    answer: "61680",
-    question: "C-@Bap cai trang kg-KQuy",
-  },
-  {
-    answer: "61681",
-    question: "C-@Bong cai trang kg-KQuy",
-  },
-  {
-    answer: "61682",
-    question: "C-@Bong cai xanh kg-KQuy",
-  },
-  {
-    answer: "61683",
-    question: "C-@Ca chua Da Lat kg-KQuy",
-  },
-  {
-    answer: "61684",
-    question: "C-@Cu den kg-Kquy",
-  },
-  {
-    answer: "61685",
-    question: "C-@Su su kg-KQuy",
-  },
-  {
-    answer: "61686",
-    question: "C-@Cu cai trang kg-KQuy",
-  },
-  {
-    answer: "61687",
-    question: "C-@Ca rot Da Lat kg-KQuy",
-  },
-  {
-    answer: "61688",
-    question: "C-@Ca tim kg-KQuy",
-  },
-  {
-    answer: "61689",
-    question: "C-@Ot chuong do kg-KQuy",
-  },
-  {
-    answer: "61690",
-    question: "C-@Ot chuong vang kg-KQuy",
-  },
-  {
-    answer: "61691",
-    question: "C-@Ot chuong xanh kg-KQuy",
-  },
-  {
-    answer: "61692",
-    question: "C-@Bi do tron kg-KQuy",
-  },
-  {
-    answer: "61693",
-    question: "C-@Bi ho lo kg-KQuy",
-  },
-  {
-    answer: "18323",
-    question: "S-Tao Smitten My kg",
-  },
-  {
     answer: "61710",
     question: "Tao bi do Phap nho kg",
   },
@@ -22564,88 +16015,8 @@ const data = [
     question: "Hat de cuoi do kg",
   },
   {
-    answer: "61744",
-    question: "C-Hat dieu kg",
-  },
-  {
     answer: "61748",
     question: "Ga ta kim ke kg",
-  },
-  {
-    answer: "61751",
-    question: "C-F-Ga ta Organic kg-NT990",
-  },
-  {
-    answer: "61753",
-    question: "C-F-Than Ngoai heo kg-NT990",
-  },
-  {
-    answer: "61755",
-    question: "C-F-Thit vai heo kg-NT990",
-  },
-  {
-    answer: "61756",
-    question: "C-F-Thit dui heo kg-NT990",
-  },
-  {
-    answer: "61758",
-    question: "C-F-Nac dui heo kg-NT990",
-  },
-  {
-    answer: "61759",
-    question: "C-F-Nac ma heo kg-NT990",
-  },
-  {
-    answer: "61761",
-    question: "C-F-Nac dam heo kg-NT990",
-  },
-  {
-    answer: "61762",
-    question: "C-F-Ba roi heo kg-NT990",
-  },
-  {
-    answer: "61763",
-    question: "C-F-Sun heo kg-NT990",
-  },
-  {
-    answer: "61764",
-    question: "C-F-Suon non heo kg-NT990",
-  },
-  {
-    answer: "61765",
-    question: "C-F-Cotlet heo kg-NT990",
-  },
-  {
-    answer: "61767",
-    question: "C-F-Dung heo kg-NT990",
-  },
-  {
-    answer: "61768",
-    question: "C-F-Xuong ong heo kg-NT990",
-  },
-  {
-    answer: "61769",
-    question: "C-F-Xuong heo kg-NT990",
-  },
-  {
-    answer: "61771",
-    question: "C-F-Chan gio heo kg-NT990",
-  },
-  {
-    answer: "61773",
-    question: "C-F-Tim heo kg-NT990",
-  },
-  {
-    answer: "61774",
-    question: "C-F-Gan heo kg-NT990",
-  },
-  {
-    answer: "61775",
-    question: "C-F-Thit nach heo kg-NT990",
-  },
-  {
-    answer: "61776",
-    question: "C-F-Baroi heo rutsuon kg-NT990",
   },
   {
     answer: "61777",
@@ -22654,34 +16025,6 @@ const data = [
   {
     answer: "61778",
     question: "Gao thom lang que kg-TD",
-  },
-  {
-    answer: "61783",
-    question: "C-F-Chuoi Cau Org kg-NT990",
-  },
-  {
-    answer: "61787",
-    question: "C-@Xalachlolo xanh t.canhkg-KQ",
-  },
-  {
-    answer: "61788",
-    question: "C-@Dau que xanh-KQuy",
-  },
-  {
-    answer: "61789",
-    question: "C-@Dau que trang-KQuy",
-  },
-  {
-    answer: "61790",
-    question: "C-@Khoai lang g.Nhat kg-KQuy",
-  },
-  {
-    answer: "61791",
-    question: "C-@Gung kg-KQuy",
-  },
-  {
-    answer: "61792",
-    question: "C-@Khoai tay vangDaLat kg-KQuy",
   },
   {
     answer: "61831",
@@ -22714,22 +16057,6 @@ const data = [
   {
     answer: "61843",
     question: "Nam bo kg-HNVINA",
-  },
-  {
-    answer: "61845",
-    question: "C-@Bau kg-KQuy",
-  },
-  {
-    answer: "61846",
-    question: "C-@Bi dao kg-KQuy",
-  },
-  {
-    answer: "61847",
-    question: "C-@Hanh tay Dalat kg-Kquy",
-  },
-  {
-    answer: "61848",
-    question: "C-@Toi Dalat kg-KQuy",
   },
   {
     answer: "61849",
@@ -22822,14 +16149,6 @@ const data = [
   {
     answer: "61906",
     question: "Nac vai heo kg-HNVINA",
-  },
-  {
-    answer: "61910",
-    question: "C-F-Xoai Cat chu da vang kg",
-  },
-  {
-    answer: "61911",
-    question: "C-F-Xoai Cat chu da xanh kg",
   },
   {
     answer: "61913",
@@ -23048,10 +16367,6 @@ const data = [
     question: "Sa lach lolo tim t.canh kg-TD",
   },
   {
-    answer: "61969",
-    question: "S-Oi giong Dai Loan kg",
-  },
-  {
     answer: "61991",
     question: "Rau hon hop kg-TD",
   },
@@ -23062,10 +16377,6 @@ const data = [
   {
     answer: "61972",
     question: "Dualuoi D.M rcCoopSelect kg-PL",
-  },
-  {
-    answer: "62012",
-    question: "C-F-Vai thieu tui kg",
   },
   {
     answer: "62026",
@@ -23128,16 +16439,8 @@ const data = [
     question: "FPR-PM soi Emmental. kg-NCD990",
   },
   {
-    answer: "62201",
-    question: "C-PR-PMManchegod.o.p kg-NCD990",
-  },
-  {
     answer: "62202",
     question: "PR-Phomai Idiazabal kg-NCD990",
-  },
-  {
-    answer: "62203",
-    question: "C-PR-P.M Queixeria. kg-NCD990",
   },
   {
     answer: "62204",
@@ -23164,24 +16467,8 @@ const data = [
     question: "PR-Thitnguoi Monte. kg -NCD990",
   },
   {
-    answer: "62210",
-    question: "C-PR-X.xich kieu Duc kg-NCD990",
-  },
-  {
-    answer: "62211",
-    question: "C-PR-X.x XK Frankfo.kg-NCD990",
-  },
-  {
-    answer: "62212",
-    question: "C-PR-Dambong Torchon kg-NCD990",
-  },
-  {
     answer: "62213",
     question: "PR-Dam bong xongkhoi kg-NCD990",
-  },
-  {
-    answer: "62214",
-    question: "C-PR-PM mix Mo-ched. kg-NCD990",
   },
   {
     answer: "62215",
@@ -23190,118 +16477,6 @@ const data = [
   {
     answer: "62216",
     question: "FPR-Phomai Mozzarella.kgNCD990",
-  },
-  {
-    answer: "62217",
-    question: "@Bap cai trang kg-VRDL",
-  },
-  {
-    answer: "62218",
-    question: "@Bi do tron kg-VRDL",
-  },
-  {
-    answer: "62219",
-    question: "@Bi ngoi xanh kg-VRDL",
-  },
-  {
-    answer: "62220",
-    question: "@Ca chua kg-VRDL",
-  },
-  {
-    answer: "62221",
-    question: "@Ca chua bi kg-VRDL",
-  },
-  {
-    answer: "62222",
-    question: "@Ca chua socola kg-VRDL",
-  },
-  {
-    answer: "62223",
-    question: "@Ca chua beef kg-VRDL",
-  },
-  {
-    answer: "62224",
-    question: "@Ca rot kg-VRDL",
-  },
-  {
-    answer: "62225",
-    question: "@Ca tim kg-VRDL",
-  },
-  {
-    answer: "62226",
-    question: "@Cu cai trang kg-VRDL",
-  },
-  {
-    answer: "62227",
-    question: "@Cu den kg-VRDL",
-  },
-  {
-    answer: "62228",
-    question: "@Dua leo baby kg-VRDL",
-  },
-  {
-    answer: "62233",
-    question: "@Khoai lang nhat kg-VRDL",
-  },
-  {
-    answer: "62234",
-    question: "@Khoai tay hong kg-VRDL",
-  },
-  {
-    answer: "62235",
-    question: "@Khoai tay vang kg-VRDL",
-  },
-  {
-    answer: "62236",
-    question: "@Su hao kg-VRDL",
-  },
-  {
-    answer: "62237",
-    question: "@Su su kg-VRDL",
-  },
-  {
-    answer: "62238",
-    question: "@Baro hanh kg-VRDL",
-  },
-  {
-    answer: "62239",
-    question: "@Bap cai tim kg-VRDL",
-  },
-  {
-    answer: "62240",
-    question: "@Bap cai trai tim kg-VRDL",
-  },
-  {
-    answer: "62241",
-    question: "@Bong cai trang kg-VRDL",
-  },
-  {
-    answer: "62242",
-    question: "@Bong cai xanh kg-VRDL",
-  },
-  {
-    answer: "62243",
-    question: "@Cai thao Dalat kg-VRDL",
-  },
-  {
-    answer: "62244",
-    question: "@Cai thao Dai Loan kg-VRDL",
-  },
-  {
-    answer: "62245",
-    question: "@Dau cove kg-VRDL",
-  },
-  {
-    answer: "62246",
-    question: "@Xalach lo xanh t.canh kg-VRDL",
-  },
-  {
-    answer: "62247",
-    question: "@Xalach mo thuy canh kg-VRDL",
-  },
-  {
-    answer: "62248",
-    question: "@Chuoi lapa kg-VRDL",
   },
   {
     answer: "62250",
@@ -23370,50 +16545,6 @@ const data = [
   {
     answer: "62287",
     question: "Kim chi hanh la kg-CL990",
-  },
-  {
-    answer: "62390",
-    question: "@Can tay kg-VRDL",
-  },
-  {
-    answer: "62391",
-    question: "@Nha dam kg-VRDL",
-  },
-  {
-    answer: "62392",
-    question: "@Ot chuong do kg-VRDL",
-  },
-  {
-    answer: "62393",
-    question: "@Ot chuong vang kg-VRDL",
-  },
-  {
-    answer: "62394",
-    question: "@Ot chuong xanh kg-VRDL",
-  },
-  {
-    answer: "62395",
-    question: "@Bi do ho lo kg-VRDL",
-  },
-  {
-    answer: "62396",
-    question: "@Gung kg-VRDL",
-  },
-  {
-    answer: "62397",
-    question: "@Khoai mo kg-VRDL",
-  },
-  {
-    answer: "62398",
-    question: "@Hanh tay DaLat kg-VRDL",
-  },
-  {
-    answer: "62399",
-    question: "@Bo 034 kg-VRDL",
-  },
-  {
-    answer: "62400",
-    question: "@Bo sap L1 kg-VRDL",
   },
   {
     answer: "62389",
@@ -23520,10 +16651,6 @@ const data = [
     question: "Ba roi heo rut suon kg-KH",
   },
   {
-    answer: "11936",
-    question: "S-Tao bi do NamPhi kg",
-  },
-  {
     answer: "62467",
     question: "Ca nuc lam sach kg",
   },
@@ -23582,14 +16709,6 @@ const data = [
   {
     answer: "62506",
     question: "F-Nhan bap cai kg-GM",
-  },
-  {
-    answer: "62508",
-    question: "@Xa lach thuy tinh tc kg-VRDL",
-  },
-  {
-    answer: "15679",
-    question: "S-Dua le bach kim kg(1)",
   },
   {
     answer: "62509",
@@ -23768,14 +16887,6 @@ const data = [
     question: "Thit nach heo kg-CP990",
   },
   {
-    answer: "62555",
-    question: "C-@Bo booth kg-KQuy",
-  },
-  {
-    answer: "62556",
-    question: "@Bo booth kg-VRDL",
-  },
-  {
     answer: "62560",
     question: "Canh du du xuong duoiheo SC kg",
   },
@@ -23904,18 +17015,6 @@ const data = [
     question: "Ca thu tuoi nguyen con kg-TD",
   },
   {
-    answer: "62590",
-    question: "C-@Hong don Dalat kg- Kquy",
-  },
-  {
-    answer: "62591",
-    question: "@Hong don Dalat kg-VRDL",
-  },
-  {
-    answer: "62592",
-    question: "@Cai bo xoi kg-VRDL",
-  },
-  {
     answer: "62595",
     question: "Suon que heo dong lanh kg",
   },
@@ -23939,15 +17038,7 @@ const data = [
     answer: "62604",
     question: "Ca he nghe song kg-TD",
   },
-  {
-    answer: "62599",
-    question: "Ca he nghe lsach kg-Tu NCC-TD",
-  },
-  {
-    answer: "62600",
-    question: "Ca chot soc lsach kg-Tu NCC-TD",
-  },
-  {
+ {
     answer: "62601",
     question: "Nho den k.hat My dac biet kg",
   },
@@ -23982,10 +17073,6 @@ const data = [
   {
     answer: "62612",
     question: "Chan ga tam sate SC kg",
-  },
-  {
-    answer: "14036",
-    question: "S-Tao Diva Organic NZ kg",
   },
   {
     answer: "62613",
@@ -24096,34 +17183,6 @@ const data = [
     question: "Tim ga cong nghiep kg-BMF",
   },
   {
-    answer: "62664",
-    question: "C-F-D.hauk.hatMatTroiDo kg-KNF",
-  },
-  {
-    answer: "62665",
-    question: "C-F-Dua hau Hac My Nhan kg-KNF",
-  },
-  {
-    answer: "62666",
-    question: "C-F-Dua MD2 kg-KNF",
-  },
-  {
-    answer: "62667",
-    question: "C-F-Xoai cat chu vang kg-KNF",
-  },
-  {
-    answer: "62668",
-    question: "C-F-Thanh longruottrang kg-KNF",
-  },
-  {
-    answer: "62669",
-    question: "C-F-Thanh long ruot do kg-KNF",
-  },
-  {
-    answer: "62670",
-    question: "C-@Ca hoi tuoi Nauy kg-WA990",
-  },
-  {
     answer: "60734",
     question: "Ga ta nguyen con cheo canh kg",
   },
@@ -24134,22 +17193,6 @@ const data = [
   {
     answer: "60886",
     question: "Dualuoi H.L rcCoopSelect kg-UI",
-  },
-  {
-    answer: "62672",
-    question: "@Bau kg-VRDL",
-  },
-  {
-    answer: "62674",
-    question: "@Khoai lang mat kg-VRDL",
-  },
-  {
-    answer: "62675",
-    question: "C-F-Xoai cat Hoa Loc L1 kg-PT",
-  },
-  {
-    answer: "62676",
-    question: "C-F-Na Thai L1 kg-PT",
   },
   {
     answer: "62677",
@@ -24212,10 +17255,6 @@ const data = [
     question: "Thit bo thai mong kg-HNVINA",
   },
   {
-    answer: "22602",
-    question: "S-Cam sanh Coop Select tui kg",
-  },
-  {
     answer: "62697",
     question: "Dualuoi TL3 rcamCoopSelect-XLA",
   },
@@ -24232,22 +17271,6 @@ const data = [
     question: "Nho hong giong Nhat kg",
   },
   {
-    answer: "14923",
-    question: "S-Ca dieu hong lsach kg-Tu NCC",
-  },
-  {
-    answer: "14501",
-    question: "S-Tom cangxanh kg(13-15con/kg)",
-  },
-  {
-    answer: "22617",
-    question: "S-Thit oc mong tay kg",
-  },
-  {
-    answer: "15451",
-    question: "S-Ca chim trang kg",
-  },
-  {
     answer: "62732",
     question: "Ca thu nuong kg-TD",
   },
@@ -24256,24 +17279,8 @@ const data = [
     question: "Moi bien kho kg-TD",
   },
   {
-    answer: "62737",
-    question: "C-F-Cu san (cu dau) kg-Yuth",
-  },
-  {
     answer: "62755",
     question: "Tao Fuji do Nam Phi kg",
-  },
-  {
-    answer: "62759",
-    question: "C-F-Taotuoi Joly Red kg-HPSMSG",
-  },
-  {
-    answer: "62760",
-    question: "S-Bo lat chay kg-ON",
-  },
-  {
-    answer: "62761",
-    question: "S-Suon nonchay lmach kg-PGP-ON",
   },
   {
     answer: "62762",
@@ -24294,14 +17301,6 @@ const data = [
   {
     answer: "62766",
     question: "Tao Hidden Rose My(Ruot do) kg",
-  },
-  {
-    answer: "22613",
-    question: "S-Tao do Cripps Nam Phi kg",
-  },
-  {
-    answer: "22755",
-    question: "S-Tao Fuji do Nam Phi kg",
   },
   {
     answer: "62767",
@@ -24380,14 +17379,6 @@ const data = [
     question: "Sau rieng Sau Ri kg-TD",
   },
   {
-    answer: "62812",
-    question: "C-F-BoconganhhoavangOrg kg-CPG",
-  },
-  {
-    answer: "21747",
-    question: "S-F-Buoi da xanh L1 kg-PHT",
-  },
-  {
     answer: "62834",
     question: "Canh bi do dau phong SC kg",
   },
@@ -24402,10 +17393,6 @@ const data = [
   {
     answer: "62837",
     question: "Canh chua chay SC kg",
-  },
-  {
-    answer: "21868",
-    question: "S-F-Xoai cat Hoa Loc kg-GM",
   },
   {
     answer: "62824",
@@ -24556,20 +17543,12 @@ const data = [
     question: "Banh cuon chay kg",
   },
   {
-    answer: "22870",
-    question: "S-F-Trai vai Daklak kg-MIAF",
-  },
-  {
     answer: "62871",
     question: "Tom cang do kg-VDS990",
   },
   {
     answer: "62872",
     question: "Cha ca chai kg",
-  },
-  {
-    answer: "22885",
-    question: "S-F-Mang cut Lai Thieu kg-MIAF",
   },
   {
     answer: "62886",
@@ -24586,10 +17565,6 @@ const data = [
   {
     answer: "62889",
     question: "Cha ca me tam uop kg",
-  },
-  {
-    answer: "22581",
-    question: "S-Dua luoi vang Huynh Long kg",
   },
   {
     answer: "62893",
@@ -24616,28 +17591,12 @@ const data = [
     question: "Ca chim den dlanh kg",
   },
   {
-    answer: "22899",
-    question: "S-F-Vai thieu Luc Ngan kg-MIAF",
-  },
-  {
     answer: "62902",
     question: "Vit tam uop la mac mat kg-CP",
   },
   {
     answer: "62903",
     question: "Vit tam quay la chuc kg-CP",
-  },
-  {
-    answer: "19647",
-    question: "S-Dua leo g.Nhat CoopSelect kg",
-  },
-  {
-    answer: "21000",
-    question: "S-Bi do tron CoopSelect kg-TNX",
-  },
-  {
-    answer: "21971",
-    question: "S-DualuoiH.LrcCoopSelect kg-PL",
   },
   {
     answer: "62909",
@@ -24784,62 +17743,6 @@ const data = [
     question: "Dua leo Coop Select kg",
   },
   {
-    answer: "11274",
-    question: "S-Chuoi Tieu Hong kg",
-  },
-  {
-    answer: "16749",
-    question: "S-Chuoi Viba kg",
-  },
-  {
-    answer: "10469",
-    question: "S-Chuoi tieu kg",
-  },
-  {
-    answer: "11174",
-    question: "S-Dao duong kg",
-  },
-  {
-    answer: "13213",
-    question: "S-Dualuoi g.Nhat ruotxanh-BHSG",
-  },
-  {
-    answer: "18860",
-    question: "S-Dua luoi TAKA kg",
-  },
-  {
-    answer: "11312",
-    question: "S-Le mac cop kg",
-  },
-  {
-    answer: "16882",
-    question: "S-Le Tai Nung kg",
-  },
-  {
-    answer: "11645",
-    question: "S-Man com kg",
-  },
-  {
-    answer: "19699",
-    question: "S-Oi le kg",
-  },
-  {
-    answer: "19342",
-    question: "S-Tao xanh VN kg",
-  },
-  {
-    answer: "14734",
-    question: "S-Xoai hat lep kg",
-  },
-  {
-    answer: "14732",
-    question: "S-Xoai Moc Chau kg",
-  },
-  {
-    answer: "10284",
-    question: "S-Xoai xanh giong Thai L2 kg",
-  },
-  {
     answer: "62944",
     question: "Thanh Long vo vang kg-TD",
   },
@@ -24858,10 +17761,6 @@ const data = [
   {
     answer: "62948",
     question: "Tao Ruby Star New Zealand kg",
-  },
-  {
-    answer: "19646",
-    question: "S-Ca chua trung Coop Select kg",
   },
   {
     answer: "62951",
@@ -24900,54 +17799,6 @@ const data = [
     question: "Cai thao hoatien CoopSelect kg",
   },
   {
-    answer: "10289",
-    question: "S-Nho den k.hat dai d.biet kg",
-  },
-  {
-    answer: "20855",
-    question: "S-Nho xanh khong hat Peru kg",
-  },
-  {
-    answer: "19741",
-    question: "S-Nho xanh Peru kg",
-  },
-  {
-    answer: "20557",
-    question: "S-Tao Cherish NewZealand kg",
-  },
-  {
-    answer: "20880",
-    question: "S-Tao Cosmic My kg",
-  },
-  {
-    answer: "19758",
-    question: "S-Tao Fuji My size nho kg",
-  },
-  {
-    answer: "15293",
-    question: "S-Tao Braeburn Newzealand kg",
-  },
-  {
-    answer: "18651",
-    question: "S-Tao Honey Crisp kg",
-  },
-  {
-    answer: "12213",
-    question: "S-Cam cara Ai Cap kg",
-  },
-  {
-    answer: "20706",
-    question: "S-Tao Ambrosia nho My kg",
-  },
-  {
-    answer: "21882",
-    question: "S-Tao Ever Crisp My kg",
-  },
-  {
-    answer: "22774",
-    question: "S-Tao Dazzle My kg",
-  },
-  {
     answer: "62960",
     question: "Thanh long r.trang DB kg",
   },
@@ -24982,10 +17833,6 @@ const data = [
   {
     answer: "62968",
     question: "Nho mau don HQ kg-H990",
-  },
-  {
-    answer: "62969",
-    question: "C-F-Lau tu chon kg-BSD990",
   },
   {
     answer: "62970",
@@ -25340,14 +18187,6 @@ const data = [
     question: "F-Dui ga thao khop kg-JAPFA",
   },
   {
-    answer: "13245",
-    question: "S-Salach lolo xanh thuycanh kg",
-  },
-  {
-    answer: "13171",
-    question: "S-Sa lach mo thuy canh kg",
-  },
-  {
     answer: "63058",
     question: "Muc xe la chanh kg-TD",
   },
@@ -25378,10 +18217,6 @@ const data = [
   {
     answer: "63065",
     question: "Tao Envy kg-H990",
-  },
-  {
-    answer: "22803",
-    question: "S-Dua MD2 Coop Select kg",
   },
   {
     answer: "63068",
@@ -25450,58 +18285,6 @@ const data = [
   {
     answer: "63082",
     question: "Vu sua hoang kim kg",
-  },
-  {
-    answer: "63083",
-    question: "@Buoi da xanh tluoi L1 kg-AP",
-  },
-  {
-    answer: "63084",
-    question: "@Buoi da xanh co canh L1 kg-AP",
-  },
-  {
-    answer: "63085",
-    question: "@Buoi duong la cam kg-AP",
-  },
-  {
-    answer: "63086",
-    question: "@Dua luoi tron ruot cam kg-AP",
-  },
-  {
-    answer: "63087",
-    question: "@Dua luoi Ha Uyen kg-AP",
-  },
-  {
-    answer: "63088",
-    question: "@Dua luoi Huynh Long kg-AP",
-  },
-  {
-    answer: "63089",
-    question: "@Mang cau Hoang Hau kg-AP",
-  },
-  {
-    answer: "63090",
-    question: "@Du du ruot vang kg-AP",
-  },
-  {
-    answer: "63091",
-    question: "@Bi do non kg-VRDL",
-  },
-  {
-    answer: "63092",
-    question: "@Dua leo Nhat kg-VRDL",
-  },
-  {
-    answer: "63093",
-    question: "@Xa lach LoLo xanh kg-VRDL",
-  },
-  {
-    answer: "63094",
-    question: "@Xa lach Romaine tcanh kg-VRDL",
-  },
-  {
-    answer: "22800",
-    question: "S-F-Xoaicat HLoc450gup kg-MIAF",
   },
   {
     answer: "63095",
@@ -25584,84 +18367,12 @@ const data = [
     question: "F-Dua mat (MD2) 1.3kg up-TFR",
   },
   {
-    answer: "22182",
-    question: "S-Chanh day kg-TD",
-  },
-  {
-    answer: "21976",
-    question: "S-Chanh giay kg-TD",
-  },
-  {
-    answer: "22018",
-    question: "S-Chanh khong hat kg-TD",
-  },
-  {
-    answer: "11798",
-    question: "S-Coc xanh loai 2",
-  },
-  {
     answer: "63116",
     question: "Canhtoiga ran otxanh dl kg-Uni",
   },
   {
     answer: "63115",
     question: "Canh toi ga CN dlanh nk kg",
-  },
-  {
-    answer: "21973",
-    question: "S-Bi do dai kg-TD",
-  },
-  {
-    answer: "21974",
-    question: "S-Bi do tron kg-TD",
-  },
-  {
-    answer: "11353",
-    question: "S-Ca rot kg-TD",
-  },
-  {
-    answer: "21977",
-    question: "S-Cu nen kg-TD",
-  },
-  {
-    answer: "21113",
-    question: "S-Dua leo kg-TD",
-  },
-  {
-    answer: "21953",
-    question: "S-Khoai lang kg-TD",
-  },
-  {
-    answer: "22014",
-    question: "S-Khoai lang mat kg-TD",
-  },
-  {
-    answer: "23112",
-    question: "S-Dau giong Newzealand VIP kg",
-  },
-  {
-    answer: "23111",
-    question: "S-Dau giong Han Quoc VIP kg",
-  },
-  {
-    answer: "23113",
-    question: "S-Dau giong Nhat VIP kg",
-  },
-  {
-    answer: "23040",
-    question: "S-Bo sap kg (500g up)",
-  },
-  {
-    answer: "23043",
-    question: "S-Bo Booth g.My kg (500g up)",
-  },
-  {
-    answer: "23041",
-    question: "S-Bo 034 loai 1 kg",
-  },
-  {
-    answer: "23042",
-    question: "S-Bo 034 kg (500g up)",
   },
   {
     answer: "63117",
@@ -25676,28 +18387,8 @@ const data = [
     question: "Canh ga sot thom kg-PKD990",
   },
   {
-    answer: "20688",
-    question: "S-Cam xoan Coop Select kg-RPL",
-  },
-  {
-    answer: "20689",
-    question: "S-Cam sanh Coop Select kg-RPL",
-  },
-  {
     answer: "63120",
     question: "Dau hu chien kg-TD",
-  },
-  {
-    answer: "12003",
-    question: "S-Kiwi vang New Zealand nho kg",
-  },
-  {
-    answer: "22948",
-    question: "S-Tao Ruby Star New Zealand kg",
-  },
-  {
-    answer: "20909",
-    question: "S-Tao bi do New Zealand nho kg",
   },
   {
     answer: "63121",
@@ -25770,10 +18461,6 @@ const data = [
   {
     answer: "63134",
     question: "Ga hap mia kg-PKD990",
-  },
-  {
-    answer: "23124",
-    question: "S-F-Mangcau TN300g up kg-MIAF",
   },
   {
     answer: "63135",
@@ -25970,14 +18657,6 @@ const data = [
   {
     answer: "63266",
     question: "DualuoiHL rcdb CoopSelectkg-PL",
-  },
-  {
-    answer: "19321",
-    question: "S-Tomthe lon song(35-40con/kg)",
-  },
-  {
-    answer: "19658",
-    question: "S-Xa lach mo Coop Select kg",
   },
   {
     answer: "63184",
@@ -26290,178 +18969,6 @@ const data = [
   {
     answer: "63265",
     question: "Duahau k.hat Tet CoopSelect kg",
-  },
-  {
-    answer: "20937",
-    question: "S-Cam sanh Coop Select kg",
-  },
-  {
-    answer: "23100",
-    question: "S-DluoiTL3rcbbCoopSelect kg-VF",
-  },
-  {
-    answer: "22893",
-    question: "S-Buoiduonglacam CoopSelect kg",
-  },
-  {
-    answer: "23137",
-    question: "S-Buoidxanhccanh CoopSelect kg",
-  },
-  {
-    answer: "23117",
-    question: "S-Dua hau do L1 Coop Select kg",
-  },
-  {
-    answer: "23118",
-    question: "S-Duahaudo k.hL1 CoopSelect kg",
-  },
-  {
-    answer: "19652",
-    question: "S-Xa lach Crispi CoopSelect kg",
-  },
-  {
-    answer: "19653",
-    question: "S-XalachCristcanhCoopSelect kg",
-  },
-  {
-    answer: "19654",
-    question: "S-Xalach Iceberg CoopSelect kg",
-  },
-  {
-    answer: "19655",
-    question: "S-XalachIcethcanhCoopSelect kg",
-  },
-  {
-    answer: "19656",
-    question: "S-Xalach lolotim CoopSelect kg",
-  },
-  {
-    answer: "19657",
-    question: "S-Xalachlolotimtc CoopSelectkg",
-  },
-  {
-    answer: "19659",
-    question: "S-Xalachmothcanh CoopSelect kg",
-  },
-  {
-    answer: "19660",
-    question: "S-Xalach romaine CoopSelect kg",
-  },
-  {
-    answer: "19661",
-    question: "S-Xalach romaintcCoopSelect kg",
-  },
-  {
-    answer: "22788",
-    question: "S-MangcauTayNinh CoopSelect kg",
-  },
-  {
-    answer: "21972",
-    question: "S-Dualuoi DMrcCoopSelect kg-PL",
-  },
-  {
-    answer: "23266",
-    question: "S-DluoiHL rcdbCoopSelect kg-PL",
-  },
-  {
-    answer: "20800",
-    question: "S-Cai thao Coop Select kg-V.F",
-  },
-  {
-    answer: "20801",
-    question: "S-Bapcaitr.timCoopSelectkg-V.F",
-  },
-  {
-    answer: "22959",
-    question: "S-Caithaohoatien CoopSelect kg",
-  },
-  {
-    answer: "20802",
-    question: "S-Bapcai tim CoopSelect kg-V.F",
-  },
-  {
-    answer: "20805",
-    question: "S-Can tay Coop Select kg-V.F",
-  },
-  {
-    answer: "20806",
-    question: "S-CaixoankaleCoopSelect kg-V.F",
-  },
-  {
-    answer: "20807",
-    question: "S-Dualeobaby CoopSelect kg-V.F",
-  },
-  {
-    answer: "20808",
-    question: "S-KhoaitayvangCoopSelectkg-V.F",
-  },
-  {
-    answer: "20809",
-    question: "S-KhoaitayhongCoopSelectkg-V.F",
-  },
-  {
-    answer: "20811",
-    question: "S-Bingoixanh CoopSelect kg-V.F",
-  },
-  {
-    answer: "20814",
-    question: "S-Cachua beef CoopSelectkg-V.F",
-  },
-  {
-    answer: "22939",
-    question: "S-Bau Coop Select kg",
-  },
-  {
-    answer: "22940",
-    question: "S-Bi dao Coop Select kg",
-  },
-  {
-    answer: "22941",
-    question: "S-Muop huong Coop Select kg",
-  },
-  {
-    answer: "22942",
-    question: "S-Kho qua Coop Select kg",
-  },
-  {
-    answer: "22943",
-    question: "S-Dua leo Coop Select kg",
-  },
-  {
-    answer: "21001",
-    question: "S-Su su Coop Select kg-TNX",
-  },
-  {
-    answer: "22252",
-    question: "S-Bapcaitrang CoopSelectkg-TNX",
-  },
-  {
-    answer: "22253",
-    question: "S-Bi giongMy CoopSelect kg-TNX",
-  },
-  {
-    answer: "22933",
-    question: "S-Cu hanhtay CoopSelect kg-TNX",
-  },
-  {
-    answer: "22934",
-    question: "S-Kh.tayhong CoopSelect kg-TNX",
-  },
-  {
-    answer: "22250",
-    question: "S-Kh.lang CoopSelect tuikg-TNX",
-  },
-  {
-    answer: "22251",
-    question: "S-Kh.langmatCoopSelecttuikgTNX",
-  },
-  {
-    answer: "23237",
-    question: "S-Bingoixanh CoopSelect kg-TNX",
-  },
-  {
-    answer: "23238",
-    question: "S-Xalachlolo CoopSelect kg-TNX",
   },
   {
     answer: "63267",
